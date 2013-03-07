@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8'?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+<Feature>
+  <Name className="java.lang.String">MimeType</Name>
+  <Value className="java.lang.String">text/plain</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">gate.SourceURL</Name>
+  <Value className="java.lang.String">file:/C:/Users/Рокса/Desktop/весняний%20семестер/Романюк/VIDGUKY/Oleniuk_08_Dzvinkalviv_09.11.2011.txt</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">docNewLineType</Name>
+  <Value className="java.lang.String">CRLF</Value>
+</Feature>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0" />Dzvinkalviv<Node id="11" />&#xd;
+<Node id="13" />09.11.2011<Node id="23" />, 18:38&#xd;
+Цитата:&#xd;
+прикольний туалет&#xd;
+<Node id="60" />&#xd;
+<Node id="62" />о, то особливо, так цікаво почитати))) дуже смачно і затишно<Node id="122" /></TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+<Annotation Id="2" Type="person" StartNode="0" EndNode="11">
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">nickname</Value>
+</Feature>
+</Annotation>
+<Annotation Id="3" Type="time" StartNode="13" EndNode="23">
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">date</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Original markups">
+<Annotation Id="0" Type="paragraph" StartNode="0" EndNode="60">
+</Annotation>
+<Annotation Id="1" Type="paragraph" StartNode="62" EndNode="122">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>
