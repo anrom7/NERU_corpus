@@ -4,12 +4,12 @@
 
 <GateDocumentFeatures>
 <Feature>
-  <Name className="java.lang.String">gate.SourceURL</Name>
-  <Value className="java.lang.String">file:/D:/Мої%20документи/Romanyuk_2_semestr/tkachuk_RGR_2/tkachuk_07_nezabudka_23102011.txt</Value>
-</Feature>
-<Feature>
   <Name className="java.lang.String">MimeType</Name>
   <Value className="java.lang.String">text/plain</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">gate.SourceURL</Name>
+  <Value className="java.lang.String">file:/D:/Мої%20документи/Romanyuk_2_semestr/tkachuk_RGR_2/tkachuk_07_nezabudka_23102011.txt</Value>
 </Feature>
 <Feature>
   <Name className="java.lang.String">docNewLineType</Name>
@@ -28,6 +28,12 @@
 <AnnotationSet>
 <Annotation Id="17" Type="token" StartNode="48" EndNode="55">
 </Annotation>
+<Annotation Id="1" Type="person" StartNode="0" EndNode="10">
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">nickname</Value>
+</Feature>
+</Annotation>
 <Annotation Id="16" Type="token" StartNode="58" EndNode="59">
 <Feature>
   <Name className="java.lang.String">morphology</Name>
@@ -42,12 +48,6 @@
   <Value className="java.lang.String">Y</Value>
 </Feature>
 </Annotation>
-<Annotation Id="1" Type="person" StartNode="0" EndNode="10">
-<Feature>
-  <Name className="java.lang.String">kind</Name>
-  <Value className="java.lang.String">nickname</Value>
-</Feature>
-</Annotation>
 <Annotation Id="2" Type="time" StartNode="11" EndNode="21">
 <Feature>
   <Name className="java.lang.String">kind</Name>
@@ -55,6 +55,34 @@
 </Feature>
 </Annotation>
 <Annotation Id="3" Type="time" StartNode="23" EndNode="28">
+</Annotation>
+<Annotation Id="23" Type="token" StartNode="38" EndNode="46">
+<Feature>
+  <Name className="java.lang.String">morphology</Name>
+  <Value className="java.lang.String">R</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">lemma</Name>
+  <Value className="java.lang.String">сьогодні</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">pos</Name>
+  <Value className="java.lang.String">R</Value>
+</Feature>
+</Annotation>
+<Annotation Id="24" Type="token" StartNode="73" EndNode="78">
+<Feature>
+  <Name className="java.lang.String">morphology</Name>
+  <Value className="java.lang.String">R</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">lemma</Name>
+  <Value className="java.lang.String">вчора</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">pos</Name>
+  <Value className="java.lang.String">R</Value>
+</Feature>
 </Annotation>
 </AnnotationSet>
 
