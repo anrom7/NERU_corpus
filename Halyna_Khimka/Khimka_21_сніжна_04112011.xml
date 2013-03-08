@@ -1,0 +1,86 @@
+<?xml version='1.0' encoding='utf-8'?>
+<GateDocument version="2">
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+<Feature>
+  <Name className="java.lang.String">MimeType</Name>
+  <Value className="java.lang.String">text/plain</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">gate.SourceURL</Name>
+  <Value className="java.lang.String">file:/C:/Users/HOME/Documents/GitHub/NERU_corpus/Halyna_Khimka/Khimka_21_сніжна_04.11.2011.txt</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">docNewLineType</Name>
+  <Value className="java.lang.String">CRLF</Value>
+</Feature>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>сніжна<Node id="6"/>&#xd;
+<Node id="8"/>04.11.2011<Node id="18"/>, <Node id="20"/>11:51<Node id="25"/>&#xd;
+епер всі танцюють на столах,роблять шо хочуть&#xd;
+не ображайтеся, але така концепція цього закладу. Про це відомо усім. Тому цей заклад має своїх "поціновувачів", які шукають саме таких розваг. І це теж має право на існування. Просто ті відвідувачі ресторанних закладів, які не готові до таких "розваг", просто туди не ходять. От і все. &#xd;
+п.с. це мені нагадало одну мою знайому, яка висловлювала бурне невдоволення тим "б..ом", яке процвітає у <Node id="468"/>"<Node id="469"/>Старгороді<Node id="479"/>"<Node id="480"/>, а потім казала, що все рівно туди ще піде. Так що все просто: даний заклад не приховує своєї "політики", яка має попит у певної категорії відвідувачів ( до речі, там помічала і знайомих- таких поважних "отців- дружин сімейств"). Про це відомо. Тому або туди не йдуть або йдуть і знають на що йдуть.<Node id="780"/></TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+<Annotation Id="1" Type="person" StartNode="0" EndNode="6">
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">nickname</Value>
+</Feature>
+</Annotation>
+<Annotation Id="2" Type="token" StartNode="0" EndNode="6">
+<Feature>
+  <Name className="java.lang.String">morphology</Name>
+  <Value className="java.lang.String">Npfsny</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">lemma</Name>
+  <Value className="java.lang.String">Сніжна</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">pos</Name>
+  <Value className="java.lang.String">N</Value>
+</Feature>
+</Annotation>
+<Annotation Id="3" Type="time" StartNode="8" EndNode="18">
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">date</Value>
+</Feature>
+</Annotation>
+<Annotation Id="4" Type="time" StartNode="20" EndNode="25">
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">time</Value>
+</Feature>
+</Annotation>
+<Annotation Id="5" Type="organization" StartNode="468" EndNode="480">
+</Annotation>
+<Annotation Id="6" Type="token" StartNode="469" EndNode="479">
+<Feature>
+  <Name className="java.lang.String">morphology</Name>
+  <Value className="java.lang.String">Npmsln</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">lemma</Name>
+  <Value className="java.lang.String">Старгород</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">pos</Name>
+  <Value className="java.lang.String">N</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Original markups">
+<Annotation Id="0" Type="paragraph" StartNode="0" EndNode="780">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

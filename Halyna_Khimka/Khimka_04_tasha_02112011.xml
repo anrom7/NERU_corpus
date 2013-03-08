@@ -4,12 +4,12 @@
 
 <GateDocumentFeatures>
 <Feature>
-  <Name className="java.lang.String">MimeType</Name>
-  <Value className="java.lang.String">text/plain</Value>
-</Feature>
-<Feature>
   <Name className="java.lang.String">gate.SourceURL</Name>
   <Value className="java.lang.String">file:/F:/розрахункова%20робота/Khimka_04_tasha_02.11.2011.txt</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">MimeType</Name>
+  <Value className="java.lang.String">text/plain</Value>
 </Feature>
 <Feature>
   <Name className="java.lang.String">docNewLineType</Name>
@@ -7288,6 +7288,26 @@
 <Feature>
   <Name className="java.lang.String">kind</Name>
   <Value className="java.lang.String">time</Value>
+</Feature>
+</Annotation>
+<Annotation Id="552" Type="time" StartNode="26" EndNode="30">
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">date</Value>
+</Feature>
+</Annotation>
+<Annotation Id="553" Type="token" StartNode="26" EndNode="30">
+<Feature>
+  <Name className="java.lang.String">morphology</Name>
+  <Value className="java.lang.String">R-</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">lemma</Name>
+  <Value className="java.lang.String">нині</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">pos</Name>
+  <Value className="java.lang.String">R</Value>
 </Feature>
 </Annotation>
 <Annotation Id="516" Type="food" StartNode="454" EndNode="460">
