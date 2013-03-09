@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='utf-8'?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+<Feature>
+  <Name className="java.lang.String">gate.SourceURL</Name>
+  <Value className="java.lang.String">file:/D:/Documents%20and%20Settings/Admin/Рабочий%20стол/відгуки/klantsak_21_Bonita_23.06.2011</Value>
+</Feature>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0" />Bonita&#xd;<Node id="7" />
+<Node id="8" />23.06.2011<Node id="18" />, <Node id="20" />12:38&#xd;<Node id="26" />
+хто там був? Як враження?&#xd;
+Я вже писала свої враження, але повторюся. Гарний інтер'єр, обслуговування на високому рівні, кухня смачна, порції великі, а їхнє <Node id="184" />тірамісу<Node id="192" /> божественне (такого смачного я більше ніде не їла) ціни досить високі, хоча це залежить, що брати. Багато хто каже, що який туалет така і кухня, то він там чистий, без специфічних запахів і модний:girl_smile:. Одним словом мені сподобалося, завжди з задоволенням відвідую цей заклад.</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+<Annotation Id="0" Type="person" StartNode="0" EndNode="7">
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">nickname</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1" Type="time" StartNode="8" EndNode="18">
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">date</Value>
+</Feature>
+</Annotation>
+<Annotation Id="2" Type="time" StartNode="20" EndNode="26">
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">time</Value>
+</Feature>
+</Annotation>
+<Annotation Id="3" Type="food" StartNode="184" EndNode="192">
+</Annotation>
+<Annotation Id="4" Type="token" StartNode="184" EndNode="192">
+<Feature>
+  <Name className="java.lang.String">morphology</Name>
+  <Value className="java.lang.String">Npnsnn</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">lemma</Name>
+  <Value className="java.lang.String">тірамісу</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">pos</Name>
+  <Value className="java.lang.String">N</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>
