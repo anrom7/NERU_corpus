@@ -1,0 +1,11 @@
+
+<?xml version="1.0" encoding="UTF-8"?>
+-<GateDocument version="2"> 
+<!-- The document's features-->
+ -<GateDocumentFeatures> -<Feature> <Name className="java.lang.String">MimeType</Name> <Value className="java.lang.String">text/plain</Value> </Feature> -<Feature> <Name className="java.lang.String">gate.SourceURL</Name> <Value className="java.lang.String">file:/D:/EDUCATION/5%20КУРС/2%20СЕМЕСТР/Комп%20лінгвістика/РОЗРАХА/розрахи%20філолог/Zakala/txt%20files/Zakala_15_Monopoliya.txt</Value> </Feature> -<Feature> <Name className="java.lang.String">docNewLineType</Name> <Value className="java.lang.String">CRLF</Value> </Feature> </GateDocumentFeatures>
+ <!-- The document content area with serialized nodes -->
+ -<TextWithNodes><Node id="0"/>Monopoliya <Node id="11"/> <Node id="12"/>29.09.2011<Node id="22"/>, <Node id="24"/>19:46 <Node id="30"/> там столики тільки на вулиці зовсім ні. всередині є столики, правда, їх небагато. там є 2 маленькі зали (кімнатки) у дуже затишному стилі. І шкіряне крісло теж є :)<Node id="196"/></TextWithNodes>
+ <!-- The default annotation set -->
+ -<AnnotationSet> -<Annotation EndNode="11" StartNode="0" Type="person" Id="1"> -<Feature> <Name className="java.lang.String">kind</Name> <Value className="java.lang.String">nickname</Value> </Feature> </Annotation> -<Annotation EndNode="22" StartNode="12" Type="time" Id="2"> -<Feature> <Name className="java.lang.String">kind</Name> <Value className="java.lang.String">date</Value> </Feature> </Annotation> -<Annotation EndNode="30" StartNode="24" Type="time" Id="3"> -<Feature> <Name className="java.lang.String">kind</Name> <Value className="java.lang.String">time</Value> </Feature> </Annotation> </AnnotationSet>
+ <!-- Named annotation set -->
+ -<AnnotationSet Name="Original markups"> <Annotation EndNode="196" StartNode="0" Type="paragraph" Id="0"> </Annotation> </AnnotationSet> </GateDocument>
