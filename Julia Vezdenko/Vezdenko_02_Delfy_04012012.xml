@@ -9,7 +9,7 @@
 </Feature>
 <Feature>
   <Name className="java.lang.String">gate.SourceURL</Name>
-  <Value className="java.lang.String">file:/C:/Users/Бустка/Desktop/відгуки/v19.txt</Value>
+  <Value className="java.lang.String">file:/C:/Users/Бустка/Desktop/відгуки%20юлі/v2.txt</Value>
 </Feature>
 <Feature>
   <Name className="java.lang.String">docNewLineType</Name>
@@ -18,23 +18,21 @@
 </GateDocumentFeatures>
 <!-- The document content area with serialized nodes -->
 
-<TextWithNodes><Node id="0" />Грильяжка&#xd;<Node id="10" />
-<Node id="11" />06.10.2011<Node id="21" />, <Node id="23" />20:52&#xd;<Node id="29" />
-Цитата:&#xd;
-<Node id="39" />сирник<Node id="45" /> з <Node id="48" />фруктами<Node id="56" />&#xd;
-<Node id="58" />&#xd;
-<Node id="60" />я його і їла няма<Node id="77" /></TextWithNodes>
+<TextWithNodes><Node id="0" />Delfy&#xd;<Node id="6" />
+<Node id="7" />04.01.2012<Node id="17" />, <Node id="19" />09:42<Node id="24" />&#xd;
+в 250 грн на людину вклалася&#xd;
+дивно.... ми як шукали зал теж цікавились <Node id="98" />Шекспіром<Node id="107" />, але місця там - на 80 - максимум 100 людей, то вони казали, що вартість 40 000 грн/весілля. Не зважаючи на те, 50 чи 100 людей запросите.. з <Node id="250" />алкоголем<Node id="259" /> не пам*ятаю. Ніби якась частина їхня, решту - своє.<Node id="311" /></TextWithNodes>
 <!-- The default annotation set -->
 
 <AnnotationSet>
-<Annotation Id="2" Type="token" StartNode="0" EndNode="10">
+<Annotation Id="1" Type="token" StartNode="0" EndNode="6">
 <Feature>
   <Name className="java.lang.String">morphology</Name>
   <Value className="java.lang.String">Npfsny</Value>
 </Feature>
 <Feature>
   <Name className="java.lang.String">lemma</Name>
-  <Value className="java.lang.String">Грильяжка</Value>
+  <Value className="java.lang.String">Delfy</Value>
 </Feature>
 <Feature>
   <Name className="java.lang.String">kind</Name>
@@ -45,26 +43,26 @@
   <Value className="java.lang.String">N</Value>
 </Feature>
 </Annotation>
-<Annotation Id="3" Type="time" StartNode="23" EndNode="29">
+<Annotation Id="2" Type="time" StartNode="19" EndNode="24">
 <Feature>
   <Name className="java.lang.String">kind</Name>
   <Value className="java.lang.String">time</Value>
 </Feature>
 </Annotation>
-<Annotation Id="4" Type="time" StartNode="11" EndNode="21">
+<Annotation Id="3" Type="time" StartNode="7" EndNode="17">
 <Feature>
   <Name className="java.lang.String">kind</Name>
   <Value className="java.lang.String">date</Value>
 </Feature>
 </Annotation>
-<Annotation Id="5" Type="token" StartNode="39" EndNode="45">
+<Annotation Id="4" Type="token" StartNode="98" EndNode="107">
 <Feature>
   <Name className="java.lang.String">morphology</Name>
-  <Value className="java.lang.String">Ncmsnn</Value>
+  <Value className="java.lang.String">Npmsin</Value>
 </Feature>
 <Feature>
   <Name className="java.lang.String">lemma</Name>
-  <Value className="java.lang.String">сирник</Value>
+  <Value className="java.lang.String">Шекпіром</Value>
 </Feature>
 <Feature>
   <Name className="java.lang.String">pos</Name>
@@ -76,18 +74,16 @@
 <!-- Named annotation set -->
 
 <AnnotationSet Name="Original markups">
-<Annotation Id="0" Type="paragraph" StartNode="0" EndNode="58">
+<Annotation Id="0" Type="paragraph" StartNode="0" EndNode="311">
 </Annotation>
-<Annotation Id="1" Type="paragraph" StartNode="60" EndNode="77">
-</Annotation>
-<Annotation Id="6" Type="token" StartNode="48" EndNode="56">
+<Annotation Id="5" Type="token" StartNode="250" EndNode="259">
 <Feature>
   <Name className="java.lang.String">morphology</Name>
-  <Value className="java.lang.String">Ncmpin</Value>
+  <Value className="java.lang.String">Ncm-in</Value>
 </Feature>
 <Feature>
   <Name className="java.lang.String">lemma</Name>
-  <Value className="java.lang.String">фруктами</Value>
+  <Value className="java.lang.String">алкоголем</Value>
 </Feature>
 <Feature>
   <Name className="java.lang.String">pos</Name>

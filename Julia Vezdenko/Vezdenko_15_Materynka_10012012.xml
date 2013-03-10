@@ -9,7 +9,7 @@
 </Feature>
 <Feature>
   <Name className="java.lang.String">gate.SourceURL</Name>
-  <Value className="java.lang.String">file:/C:/Users/Бустка/Desktop/відгуки/v6.txt</Value>
+  <Value className="java.lang.String">file:/C:/Users/Бустка/Desktop/відгуки%20юлі/v15.txt</Value>
 </Feature>
 <Feature>
   <Name className="java.lang.String">docNewLineType</Name>
@@ -18,23 +18,21 @@
 </GateDocumentFeatures>
 <!-- The document content area with serialized nodes -->
 
-<TextWithNodes><Node id="0" />nalia&#xd;<Node id="6" />
-<Node id="7" />05.10.2011<Node id="17" />, <Node id="19" />23:26&#xd;<Node id="25" />
-Цитата:&#xd;
-"<Node id="36" />Тарон<Node id="41" />",&#xd;
-<Node id="45" />&#xd;
-<Node id="47" />Також подобається цей <Node id="69" />заклад<Node id="75" />.<Node id="76" /></TextWithNodes>
+<TextWithNodes><Node id="0" />Materynka<Node id="9" />&#xd;
+<Node id="11" />10.01.2012<Node id="21" />, <Node id="23" />10:29<Node id="28" />&#xd;
+<Node id="30" />6%<Node id="32" /> за обслуговування&#xd;
+Оті % я взагалі щось не розумію. Біля <Node id="90" />ДЦ<Node id="92" /> в центрі є <Node id="104" />піцерія<Node id="111" /> <Node id="112" />Радомир<Node id="119" />, там теж ті % за обслуговування доплюсовують. То я в них запитала, якщо я сама забираю з прилавку замовлення, то буде без %? Відповідь була Ні, всеодно доведеться платити більше. :girl_impossible:<Node id="316" /></TextWithNodes>
 <!-- The default annotation set -->
 
 <AnnotationSet>
-<Annotation Id="2" Type="token" StartNode="0" EndNode="6">
+<Annotation Id="1" Type="token" StartNode="0" EndNode="9">
 <Feature>
   <Name className="java.lang.String">morphology</Name>
   <Value className="java.lang.String">Npfsny</Value>
 </Feature>
 <Feature>
   <Name className="java.lang.String">lemma</Name>
-  <Value className="java.lang.String">nalia</Value>
+  <Value className="java.lang.String">Materynka</Value>
 </Feature>
 <Feature>
   <Name className="java.lang.String">kind</Name>
@@ -45,26 +43,28 @@
   <Value className="java.lang.String">N</Value>
 </Feature>
 </Annotation>
-<Annotation Id="3" Type="time" StartNode="19" EndNode="25">
+<Annotation Id="2" Type="time" StartNode="23" EndNode="28">
 <Feature>
   <Name className="java.lang.String">kind</Name>
   <Value className="java.lang.String">time</Value>
 </Feature>
 </Annotation>
-<Annotation Id="4" Type="time" StartNode="7" EndNode="17">
+<Annotation Id="3" Type="time" StartNode="11" EndNode="21">
 <Feature>
   <Name className="java.lang.String">kind</Name>
   <Value className="java.lang.String">date</Value>
 </Feature>
 </Annotation>
-<Annotation Id="5" Type="token" StartNode="36" EndNode="41">
+<Annotation Id="4" Type="percent" StartNode="30" EndNode="32">
+</Annotation>
+<Annotation Id="6" Type="token" StartNode="90" EndNode="92">
 <Feature>
   <Name className="java.lang.String">morphology</Name>
   <Value className="java.lang.String">Npmsnn</Value>
 </Feature>
 <Feature>
   <Name className="java.lang.String">lemma</Name>
-  <Value className="java.lang.String">Тарон</Value>
+  <Value className="java.lang.String">ДЦ</Value>
 </Feature>
 <Feature>
   <Name className="java.lang.String">pos</Name>
@@ -76,18 +76,30 @@
 <!-- Named annotation set -->
 
 <AnnotationSet Name="Original markups">
-<Annotation Id="0" Type="paragraph" StartNode="0" EndNode="45">
+<Annotation Id="0" Type="paragraph" StartNode="0" EndNode="316">
 </Annotation>
-<Annotation Id="1" Type="paragraph" StartNode="47" EndNode="76">
-</Annotation>
-<Annotation Id="6" Type="token" StartNode="69" EndNode="75">
+<Annotation Id="7" Type="token" StartNode="104" EndNode="111">
 <Feature>
   <Name className="java.lang.String">morphology</Name>
-  <Value className="java.lang.String">Ncmsnn</Value>
+  <Value className="java.lang.String">Ncfsnn</Value>
 </Feature>
 <Feature>
   <Name className="java.lang.String">lemma</Name>
-  <Value className="java.lang.String">заклад</Value>
+  <Value className="java.lang.String">піцерія</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">pos</Name>
+  <Value className="java.lang.String">N</Value>
+</Feature>
+</Annotation>
+<Annotation Id="8" Type="token" StartNode="112" EndNode="119">
+<Feature>
+  <Name className="java.lang.String">morphology</Name>
+  <Value className="java.lang.String">Npmsnn</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">lemma</Name>
+  <Value className="java.lang.String">Радомир</Value>
 </Feature>
 <Feature>
   <Name className="java.lang.String">pos</Name>

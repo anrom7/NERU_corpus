@@ -9,7 +9,7 @@
 </Feature>
 <Feature>
   <Name className="java.lang.String">gate.SourceURL</Name>
-  <Value className="java.lang.String">file:/C:/Users/Бустка/Desktop/відгуки/v5.txt</Value>
+  <Value className="java.lang.String">file:/C:/Users/Бустка/Desktop/відгуки%20юлі/v11.txt</Value>
 </Feature>
 <Feature>
   <Name className="java.lang.String">docNewLineType</Name>
@@ -18,20 +18,21 @@
 </GateDocumentFeatures>
 <!-- The document content area with serialized nodes -->
 
-<TextWithNodes><Node id="0" />Тетянка<Node id="7" />&#xd;
-<Node id="9" />05.10.2011<Node id="19" />, <Node id="21" />23:23&#xd;<Node id="27" />
-"<Node id="29" />Тарон<Node id="34" />", національні грузинські й вірменські страви та стильний інтер’єр, сподобалась жива музика, обслуговування просто відмінне.<Node id="158" /></TextWithNodes>
+<TextWithNodes><Node id="0" />Грильяжка&#xd;<Node id="10" />
+<Node id="11" />04.01.2012<Node id="21" />, <Node id="23" />21:28&#xd;<Node id="29" />
+сьогодні була в <Node id="46" />копальні <Node id="55" />кави<Node id="59" />&#xd;
+а де це? цікава місцинка хотіла б глянути<Node id="102" /></TextWithNodes>
 <!-- The default annotation set -->
 
 <AnnotationSet>
-<Annotation Id="1" Type="token" StartNode="0" EndNode="7">
+<Annotation Id="1" Type="token" StartNode="0" EndNode="10">
 <Feature>
   <Name className="java.lang.String">morphology</Name>
   <Value className="java.lang.String">Npfsny</Value>
 </Feature>
 <Feature>
   <Name className="java.lang.String">lemma</Name>
-  <Value className="java.lang.String">Тетянка</Value>
+  <Value className="java.lang.String">Грильяжка</Value>
 </Feature>
 <Feature>
   <Name className="java.lang.String">kind</Name>
@@ -42,26 +43,26 @@
   <Value className="java.lang.String">N</Value>
 </Feature>
 </Annotation>
-<Annotation Id="2" Type="time" StartNode="21" EndNode="27">
+<Annotation Id="2" Type="time" StartNode="23" EndNode="29">
 <Feature>
   <Name className="java.lang.String">kind</Name>
   <Value className="java.lang.String">time</Value>
 </Feature>
 </Annotation>
-<Annotation Id="3" Type="time" StartNode="9" EndNode="19">
+<Annotation Id="3" Type="time" StartNode="11" EndNode="21">
 <Feature>
   <Name className="java.lang.String">kind</Name>
   <Value className="java.lang.String">date</Value>
 </Feature>
 </Annotation>
-<Annotation Id="4" Type="token" StartNode="29" EndNode="34">
+<Annotation Id="4" Type="token" StartNode="46" EndNode="59">
 <Feature>
   <Name className="java.lang.String">morphology</Name>
-  <Value className="java.lang.String">Npmsnn</Value>
+  <Value className="java.lang.String">Npfsln</Value>
 </Feature>
 <Feature>
   <Name className="java.lang.String">lemma</Name>
-  <Value className="java.lang.String">Тарон</Value>
+  <Value className="java.lang.String">копальні</Value>
 </Feature>
 <Feature>
   <Name className="java.lang.String">pos</Name>
@@ -73,7 +74,21 @@
 <!-- Named annotation set -->
 
 <AnnotationSet Name="Original markups">
-<Annotation Id="0" Type="paragraph" StartNode="0" EndNode="158">
+<Annotation Id="0" Type="paragraph" StartNode="0" EndNode="102">
+</Annotation>
+<Annotation Id="5" Type="token" StartNode="55" EndNode="59">
+<Feature>
+  <Name className="java.lang.String">morphology</Name>
+  <Value className="java.lang.String">Npfsgn</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">lemma</Name>
+  <Value className="java.lang.String">кави</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">pos</Name>
+  <Value className="java.lang.String">N</Value>
+</Feature>
 </Annotation>
 </AnnotationSet>
 
