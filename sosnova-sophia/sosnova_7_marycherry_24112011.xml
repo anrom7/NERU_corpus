@@ -1,0 +1,338 @@
+<?xml version='1.0' encoding='utf-8'?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+<Feature>
+  <Name className="java.lang.String">MimeType</Name>
+  <Value className="java.lang.String">text/plain</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">gate.SourceURL</Name>
+  <Value className="java.lang.String">file:/C:/відгуки/new%20%207.txt</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">docNewLineType</Name>
+  <Value className="java.lang.String">CRLF</Value>
+</Feature>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0" />marycherry&#xd;<Node id="11" />
+<Node id="12" />24<Node id="14" />.<Node id="15" />11<Node id="17" />.<Node id="18" />2011<Node id="22" />, <Node id="24" />18<Node id="26" />:<Node id="27" />13&#xd;<Node id="30" />
+Люблю там <Node id="41" />шоколадне<Node id="50" /> фондю<Node id="56" /> І я обожнюю в <Node id="71" />Синій<Node id="76" /> <Node id="77" />пляшці<Node id="83" /> <Node id="84" />шоколадне<Node id="93" /> <Node id="94" />фондю<Node id="99" /> і <Node id="102" />морозиво<Node id="110" /> з <Node id="113" />сухофруктами<Node id="125" />, <Node id="127" />горішками<Node id="136" />. А ще з "солодких" місць дуже подобається <Node id="179" />кав'ярня<Node id="187" /> "<Node id="189" />Арсенальська<Node id="201" />"<Node id="202" /> біля <Node id="208" />Арсеналу<Node id="216" />. <Node id="218" />Цукерки<Node id="225" /> <Node id="226" />Стріла<Node id="232" /> <Node id="233" />- просто смакота, смак як в дитинстві - без тої <Node id="281" />пальмової<Node id="290" /> <Node id="291" />олії<Node id="295" />. І <Node id="299" />кава<Node id="303" /> смачна і <Node id="313" />тортики<Node id="320" />. І поїсти там ще можна (<Node id="345" />салати<Node id="351" />, <Node id="353" />м'ясо<Node id="358" />). Ще й вай-фай є&#xd;
+<Node id="377" />&#xd;
+</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+<Annotation Id="337" Type="person" StartNode="0" EndNode="11">
+<Feature>
+  <Name className="java.lang.String">morphology</Name>
+  <Value className="java.lang.String">Npfsny</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">lemma</Name>
+  <Value className="java.lang.String">marycherry</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">nickname</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Original markups">
+<Annotation Id="0" Type="paragraph" StartNode="0" EndNode="377">
+</Annotation>
+<Annotation Id="351" Type="food" StartNode="41" EndNode="56">
+</Annotation>
+<Annotation Id="350" Type="" StartNode="27" EndNode="30">
+<Feature>
+  <Name className="java.lang.String">morphology</Name>
+  <Value className="java.lang.String">Md</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">lemma</Name>
+  <Value className="java.lang.String">13</Value>
+</Feature>
+</Annotation>
+<Annotation Id="349" Type="" StartNode="24" EndNode="26">
+<Feature>
+  <Name className="java.lang.String">morphology</Name>
+  <Value className="java.lang.String">Md</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">lemma</Name>
+  <Value className="java.lang.String">18</Value>
+</Feature>
+</Annotation>
+<Annotation Id="348" Type="time" StartNode="24" EndNode="30">
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">time</Value>
+</Feature>
+</Annotation>
+<Annotation Id="347" Type="" StartNode="18" EndNode="22">
+<Feature>
+  <Name className="java.lang.String">morphology</Name>
+  <Value className="java.lang.String">Md</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">lemma</Name>
+  <Value className="java.lang.String">2011</Value>
+</Feature>
+</Annotation>
+<Annotation Id="346" Type="" StartNode="15" EndNode="17">
+<Feature>
+  <Name className="java.lang.String">morphology</Name>
+  <Value className="java.lang.String">Md</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">lemma</Name>
+  <Value className="java.lang.String">11</Value>
+</Feature>
+</Annotation>
+<Annotation Id="345" Type="" StartNode="12" EndNode="14">
+<Feature>
+  <Name className="java.lang.String">morphology</Name>
+  <Value className="java.lang.String">Md</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">lemma</Name>
+  <Value className="java.lang.String">24</Value>
+</Feature>
+</Annotation>
+<Annotation Id="344" Type="time" StartNode="12" EndNode="22">
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">date</Value>
+</Feature>
+</Annotation>
+<Annotation Id="373" Type="food" StartNode="281" EndNode="295">
+</Annotation>
+<Annotation Id="372" Type="" StartNode="226" EndNode="233">
+<Feature>
+  <Name className="java.lang.String">morphology</Name>
+  <Value className="java.lang.String">Npfsnn</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">lemma</Name>
+  <Value className="java.lang.String">стріла</Value>
+</Feature>
+</Annotation>
+<Annotation Id="375" Type="" StartNode="291" EndNode="295">
+<Feature>
+  <Name className="java.lang.String">morphology</Name>
+  <Value className="java.lang.String">Ncfsgn</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">lemma</Name>
+  <Value className="java.lang.String">олія</Value>
+</Feature>
+</Annotation>
+<Annotation Id="374" Type="" StartNode="281" EndNode="290">
+<Feature>
+  <Name className="java.lang.String">morphology</Name>
+  <Value className="java.lang.String">Ao-fsgf</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">lemma</Name>
+  <Value className="java.lang.String">пальмовий</Value>
+</Feature>
+</Annotation>
+<Annotation Id="369" Type="organization" StartNode="208" EndNode="216">
+<Feature>
+  <Name className="java.lang.String">morphology</Name>
+  <Value className="java.lang.String">Npmsgn</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">lemma</Name>
+  <Value className="java.lang.String">Арсенал</Value>
+</Feature>
+</Annotation>
+<Annotation Id="368" Type="" StartNode="189" EndNode="201">
+<Feature>
+  <Name className="java.lang.String">morphology</Name>
+  <Value className="java.lang.String">Npfsnn</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">lemma</Name>
+  <Value className="java.lang.String">Арсенальська</Value>
+</Feature>
+</Annotation>
+<Annotation Id="371" Type="" StartNode="218" EndNode="225">
+<Feature>
+  <Name className="java.lang.String">morphology</Name>
+  <Value className="java.lang.String">Ncmsnn</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">lemma</Name>
+  <Value className="java.lang.String">цукерок</Value>
+</Feature>
+</Annotation>
+<Annotation Id="370" Type="food" StartNode="218" EndNode="232">
+</Annotation>
+<Annotation Id="377" Type="food" StartNode="313" EndNode="320">
+<Feature>
+  <Name className="java.lang.String">morphology</Name>
+  <Value className="java.lang.String">Ncmpnn</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">lemma</Name>
+  <Value className="java.lang.String">тортик</Value>
+</Feature>
+</Annotation>
+<Annotation Id="376" Type="food" StartNode="299" EndNode="303">
+<Feature>
+  <Name className="java.lang.String">morphology</Name>
+  <Value className="java.lang.String">Ncfsnn</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">lemma</Name>
+  <Value className="java.lang.String">кава</Value>
+</Feature>
+</Annotation>
+<Annotation Id="379" Type="food" StartNode="353" EndNode="358">
+<Feature>
+  <Name className="java.lang.String">morphology</Name>
+  <Value className="java.lang.String">Ncnsnn</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">lemma</Name>
+  <Value className="java.lang.String">м'ясо</Value>
+</Feature>
+</Annotation>
+<Annotation Id="378" Type="food" StartNode="345" EndNode="351">
+<Feature>
+  <Name className="java.lang.String">morphology</Name>
+  <Value className="java.lang.String">Ncmpnn</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">lemma</Name>
+  <Value className="java.lang.String">салат</Value>
+</Feature>
+</Annotation>
+<Annotation Id="356" Type="" StartNode="77" EndNode="83">
+<Feature>
+  <Name className="java.lang.String">morphology</Name>
+  <Value className="java.lang.String">Ncfsln</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">lemma</Name>
+  <Value className="java.lang.String">пляшка</Value>
+</Feature>
+</Annotation>
+<Annotation Id="357" Type="food" StartNode="84" EndNode="99">
+</Annotation>
+<Annotation Id="358" Type="" StartNode="84" EndNode="93">
+<Feature>
+  <Name className="java.lang.String">morphology</Name>
+  <Value className="java.lang.String">Af-fsaf</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">lemma</Name>
+  <Value className="java.lang.String">шоколадний</Value>
+</Feature>
+</Annotation>
+<Annotation Id="359" Type="" StartNode="94" EndNode="99">
+<Feature>
+  <Name className="java.lang.String">morphology</Name>
+  <Value className="java.lang.String">Ncnsan</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">lemma</Name>
+  <Value className="java.lang.String">фондю</Value>
+</Feature>
+</Annotation>
+<Annotation Id="352" Type="" StartNode="41" EndNode="50">
+<Feature>
+  <Name className="java.lang.String">morphology</Name>
+  <Value className="java.lang.String">Ao-nsaf</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">lemma</Name>
+  <Value className="java.lang.String">шоколадний</Value>
+</Feature>
+</Annotation>
+<Annotation Id="353" Type="" StartNode="50" EndNode="56">
+<Feature>
+  <Name className="java.lang.String">morphology</Name>
+  <Value className="java.lang.String">Ncnsan</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">lemma</Name>
+  <Value className="java.lang.String">фондю</Value>
+</Feature>
+</Annotation>
+<Annotation Id="354" Type="organization" StartNode="71" EndNode="83">
+</Annotation>
+<Annotation Id="355" Type="" StartNode="71" EndNode="76">
+<Feature>
+  <Name className="java.lang.String">morphology</Name>
+  <Value className="java.lang.String">Afpfslf</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">lemma</Name>
+  <Value className="java.lang.String">синій</Value>
+</Feature>
+</Annotation>
+<Annotation Id="364" Type="" StartNode="113" EndNode="125">
+<Feature>
+  <Name className="java.lang.String">morphology</Name>
+  <Value className="java.lang.String">Nc-pin</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">lemma</Name>
+  <Value className="java.lang.String">сухофрукти</Value>
+</Feature>
+</Annotation>
+<Annotation Id="365" Type="" StartNode="127" EndNode="136">
+<Feature>
+  <Name className="java.lang.String">morphology</Name>
+  <Value className="java.lang.String">Ncmpin</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">lemma</Name>
+  <Value className="java.lang.String">горішок</Value>
+</Feature>
+</Annotation>
+<Annotation Id="366" Type="organization" StartNode="179" EndNode="202">
+</Annotation>
+<Annotation Id="367" Type="" StartNode="179" EndNode="187">
+<Feature>
+  <Name className="java.lang.String">morphology</Name>
+  <Value className="java.lang.String">Ncfsnn</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">lemma</Name>
+  <Value className="java.lang.String">кав'ярня</Value>
+</Feature>
+</Annotation>
+<Annotation Id="360" Type="food" StartNode="102" EndNode="136">
+</Annotation>
+<Annotation Id="361" Type="" StartNode="102" EndNode="110">
+<Feature>
+  <Name className="java.lang.String">morphology</Name>
+  <Value className="java.lang.String">Ncnsan</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">lemma</Name>
+  <Value className="java.lang.String">морозиво</Value>
+</Feature>
+</Annotation>
+<Annotation Id="362" Type="" StartNode="110" EndNode="113">
+<Feature>
+  <Name className="java.lang.String">morphology</Name>
+  <Value className="java.lang.String">Spsi</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">lemma</Name>
+  <Value className="java.lang.String">з</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>
