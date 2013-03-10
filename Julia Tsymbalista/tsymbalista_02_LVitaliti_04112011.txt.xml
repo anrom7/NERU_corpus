@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='utf-8'?>
+<GateDocument version="2">
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+<Feature>
+  <Name className="java.lang.String">MimeType</Name>
+  <Value className="java.lang.String">text/plain</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">gate.SourceURL</Name>
+  <Value className="java.lang.String">file:/D:/work/5%20kyrs/комп,ютерна%20лінгвістика/2semestr/Romanyuk_2_semestr/rozraxa/tsymbalista_02_LVitaliti_04112011.txt</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">docNewLineType</Name>
+  <Value className="java.lang.String">CRLF</Value>
+</Feature>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>LVitaliti&#xd;<Node id="10"/>
+<Node id="11"/>&#xd;
+<Node id="13"/>04.11.2011<Node id="23"/>, <Node id="25"/>13:01<Node id="30"/>&#xd;
+<Node id="32"/>&#xd;
+<Node id="34"/>Додам і я своїх п'ять... от тільки<Node id="68"/> вчора<Node id="74"/> думала (коли черговий раз бачила цю їхню фіру, що їздить містом), ну скільки ж можна? Вечір, холодно, дівчата закутані, просто сидять, вже навіть нічого не кричать, музика якась трохи перепрошую дурацька, а коні, то взагалі, хіба такі коні для того, щоб стояти в центрі в корках??? Я щось того не розумію! &#xd;
+Стосовно самого закладу нічого не можу сказати, бо не була, але чесно кажучи й бажаня особливого нема, після того цирку....<Node id="506"/></TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+<Annotation Id="3" Type="person" StartNode="0" EndNode="10">
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">nickname</Value>
+</Feature>
+</Annotation>
+<Annotation Id="4" Type="time" StartNode="13" EndNode="23">
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">date</Value>
+</Feature>
+</Annotation>
+<Annotation Id="5" Type="time" StartNode="25" EndNode="30">
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">time</Value>
+</Feature>
+</Annotation>
+<Annotation Id="8" Type="token" StartNode="68" EndNode="74">
+<Feature>
+  <Name className="java.lang.String">morphology</Name>
+  <Value className="java.lang.String">Rp</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">lemma</Name>
+  <Value className="java.lang.String">вчора</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">date</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">pos</Name>
+  <Value className="java.lang.String">R</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Original markups">
+<Annotation Id="0" Type="paragraph" StartNode="0" EndNode="11">
+</Annotation>
+<Annotation Id="1" Type="paragraph" StartNode="13" EndNode="32">
+</Annotation>
+<Annotation Id="2" Type="paragraph" StartNode="34" EndNode="506">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>
