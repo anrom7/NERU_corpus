@@ -20,7 +20,7 @@
 
 <TextWithNodes><Node id="0" />sekretarochka<Node id="13" />&#xd;
 <Node id="15" />05.10.2011<Node id="25" />, <Node id="27" />11:41<Node id="32" />&#xd;
-В неділю були в <Node id="50" />Спліті<Node id="56" /> - ну дуже файно. Обслуговування - вищий клас! Замовляли <Node id="113" />суші<Node id="117" /> - ням-ням( вибір надзвичайно великий, взяли 4 види, то дуже задоволена), широкий спектр <Node id="206" />вин<Node id="209" /> хорошої якості, ну і звичайно <Node id="240" />десерт<Node id="246" /> просто абалдєть. Рекомендую цей заклад. Нас було четверо, то 4 вида <Node id="315" />суші<Node id="319" />, 2 бутилки <Node id="331" />вина<Node id="335" /> і 3 <Node id="340" />десерта<Node id="347" />, итого 800грн. То це того стоїтть, провели чудовий вечір, в прекрасній обстановці, з якісним обслуговуванням і смачнющою їжею, приємна музика і хороше <Node id="499" />вино<Node id="503" />!</TextWithNodes>
+В неділю були в <Node id="50" />Спліті<Node id="56" /> - ну дуже файно. Обслуговування - вищий клас! Замовляли <Node id="113" />суші<Node id="117" /> - ням-ням( вибір надзвичайно великий, взяли 4 види, то дуже задоволена), широкий спектр <Node id="206" />вин<Node id="209" /> хорошої якості, ну і звичайно <Node id="240" />десерт<Node id="246" /> просто абалдєть. Рекомендую цей заклад. Нас було четверо, то 4 вида <Node id="315" />суші<Node id="319" />, 2 бутилки <Node id="331" />вина<Node id="335" /> і 3 <Node id="340" />десерта<Node id="347" />, итого <Node id="355" />800<Node id="358" />грн<Node id="361" />.<Node id="362" /> То це того стоїтть, провели чудовий вечір, в прекрасній обстановці, з якісним обслуговуванням і смачнющою їжею, приємна музика і хороше <Node id="499" />вино<Node id="503" />!</TextWithNodes>
 <!-- The default annotation set -->
 
 <AnnotationSet>
@@ -168,6 +168,36 @@
 <Feature>
   <Name className="java.lang.String">pos</Name>
   <Value className="java.lang.String">N</Value>
+</Feature>
+</Annotation>
+<Annotation Id="27" Type="token" StartNode="355" EndNode="358">
+<Feature>
+  <Name className="java.lang.String">morphology</Name>
+  <Value className="java.lang.String">Md</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">lemma</Name>
+  <Value className="java.lang.String">800</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">pos</Name>
+  <Value className="java.lang.String">M</Value>
+</Feature>
+</Annotation>
+<Annotation Id="26" Type="money" StartNode="355" EndNode="361">
+</Annotation>
+<Annotation Id="28" Type="token" StartNode="358" EndNode="362">
+<Feature>
+  <Name className="java.lang.String">morphology</Name>
+  <Value className="java.lang.String">Y</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">lemma</Name>
+  <Value className="java.lang.String">гривня</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">pos</Name>
+  <Value className="java.lang.String">Y</Value>
 </Feature>
 </Annotation>
 </AnnotationSet>
