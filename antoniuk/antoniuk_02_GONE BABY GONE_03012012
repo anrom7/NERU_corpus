@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='utf-8'?>
+<GateDocument version="2">
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+<Feature>
+  <Name className="java.lang.String">gate.SourceURL</Name>
+  <Value className="java.lang.String">file:/C:/Documents%20and%20Settings/Алекс/Рабочий%20стол/antoniuk_02_GONE%20BABY%20GONE_0301.2012</Value>
+</Feature>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>GONE BABY GONE&#xd;<Node id="15"/>
+<Node id="16"/>03.01.2012<Node id="26"/>,<Node id="27"/> 01:15&#xd;<Node id="34"/>
+<Node id="35"/>Цитадель&#xd;<Node id="44"/>
+не знаю куди написати,але чи ніхто не знає скільки в них коштує місце на людину на бенкет-весілля??</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+<Annotation Id="68" Type="time" StartNode="27" EndNode="34">
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">time</Value>
+</Feature>
+</Annotation>
+<Annotation Id="70" Type="organization" StartNode="35" EndNode="44">
+</Annotation>
+<Annotation Id="71" Type="token" StartNode="35" EndNode="44">
+<Feature>
+  <Name className="java.lang.String">morphology</Name>
+  <Value className="java.lang.String">Npfsnn</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">lemma</Name>
+  <Value className="java.lang.String">Цитадель</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">pos</Name>
+  <Value className="java.lang.String">N</Value>
+</Feature>
+</Annotation>
+<Annotation Id="64" Type="_New_" StartNode="0" EndNode="15">
+</Annotation>
+<Annotation Id="65" Type="person" StartNode="0" EndNode="15">
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">nickname</Value>
+</Feature>
+</Annotation>
+<Annotation Id="72" Type="time" StartNode="16" EndNode="26">
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">date</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>
