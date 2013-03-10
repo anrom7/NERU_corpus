@@ -1,0 +1,161 @@
+<?xml version='1.0' encoding='utf-8'?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+<Feature>
+  <Name className="java.lang.String">AUTHOR</Name>
+  <Value className="java.lang.String">Nedved</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">TIKA_CREATOR</Name>
+  <Value className="java.lang.String">Nedved</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">gate.SourceURL</Name>
+  <Value className="java.lang.String">file:/D:/ФІЛОЛОГІЯ)/5-ий%20курс/2%20семестр/Романюк/IrynaShtanhretРозраха/Відгуки/Shtanhret_16_Virginia_01.01.2012.txt.docx</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">MimeType</Name>
+  <Value className="java.lang.String">application/vnd.openxmlformats-officedocument.wordprocessingml.document</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">CREATOR</Name>
+  <Value className="java.lang.String">Nedved</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">TIKA_AUTHOR</Name>
+  <Value className="java.lang.String">Nedved</Value>
+</Feature>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0" />Virginia<Node id="8" />
+<Node id="9" />01.01.2012<Node id="19" />, <Node id="21" />13:59<Node id="26" />
+<Node id="27" />Може хтось знає, чи працює сьогодні <Node id="63" />Динамо<Node id="69" /> <Node id="70" />Блюз<Node id="74" />?<Node id="75" />
+<Node id="76" /></TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+<Annotation Id="16" Type="token" StartNode="70" EndNode="74">
+<Feature>
+  <Name className="java.lang.String">morphology</Name>
+  <Value className="java.lang.String">X</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">lemma</Name>
+  <Value className="java.lang.String">Блюз</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">pos</Name>
+  <Value className="java.lang.String">X</Value>
+</Feature>
+</Annotation>
+<Annotation Id="11" Type="person" StartNode="0" EndNode="8">
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">nickname</Value>
+</Feature>
+</Annotation>
+<Annotation Id="12" Type="time" StartNode="9" EndNode="19">
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">date</Value>
+</Feature>
+</Annotation>
+<Annotation Id="13" Type="time" StartNode="21" EndNode="26">
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">time</Value>
+</Feature>
+</Annotation>
+<Annotation Id="14" Type="organization" StartNode="63" EndNode="74">
+</Annotation>
+<Annotation Id="15" Type="token" StartNode="63" EndNode="69">
+<Feature>
+  <Name className="java.lang.String">morphology</Name>
+  <Value className="java.lang.String">Npnsnn</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">lemma</Name>
+  <Value className="java.lang.String">Динамо</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">pos</Name>
+  <Value className="java.lang.String">N</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Original markups">
+<Annotation Id="0" Type="html" StartNode="0" EndNode="75">
+</Annotation>
+<Annotation Id="1" Type="head" StartNode="0" EndNode="0">
+<Feature>
+  <Name className="java.lang.String">isEmptyAndSpan</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="2" Type="meta" StartNode="0" EndNode="0">
+<Feature>
+  <Name className="java.lang.String">content</Name>
+  <Value className="java.lang.String">application/vnd.openxmlformats-officedocument.wordprocessingml.document</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">isEmptyAndSpan</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">name</Name>
+  <Value className="java.lang.String">Content-Type</Value>
+</Feature>
+</Annotation>
+<Annotation Id="3" Type="meta" StartNode="0" EndNode="0">
+<Feature>
+  <Name className="java.lang.String">content</Name>
+  <Value className="java.lang.String">Shtanhret_16_Virginia_01.01.2012.txt.docx</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">isEmptyAndSpan</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">name</Name>
+  <Value className="java.lang.String">resourceName</Value>
+</Feature>
+</Annotation>
+<Annotation Id="4" Type="title" StartNode="0" EndNode="0">
+<Feature>
+  <Name className="java.lang.String">isEmptyAndSpan</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="5" Type="body" StartNode="0" EndNode="75">
+</Annotation>
+<Annotation Id="6" Type="p" StartNode="0" EndNode="8">
+</Annotation>
+<Annotation Id="7" Type="p" StartNode="9" EndNode="26">
+</Annotation>
+<Annotation Id="8" Type="p" StartNode="27" EndNode="75">
+</Annotation>
+<Annotation Id="9" Type="p" StartNode="76" EndNode="76">
+<Feature>
+  <Name className="java.lang.String">isEmptyAndSpan</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="10" Type="a" StartNode="76" EndNode="76">
+<Feature>
+  <Name className="java.lang.String">isEmptyAndSpan</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">name</Name>
+  <Value className="java.lang.String">_GoBack</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>
