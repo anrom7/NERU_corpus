@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<GateDocument version="2">
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+<Feature>
+  <Name className="java.lang.String">MimeType</Name>
+  <Value className="java.lang.String">text/plain</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">gate.SourceURL</Name>
+  <Value className="java.lang.String">file:/C:/Documents%20and%20Settings/Алекс/Рабочий%20стол/antoniuk_10_Vероніка_03012012.txt</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">docNewLineType</Name>
+  <Value className="java.lang.String">CRLF</Value>
+</Feature>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>Vероніка&#xd;<Node id="9"/>
+<Node id="10"/>03.01.2012<Node id="20"/>, <Node id="22"/>19:10&#xd;<Node id="28"/>
+Та вони теж ні в чому ніби не відмовляли собі.&#xd;
+Але ж є різниця - <Node id="95"/>250 грн<Node id="102"/>. і <Node id="106"/>300 у.о.<Node id="114"/>, так ?!<Node id="122"/></TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+<Annotation Id="81" Type="money" StartNode="95" EndNode="102">
+</Annotation>
+<Annotation Id="80" Type="time" StartNode="22" EndNode="28">
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">time</Value>
+</Feature>
+</Annotation>
+<Annotation Id="82" Type="money" StartNode="106" EndNode="114">
+</Annotation>
+<Annotation Id="78" Type="person" StartNode="0" EndNode="9">
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">nickname</Value>
+</Feature>
+</Annotation>
+<Annotation Id="79" Type="time" StartNode="10" EndNode="20">
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">date</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Original markups">
+<Annotation Id="0" Type="paragraph" StartNode="0" EndNode="122">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

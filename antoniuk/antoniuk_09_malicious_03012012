@@ -1,0 +1,86 @@
+<?xml version='1.0' encoding='utf-8'?>
+<GateDocument version="2">
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+<Feature>
+  <Name className="java.lang.String">gate.SourceURL</Name>
+  <Value className="java.lang.String">file:/C:/Documents%20and%20Settings/Алекс/Рабочий%20стол/antoniuk_09_malicious_0301.2012</Value>
+</Feature>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>malicious&#xd;<Node id="10"/>
+<Node id="11"/>03.01.2012<Node id="21"/>, <Node id="23"/>19:02&#xd;<Node id="29"/>
+Круто!!! Я в<Node id="42"/> <Node id="43"/>Шекспірі<Node id="51"/> <Node id="52"/>весною, ні в чому не відмовляючи собі, в <Node id="93"/>250 грн<Node id="100"/> на людину вклалася. Це дуже-дуже занадто.&#xd;
+Та вони теж ні в чому ніби не відмовляли собі.Все з ресторану, нічого свого, ні <Node id="224"/>віипивки<Node id="232"/>,<Node id="233"/> ні <Node id="237"/>солодкого<Node id="246"/>.</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+<Annotation Id="119" Type="money" StartNode="93" EndNode="100">
+</Annotation>
+<Annotation Id="118" Type="organization" StartNode="42" EndNode="52">
+</Annotation>
+<Annotation Id="117" Type="time" StartNode="23" EndNode="29">
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">time</Value>
+</Feature>
+</Annotation>
+<Annotation Id="116" Type="time" StartNode="11" EndNode="21">
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">date</Value>
+</Feature>
+</Annotation>
+<Annotation Id="115" Type="person" StartNode="0" EndNode="10">
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">nickname</Value>
+</Feature>
+</Annotation>
+<Annotation Id="124" Type="token" StartNode="237" EndNode="246">
+<Feature>
+  <Name className="java.lang.String">morphology</Name>
+  <Value className="java.lang.String">Ncfsgn</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">lemma</Name>
+  <Value className="java.lang.String">солодке</Value>
+</Feature>
+</Annotation>
+<Annotation Id="123" Type="token" StartNode="224" EndNode="232">
+<Feature>
+  <Name className="java.lang.String">morphology</Name>
+  <Value className="java.lang.String">Ncfsgn</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">lemma</Name>
+  <Value className="java.lang.String">випивка</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">pos</Name>
+  <Value className="java.lang.String">N</Value>
+</Feature>
+</Annotation>
+<Annotation Id="122" Type="token" StartNode="43" EndNode="51">
+<Feature>
+  <Name className="java.lang.String">morphology</Name>
+  <Value className="java.lang.String">Npmsln</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">lemma</Name>
+  <Value className="java.lang.String">Шекспір</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">pos</Name>
+  <Value className="java.lang.String">N</Value>
+</Feature>
+</Annotation>
+<Annotation Id="121" Type="food" StartNode="237" EndNode="246">
+</Annotation>
+<Annotation Id="120" Type="food" StartNode="224" EndNode="233">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>
