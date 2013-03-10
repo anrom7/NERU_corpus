@@ -1,0 +1,170 @@
+<?xml version='1.0' encoding='utf-8'?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+<Feature>
+  <Name className="java.lang.String">MimeType</Name>
+  <Value className="java.lang.String">text/plain</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">gate.SourceURL</Name>
+  <Value className="java.lang.String">file:/D:/study/5%20курс/Романюк/вхідні%20дані/kushniruk_05_bambook_05102011.txt</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">docNewLineType</Name>
+  <Value className="java.lang.String">CRLF</Value>
+</Feature>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0" />Bambook<Node id="7" />&#xd;
+<Node id="9" />05.10.2011<Node id="19" />, <Node id="21" />15:35&#xd;<Node id="27" />
+Кілька разів там бувала. Кухня та <Node id="62" />пиво<Node id="66" /> справді на висоті. Єдиний мінус - мале приміщення і велика кількість людей. Тому в плані інтерєру більше подбається <Node id="183" />Старгород<Node id="192" />. Але знову ж таки <Node id="211" />пиво<Node id="215" /> в них не настільки смачне, та й гольонка їхня відрізняється від кумпелівської.&#xd;
+От якби обєднати приміщення <Node id="324" />Старгорода<Node id="334" /> та кухню <Node id="344" />Кумпеля<Node id="351" /> - був би ідеальний варіант для мене.&#xd;
+Сподіваюся, ви маєте на увазі не інтерєр, а саме розмір приміщення.&#xd;
+Бо інтерєр <Node id="470" />Старгорода<Node id="480" /> - це ще те страхіття :)&#xd;
+А в <Node id="510" />Кумпелі<Node id="517" /> доволі гарно все оформлено, хоч і без зайвих деталей...<Node id="573" /></TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+<Annotation Id="1" Type="person" StartNode="0" EndNode="7">
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">nickname</Value>
+</Feature>
+</Annotation>
+<Annotation Id="2" Type="time" StartNode="9" EndNode="19">
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">date</Value>
+</Feature>
+</Annotation>
+<Annotation Id="3" Type="time" StartNode="21" EndNode="27">
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">time</Value>
+</Feature>
+</Annotation>
+<Annotation Id="4" Type="food" StartNode="62" EndNode="66">
+</Annotation>
+<Annotation Id="5" Type="token" StartNode="62" EndNode="66">
+<Feature>
+  <Name className="java.lang.String">morphology</Name>
+  <Value className="java.lang.String">Ncnsnn</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">lemma</Name>
+  <Value className="java.lang.String">пиво</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">pos</Name>
+  <Value className="java.lang.String">N</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6" Type="organization" StartNode="183" EndNode="192">
+</Annotation>
+<Annotation Id="7" Type="token" StartNode="183" EndNode="192">
+<Feature>
+  <Name className="java.lang.String">morphology</Name>
+  <Value className="java.lang.String">Npmsnn</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">lemma</Name>
+  <Value className="java.lang.String">Старгород</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">pos</Name>
+  <Value className="java.lang.String">N</Value>
+</Feature>
+</Annotation>
+<Annotation Id="8" Type="food" StartNode="211" EndNode="215">
+</Annotation>
+<Annotation Id="9" Type="token" StartNode="211" EndNode="215">
+<Feature>
+  <Name className="java.lang.String">morphology</Name>
+  <Value className="java.lang.String">Ncnsnn</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">lemma</Name>
+  <Value className="java.lang.String">пиво</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">pos</Name>
+  <Value className="java.lang.String">N</Value>
+</Feature>
+</Annotation>
+<Annotation Id="10" Type="organization" StartNode="344" EndNode="351">
+</Annotation>
+<Annotation Id="11" Type="token" StartNode="344" EndNode="351">
+<Feature>
+  <Name className="java.lang.String">morphology</Name>
+  <Value className="java.lang.String">Npmsgn</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">lemma</Name>
+  <Value className="java.lang.String">Кумпель</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">pos</Name>
+  <Value className="java.lang.String">N</Value>
+</Feature>
+</Annotation>
+<Annotation Id="13" Type="organization" StartNode="324" EndNode="334">
+</Annotation>
+<Annotation Id="14" Type="token" StartNode="324" EndNode="334">
+<Feature>
+  <Name className="java.lang.String">morphology</Name>
+  <Value className="java.lang.String">Npmsgn</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">lemma</Name>
+  <Value className="java.lang.String">Старгород</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">pos</Name>
+  <Value className="java.lang.String">N</Value>
+</Feature>
+</Annotation>
+<Annotation Id="15" Type="organization" StartNode="470" EndNode="480">
+</Annotation>
+<Annotation Id="17" Type="organization" StartNode="510" EndNode="517">
+</Annotation>
+<Annotation Id="16" Type="token" StartNode="470" EndNode="480">
+<Feature>
+  <Name className="java.lang.String">morphology</Name>
+  <Value className="java.lang.String">Npmsgn</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">lemma</Name>
+  <Value className="java.lang.String">Старгород</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">pos</Name>
+  <Value className="java.lang.String">N</Value>
+</Feature>
+</Annotation>
+<Annotation Id="18" Type="token" StartNode="510" EndNode="517">
+<Feature>
+  <Name className="java.lang.String">morphology</Name>
+  <Value className="java.lang.String">Npmsln</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">lemma</Name>
+  <Value className="java.lang.String">Кумпель</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">pos</Name>
+  <Value className="java.lang.String">N</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Original markups">
+<Annotation Id="0" Type="paragraph" StartNode="0" EndNode="573">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>
