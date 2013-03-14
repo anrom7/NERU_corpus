@@ -1,0 +1,106 @@
+<?xml version='1.0' encoding='utf-8'?>
+<GateDocument version="2">
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+<Feature>
+  <Name className="java.lang.String">MimeType</Name>
+  <Value className="java.lang.String">text/plain</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">gate.SourceURL</Name>
+  <Value className="java.lang.String">file:/D:/EDUCATION/5%20КУРС/2%20СЕМЕСТР/Комп%20лінгвістика/РОЗРАХА/rozraha_truniak_olha/txt%20files/truniak_11_lawyer.txt</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">docNewLineType</Name>
+  <Value className="java.lang.String">CRLF</Value>
+</Feature>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>lawyer&#xd;<Node id="7"/>
+<Node id="8"/>31.10.2011<Node id="18"/>, <Node id="20"/>14:19&#xd;<Node id="26"/>
+<Node id="27"/>A la minute&#xd;<Node id="39"/>
+дизайн простенький, <Node id="60"/>офіціантки<Node id="70"/> ввічливі, щодо страв, то сподобався <Node id="107"/>суп-крем із шпинату з лососем<Node id="136"/>, <Node id="138"/>суп з лосося<Node id="150"/> "<Node id="152"/>Буйабесс<Node id="160"/>"-нормально, як звичайна <Node id="185"/>зупка<Node id="190"/>, хіба з смачненьким <Node id="211"/>лососем<Node id="218"/>, не сподобалася 1. <Node id="238"/>качка з фруктовим салатом<Node id="263"/> - не було цілісної страви, був манюсінький кусочок <Node id="315"/>качки<Node id="320"/> і якісь вже дуже "втомлені" <Node id="349"/>овочі-фрукти<Node id="361"/> + незрозумілий <Node id="377"/>соус-джем<Node id="386"/>, 2.<Node id="390"/>салат "цезар" <Node id="404"/>- та ж причина, не було якоїсь гармонії у цій страві, 3.<Node id="460"/>соки<Node id="464"/> подаються в упаковці, а не відразу в стаканах&#xd;
+<Node id="512"/>Маккафе&#xd;<Node id="520"/>
+як на мене, то ціни не відповідають якості. малесенькі шматочки <Node id="585"/>тортиків<Node id="593"/>, асортимент скупенький. але <Node id="622"/>продавці-офіціанти<Node id="640"/> привітні, завжди щось спитають, порадять, їм "+". хоча їхнє смузі люблю, а дуже-дуже люблю такі <Node id="737"/>ванільні печенька з молочним шоколадом <Node id="776"/>(подають підігрітими)&#xd;
+<Node id="799"/>Деліс&#xd;<Node id="805"/>
+думаю, тут багато говорити не потрібно:). гарний заклад, велика територія, смачна кухня. з недоліків: 1.резервували столик наперід, а коли прийшли, то про це забули:girl_blush2: і нам пощастило, що якраз звільнився столик і його швиденько прибрали, 2.дуже довго викликали офіціантів, які ніяк не хотіли з'являтися (кожен раз дзеленькали по декілька різів:girl_mad:), 3.офіціанток, які нас обслуговували, чомусь було кілька, весь час плутались між собою, 4.принісши нам гарячі страви, забули принести прибори, ми вже подумали, що у них смообслуговування:girl_haha:.&#xd;
+замовляли салат-мікс з горішками-сподобався, салатик з латуком, чері і ще якоюсь травичкою - так собі, таки надто багато там трави:girl_haha:, медальйони з телятини в беконі - нямка, соус - люкс:girl_dance:, фуа-гра під грушевим соусом - така ніжнааааа, на десерт - яблучні струделі з морозивом і горішками - смакота, а от простеньке капучіно мене не потішило, дуже гірчило і подання неоригінальне.&#xd;
+саме місце, де ми сиділи, - клас! мякесенькі диванчики, гарненький інтер'єр, запалена свічка, закриті шторки - короче, рамантіка!!!!!!!&#xd;
+та й і надворі можна сидіти, вкрившись пледом і гріючись від уфо:)<Node id="1975"/></TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+<Annotation Id="76" Type="time" StartNode="8" EndNode="18">
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">date</Value>
+</Feature>
+</Annotation>
+<Annotation Id="77" Type="person" StartNode="0" EndNode="7">
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">nickname</Value>
+</Feature>
+</Annotation>
+<Annotation Id="78" Type="person" StartNode="60" EndNode="70">
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">position</Value>
+</Feature>
+</Annotation>
+<Annotation Id="79" Type="food" StartNode="107" EndNode="136">
+</Annotation>
+<Annotation Id="74" Type="organization" StartNode="27" EndNode="39">
+</Annotation>
+<Annotation Id="75" Type="time" StartNode="20" EndNode="26">
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">time</Value>
+</Feature>
+</Annotation>
+<Annotation Id="85" Type="food" StartNode="315" EndNode="320">
+</Annotation>
+<Annotation Id="84" Type="food" StartNode="238" EndNode="263">
+</Annotation>
+<Annotation Id="87" Type="food" StartNode="377" EndNode="386">
+</Annotation>
+<Annotation Id="86" Type="food" StartNode="349" EndNode="361">
+</Annotation>
+<Annotation Id="81" Type="food" StartNode="152" EndNode="160">
+</Annotation>
+<Annotation Id="80" Type="food" StartNode="138" EndNode="150">
+</Annotation>
+<Annotation Id="83" Type="food" StartNode="185" EndNode="190">
+</Annotation>
+<Annotation Id="82" Type="food" StartNode="211" EndNode="218">
+</Annotation>
+<Annotation Id="93" Type="person" StartNode="622" EndNode="640">
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">position</Value>
+</Feature>
+</Annotation>
+<Annotation Id="92" Type="food" StartNode="585" EndNode="593">
+</Annotation>
+<Annotation Id="95" Type="organization" StartNode="799" EndNode="805">
+</Annotation>
+<Annotation Id="94" Type="food" StartNode="737" EndNode="776">
+</Annotation>
+<Annotation Id="89" Type="food" StartNode="390" EndNode="404">
+</Annotation>
+<Annotation Id="91" Type="organization" StartNode="512" EndNode="520">
+</Annotation>
+<Annotation Id="90" Type="food" StartNode="460" EndNode="464">
+</Annotation>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Original markups">
+<Annotation Id="0" Type="paragraph" StartNode="0" EndNode="1975">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>
