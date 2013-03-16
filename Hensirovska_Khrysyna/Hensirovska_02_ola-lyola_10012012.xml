@@ -1,0 +1,145 @@
+<?xml version='1.0' encoding='utf-8'?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+<Feature>
+  <Name className="java.lang.String">MimeType</Name>
+  <Value className="java.lang.String">text/plain</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">gate.SourceURL</Name>
+  <Value className="java.lang.String">file:/C:/Documents%20and%20Settings/кнопа/Рабочий%20стол/5%20курс%202%20семестр/комп%20лінгвістика/Відгуки/Hensirovska_02_ola-lyola_10012012.txt</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">docNewLineType</Name>
+  <Value className="java.lang.String">CRLF</Value>
+</Feature>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0" />ola-lyola&#xd;<Node id="10" />
+<Node id="11" />10.01.2012<Node id="21" />, <Node id="23" />11:15&#xd;<Node id="29" />
+мені був би цікавий коментар <Node id="59" />юриста<Node id="65" /> з того приводу,&#xd;
+<Node id="83" />&#xd;
+<Node id="85" />Згідно ЗУ "Про захист прав споживачів" :&#xd;
+ст.4 - Споживач має право - на необхідну, доступну, достовірну та своєчасну інформацію про продукцію, її кількість, якість, асортимент, а також про її виробника (<Node id="289" />виконавця<Node id="298" />, <Node id="300" />продавця<Node id="308" />); &#xd;
+<Node id="313" />&#xd;
+<Node id="315" />Ст.15 1. Споживач має право на одержання необхідної, доступної, достовірної та своєчасної інформації про продукцію, що забезпечує можливість її свідомого і компетентного вибору. Інформація повинна бути надана споживачеві до придбання ним товару чи замовлення роботи (послуги). Інформація про продукцію не вважається рекламою. &#xd;
+<Node id="643" />&#xd;
+<Node id="645" />Інформація про продукцію повинна містити: &#xd;
+6) дані про ціну (тариф), умови та правила придбання продукції; &#xd;
+<Node id="755" />&#xd;
+<Node id="757" />п.3 ст.15 Написи щодо ціни реалізації продукції мають бути чіткими і простими для розуміння. &#xd;
+Ціна продукції повинна включати в себе всі податки та неподаткові обов'язкові платежі, які відповідно до законодавства сплачуються споживачем під час придбання відповідної продукції. &#xd;
+<Node id="1037" />&#xd;
+<Node id="1039" />Ст.19 Нечесна підприємницька практика забороняється. &#xd;
+Якщо підприємницька практика спонукає або може спонукати споживача дати згоду на здійснення правочину, на який в іншому випадку він не погодився б, така практика вводить в оману стосовно: &#xd;
+<Node id="1284" />&#xd;
+<Node id="1286" />3) ціни або способу розрахунку ціни чи наявності знижок або інших цінових переваг; &#xd;
+Така підприємницька практика вважається нечесною.&#xd;
+Суб'єкти господарювання, їх працівники несуть відповідальність за нечесну підприємницьку практику згідно із законодавством. &#xd;
+<Node id="1548" />&#xd;
+<Node id="1550" />Підприємницька практика є такою, що вводить в оману, якщо під час пропонування продукції споживачу не надається або надається у нечіткий, незрозумілий або двозначний спосіб інформація, необхідна для здійснення свідомого вибору. Суб'єкти господарювання, їх працівники несуть відповідальність за нечесну підприємницьку практику згідно із законодавством. &#xd;
+ВИСНОВОК: - інформація щодо збільшення ціни за послуги за рахунок обслуговування має обовязково бути вказаний споживачу в доступній для нього формі для того, щоб споживач вільно міг зробити вибір - платити за таку послуну чи відмовитись.<Node id="2141" /></TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+<Annotation Id="16" Type="token" StartNode="289" EndNode="298">
+<Feature>
+  <Name className="java.lang.String">morphology</Name>
+  <Value className="java.lang.String">Ncmsgy</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">lemma</Name>
+  <Value className="java.lang.String">виконавець</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">pos</Name>
+  <Value className="java.lang.String">N</Value>
+</Feature>
+</Annotation>
+<Annotation Id="8" Type="person" StartNode="0" EndNode="10">
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">nickname</Value>
+</Feature>
+</Annotation>
+<Annotation Id="9" Type="time" StartNode="11" EndNode="21">
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">date</Value>
+</Feature>
+</Annotation>
+<Annotation Id="10" Type="time" StartNode="23" EndNode="29">
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">time</Value>
+</Feature>
+</Annotation>
+<Annotation Id="11" Type="person" StartNode="59" EndNode="65">
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">position</Value>
+</Feature>
+</Annotation>
+<Annotation Id="12" Type="token" StartNode="59" EndNode="65">
+<Feature>
+  <Name className="java.lang.String">morphology</Name>
+  <Value className="java.lang.String">Ncmsgy</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">lemma</Name>
+  <Value className="java.lang.String">юрист</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">pos</Name>
+  <Value className="java.lang.String">N</Value>
+</Feature>
+</Annotation>
+<Annotation Id="13" Type="person" StartNode="300" EndNode="308">
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">position</Value>
+</Feature>
+</Annotation>
+<Annotation Id="14" Type="token" StartNode="300" EndNode="308">
+<Feature>
+  <Name className="java.lang.String">morphology</Name>
+  <Value className="java.lang.String">Ncmsgy</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">lemma</Name>
+  <Value className="java.lang.String">продавець</Value>
+</Feature>
+</Annotation>
+<Annotation Id="15" Type="person" StartNode="289" EndNode="298">
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">position</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Original markups">
+<Annotation Id="0" Type="paragraph" StartNode="0" EndNode="83">
+</Annotation>
+<Annotation Id="1" Type="paragraph" StartNode="85" EndNode="313">
+</Annotation>
+<Annotation Id="2" Type="paragraph" StartNode="315" EndNode="643">
+</Annotation>
+<Annotation Id="3" Type="paragraph" StartNode="645" EndNode="755">
+</Annotation>
+<Annotation Id="4" Type="paragraph" StartNode="757" EndNode="1037">
+</Annotation>
+<Annotation Id="5" Type="paragraph" StartNode="1039" EndNode="1284">
+</Annotation>
+<Annotation Id="6" Type="paragraph" StartNode="1286" EndNode="1548">
+</Annotation>
+<Annotation Id="7" Type="paragraph" StartNode="1550" EndNode="2141">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>
