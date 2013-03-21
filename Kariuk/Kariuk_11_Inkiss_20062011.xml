@@ -3038,11 +3038,13 @@
   <Value className="java.lang.String">date</Value>
 </Feature>
 </Annotation>
-<Annotation Id="221" Type="time" StartNode="22" EndNode="28">
+<Annotation Id="222" Type="time" StartNode="22" EndNode="28">
 <Feature>
   <Name className="java.lang.String">kind</Name>
   <Value className="java.lang.String">time</Value>
 </Feature>
+</Annotation>
+<Annotation Id="223" Type="organization" StartNode="42" EndNode="63">
 </Annotation>
 <Annotation Id="216" Type="Sentence" StartNode="322" EndNode="356">
 </Annotation>
@@ -3092,306 +3094,240 @@
   <Value className="java.lang.String">internal</Value>
 </Feature>
 </Annotation>
-<Annotation Id="239" Type="token" StartNode="288" EndNode="295">
+<Annotation Id="239" Type="token" StartNode="341" EndNode="346">
 <Feature>
   <Name className="java.lang.String">morphology</Name>
-  <Value className="java.lang.String">равіолі</Value>
+  <Value className="java.lang.String">Ncmsan</Value>
 </Feature>
 <Feature>
   <Name className="java.lang.String">lemma</Name>
-  <Value className="java.lang.String">Ncnpan</Value>
+  <Value className="java.lang.String">салат</Value>
 </Feature>
 <Feature>
   <Name className="java.lang.String">pos</Name>
   <Value className="java.lang.String">N</Value>
 </Feature>
 </Annotation>
-<Annotation Id="238" Type="food" StartNode="288" EndNode="304">
+<Annotation Id="238" Type="food" StartNode="341" EndNode="355">
 </Annotation>
-<Annotation Id="237" Type="token" StartNode="259" EndNode="268">
+<Annotation Id="237" Type="token" StartNode="298" EndNode="304">
 <Feature>
   <Name className="java.lang.String">morphology</Name>
-  <Value className="java.lang.String">маскапоне</Value>
+  <Value className="java.lang.String">Ncfsiy</Value>
 </Feature>
 <Feature>
   <Name className="java.lang.String">lemma</Name>
-  <Value className="java.lang.String">Ncnsin</Value>
+  <Value className="java.lang.String">качка</Value>
 </Feature>
 <Feature>
   <Name className="java.lang.String">pos</Name>
   <Value className="java.lang.String">N</Value>
 </Feature>
 </Annotation>
-<Annotation Id="236" Type="token" StartNode="257" EndNode="258">
+<Annotation Id="236" Type="token" StartNode="296" EndNode="297">
 <Feature>
   <Name className="java.lang.String">morphology</Name>
-  <Value className="java.lang.String">з</Value>
-</Feature>
-<Feature>
-  <Name className="java.lang.String">lemma</Name>
   <Value className="java.lang.String">Spsi</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">lemma</Name>
+  <Value className="java.lang.String">з</Value>
 </Feature>
 <Feature>
   <Name className="java.lang.String">pos</Name>
   <Value className="java.lang.String">S</Value>
 </Feature>
 </Annotation>
-<Annotation Id="235" Type="token" StartNode="252" EndNode="256">
+<Annotation Id="235" Type="token" StartNode="288" EndNode="295">
 <Feature>
   <Name className="java.lang.String">morphology</Name>
-  <Value className="java.lang.String">мус</Value>
+  <Value className="java.lang.String">Ncnpan</Value>
 </Feature>
 <Feature>
   <Name className="java.lang.String">lemma</Name>
-  <Value className="java.lang.String">Ncmpan</Value>
+  <Value className="java.lang.String">равіолі</Value>
 </Feature>
 <Feature>
   <Name className="java.lang.String">pos</Name>
   <Value className="java.lang.String">N</Value>
 </Feature>
 </Annotation>
-<Annotation Id="234" Type="token" StartNode="243" EndNode="251">
+<Annotation Id="234" Type="food" StartNode="288" EndNode="304">
+</Annotation>
+<Annotation Id="233" Type="token" StartNode="259" EndNode="268">
 <Feature>
   <Name className="java.lang.String">morphology</Name>
-  <Value className="java.lang.String">фруктовий</Value>
+  <Value className="java.lang.String">Ncnsin</Value>
 </Feature>
 <Feature>
   <Name className="java.lang.String">lemma</Name>
-  <Value className="java.lang.String">Afp-pafn</Value>
+  <Value className="java.lang.String">маскапоне</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">pos</Name>
+  <Value className="java.lang.String">N</Value>
+</Feature>
+</Annotation>
+<Annotation Id="232" Type="token" StartNode="257" EndNode="258">
+<Feature>
+  <Name className="java.lang.String">morphology</Name>
+  <Value className="java.lang.String">Spsi</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">lemma</Name>
+  <Value className="java.lang.String">з</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">pos</Name>
+  <Value className="java.lang.String">S</Value>
+</Feature>
+</Annotation>
+<Annotation Id="231" Type="token" StartNode="252" EndNode="256">
+<Feature>
+  <Name className="java.lang.String">morphology</Name>
+  <Value className="java.lang.String">Ncnpan</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">lemma</Name>
+  <Value className="java.lang.String">мус</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">pos</Name>
+  <Value className="java.lang.String">N</Value>
+</Feature>
+</Annotation>
+<Annotation Id="230" Type="token" StartNode="243" EndNode="251">
+<Feature>
+  <Name className="java.lang.String">morphology</Name>
+  <Value className="java.lang.String">Afp-pasn</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">lemma</Name>
+  <Value className="java.lang.String">фруктові</Value>
 </Feature>
 <Feature>
   <Name className="java.lang.String">pos</Name>
   <Value className="java.lang.String">A</Value>
 </Feature>
 </Annotation>
-<Annotation Id="233" Type="food" StartNode="243" EndNode="268">
+<Annotation Id="229" Type="food" StartNode="243" EndNode="268">
 </Annotation>
-<Annotation Id="232" Type="token" StartNode="233" EndNode="241">
+<Annotation Id="228" Type="token" StartNode="233" EndNode="241">
 <Feature>
   <Name className="java.lang.String">morphology</Name>
-  <Value className="java.lang.String">десерт</Value>
+  <Value className="java.lang.String">Ncnpgn</Value>
 </Feature>
 <Feature>
   <Name className="java.lang.String">lemma</Name>
-  <Value className="java.lang.String">Ncnpan</Value>
+  <Value className="java.lang.String">десерти</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">pos</Name>
+  <Value className="java.lang.String">N</Value>
 </Feature>
 </Annotation>
-<Annotation Id="231" Type="person" StartNode="203" EndNode="210">
+<Annotation Id="227" Type="food" StartNode="233" EndNode="241">
+</Annotation>
+<Annotation Id="226" Type="person" StartNode="203" EndNode="210">
 <Feature>
   <Name className="java.lang.String">kind</Name>
   <Value className="java.lang.String">nickname</Value>
 </Feature>
 </Annotation>
-<Annotation Id="230" Type="token" StartNode="158" EndNode="159">
+<Annotation Id="225" Type="token" StartNode="139" EndNode="146">
 <Feature>
   <Name className="java.lang.String">morphology</Name>
-  <Value className="java.lang.String">3</Value>
-</Feature>
-<Feature>
-  <Name className="java.lang.String">lemma</Name>
-  <Value className="java.lang.String">Md</Value>
-</Feature>
-<Feature>
-  <Name className="java.lang.String">pos</Name>
-  <Value className="java.lang.String">M</Value>
-</Feature>
-</Annotation>
-<Annotation Id="229" Type="token" StartNode="139" EndNode="146">
-<Feature>
-  <Name className="java.lang.String">morphology</Name>
-  <Value className="java.lang.String">десерт</Value>
-</Feature>
-<Feature>
-  <Name className="java.lang.String">lemma</Name>
   <Value className="java.lang.String">Ncnpan</Value>
 </Feature>
 <Feature>
-  <Name className="java.lang.String">pos</Name>
-  <Value className="java.lang.String">N</Value>
-</Feature>
-</Annotation>
-<Annotation Id="228" Type="food" StartNode="139" EndNode="146">
-</Annotation>
-<Annotation Id="227" Type="token" StartNode="55" EndNode="63">
-<Feature>
-  <Name className="java.lang.String">morphology</Name>
-  <Value className="java.lang.String">pasteria</Value>
-</Feature>
-<Feature>
   <Name className="java.lang.String">lemma</Name>
-  <Value className="java.lang.String">Ncfsan</Value>
+  <Value className="java.lang.String">десерт</Value>
 </Feature>
 <Feature>
   <Name className="java.lang.String">pos</Name>
   <Value className="java.lang.String">N</Value>
 </Feature>
 </Annotation>
-<Annotation Id="226" Type="token" StartNode="49" EndNode="54">
-<Feature>
-  <Name className="java.lang.String">morphology</Name>
-  <Value className="java.lang.String">Rosso</Value>
-</Feature>
-<Feature>
-  <Name className="java.lang.String">lemma</Name>
-  <Value className="java.lang.String">Npmsnn</Value>
-</Feature>
-<Feature>
-  <Name className="java.lang.String">pos</Name>
-  <Value className="java.lang.String">N</Value>
-</Feature>
+<Annotation Id="224" Type="food" StartNode="139" EndNode="146">
 </Annotation>
-<Annotation Id="225" Type="token" StartNode="42" EndNode="48">
-<Feature>
-  <Name className="java.lang.String">morphology</Name>
-  <Value className="java.lang.String">Bianco</Value>
-</Feature>
-<Feature>
-  <Name className="java.lang.String">lemma</Name>
-  <Value className="java.lang.String">Npmsnn</Value>
-</Feature>
-<Feature>
-  <Name className="java.lang.String">pos</Name>
-  <Value className="java.lang.String">N</Value>
-</Feature>
-</Annotation>
-<Annotation Id="224" Type="organization" StartNode="42" EndNode="63">
-</Annotation>
-<Annotation Id="252" Type="token" StartNode="473" EndNode="479">
-<Feature>
-  <Name className="java.lang.String">morphology</Name>
-  <Value className="java.lang.String">Львів</Value>
-</Feature>
-<Feature>
-  <Name className="java.lang.String">lemma</Name>
-  <Value className="java.lang.String">Npmsdn</Value>
-</Feature>
-<Feature>
-  <Name className="java.lang.String">pos</Name>
-  <Value className="java.lang.String">N</Value>
-</Feature>
-</Annotation>
-<Annotation Id="250" Type="location" StartNode="471" EndNode="479">
+<Annotation Id="246" Type="location" StartNode="473" EndNode="479">
 <Feature>
   <Name className="java.lang.String">kind</Name>
   <Value className="java.lang.String">city</Value>
 </Feature>
 </Annotation>
-<Annotation Id="251" Type="token" StartNode="471" EndNode="472">
+<Annotation Id="247" Type="token" StartNode="473" EndNode="479">
 <Feature>
   <Name className="java.lang.String">morphology</Name>
-  <Value className="java.lang.String">в</Value>
+  <Value className="java.lang.String">Npmsln</Value>
 </Feature>
 <Feature>
   <Name className="java.lang.String">lemma</Name>
-  <Value className="java.lang.String">Spsd</Value>
+  <Value className="java.lang.String">Львів</Value>
 </Feature>
 <Feature>
   <Name className="java.lang.String">pos</Name>
-  <Value className="java.lang.String">S</Value>
+  <Value className="java.lang.String">N</Value>
 </Feature>
 </Annotation>
-<Annotation Id="248" Type="person" StartNode="453" EndNode="462">
+<Annotation Id="244" Type="person" StartNode="453" EndNode="462">
 <Feature>
   <Name className="java.lang.String">kind</Name>
   <Value className="java.lang.String">position</Value>
 </Feature>
 </Annotation>
-<Annotation Id="249" Type="token" StartNode="453" EndNode="462">
+<Annotation Id="245" Type="token" StartNode="453" EndNode="462">
 <Feature>
   <Name className="java.lang.String">morphology</Name>
-  <Value className="java.lang.String">офіціант</Value>
+  <Value className="java.lang.String">Ncnpny</Value>
 </Feature>
 <Feature>
   <Name className="java.lang.String">lemma</Name>
-  <Value className="java.lang.String">Ncnsny</Value>
+  <Value className="java.lang.String">офіціанти</Value>
 </Feature>
 <Feature>
   <Name className="java.lang.String">pos</Name>
   <Value className="java.lang.String">N</Value>
 </Feature>
 </Annotation>
-<Annotation Id="246" Type="food" StartNode="420" EndNode="427">
+<Annotation Id="242" Type="food" StartNode="420" EndNode="427">
 </Annotation>
-<Annotation Id="247" Type="token" StartNode="420" EndNode="427">
+<Annotation Id="243" Type="token" StartNode="420" EndNode="427">
 <Feature>
   <Name className="java.lang.String">morphology</Name>
-  <Value className="java.lang.String">лимонад</Value>
-</Feature>
-<Feature>
-  <Name className="java.lang.String">lemma</Name>
   <Value className="java.lang.String">Ncmsan</Value>
 </Feature>
 <Feature>
+  <Name className="java.lang.String">lemma</Name>
+  <Value className="java.lang.String">лимонад</Value>
+</Feature>
+<Feature>
   <Name className="java.lang.String">pos</Name>
   <Value className="java.lang.String">N</Value>
 </Feature>
 </Annotation>
-<Annotation Id="244" Type="token" StartNode="347" EndNode="348">
+<Annotation Id="240" Type="token" StartNode="347" EndNode="348">
 <Feature>
   <Name className="java.lang.String">morphology</Name>
-  <Value className="java.lang.String">з</Value>
+  <Value className="java.lang.String">Spsi</Value>
 </Feature>
 <Feature>
   <Name className="java.lang.String">lemma</Name>
-  <Value className="java.lang.String">Spsi</Value>
+  <Value className="java.lang.String">з</Value>
 </Feature>
 <Feature>
   <Name className="java.lang.String">pos</Name>
   <Value className="java.lang.String">S</Value>
 </Feature>
 </Annotation>
-<Annotation Id="245" Type="token" StartNode="349" EndNode="355">
+<Annotation Id="241" Type="token" StartNode="349" EndNode="355">
 <Feature>
   <Name className="java.lang.String">morphology</Name>
-  <Value className="java.lang.String">качка</Value>
-</Feature>
-<Feature>
-  <Name className="java.lang.String">lemma</Name>
   <Value className="java.lang.String">Ncfsiy</Value>
 </Feature>
 <Feature>
-  <Name className="java.lang.String">pos</Name>
-  <Value className="java.lang.String">N</Value>
-</Feature>
-</Annotation>
-<Annotation Id="242" Type="food" StartNode="341" EndNode="355">
-</Annotation>
-<Annotation Id="243" Type="token" StartNode="341" EndNode="346">
-<Feature>
-  <Name className="java.lang.String">morphology</Name>
-  <Value className="java.lang.String">салат</Value>
-</Feature>
-<Feature>
   <Name className="java.lang.String">lemma</Name>
-  <Value className="java.lang.String">Ncnsan</Value>
-</Feature>
-<Feature>
-  <Name className="java.lang.String">pos</Name>
-  <Value className="java.lang.String">N</Value>
-</Feature>
-</Annotation>
-<Annotation Id="240" Type="token" StartNode="296" EndNode="297">
-<Feature>
-  <Name className="java.lang.String">morphology</Name>
-  <Value className="java.lang.String">з</Value>
-</Feature>
-<Feature>
-  <Name className="java.lang.String">lemma</Name>
-  <Value className="java.lang.String">Spsi</Value>
-</Feature>
-<Feature>
-  <Name className="java.lang.String">pos</Name>
-  <Value className="java.lang.String">S</Value>
-</Feature>
-</Annotation>
-<Annotation Id="241" Type="token" StartNode="298" EndNode="304">
-<Feature>
-  <Name className="java.lang.String">morphology</Name>
   <Value className="java.lang.String">качка</Value>
-</Feature>
-<Feature>
-  <Name className="java.lang.String">lemma</Name>
-  <Value className="java.lang.String">Ncfsiy</Value>
 </Feature>
 <Feature>
   <Name className="java.lang.String">pos</Name>
