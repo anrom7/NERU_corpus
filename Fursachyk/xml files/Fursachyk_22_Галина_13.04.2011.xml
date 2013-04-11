@@ -1,0 +1,105 @@
+<?xml version='1.0' encoding='utf-8'?>
+<GateDocument version="2">
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+<Feature>
+  <Name className="java.lang.String">MimeType</Name>
+  <Value className="java.lang.String">text/plain</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">gate.SourceURL</Name>
+  <Value className="java.lang.String">file:/D:/EDUCATION/5%20КУРС/2%20СЕМЕСТР/Комп%20лінгвістика/РОЗРАХА/розрахи%20філолог/Fursachyk/txt%20files/Fursachyk_22_Галина.txt</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">docNewLineType</Name>
+  <Value className="java.lang.String">CRLF</Value>
+</Feature>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>Галина<Node id="6"/> пише:&#xd;
+<Node id="14"/>13.04.2011<Node id="24"/> в <Node id="27"/>11:50&#xd;<Node id="33"/>
+це просто чудо, а не ресторанчик.&#xd;
+скільки б разів тут не бувала — жодного разу не розчаровувалася.&#xd;
+це єдине місце, де не треба вибирати куда ми йдем на основі того що хочемо поїсти, ТУТ Є ВСЕ: і мої любимі <Node id="242"/>суші<Node id="246"/>, і <Node id="250"/>салатіки<Node id="258"/> і <Node id="261"/>стейки<Node id="267"/> (які я просто обожнюю).&#xd;
+бажаю вам тримати марку, для мене ВИ-НАЙКРАЩІ  <Node id="340"/></TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+<Annotation Id="1" Type="person" StartNode="0" EndNode="6">
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">nickname</Value>
+</Feature>
+</Annotation>
+<Annotation Id="2" Type="time" StartNode="14" EndNode="24">
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">date</Value>
+</Feature>
+</Annotation>
+<Annotation Id="3" Type="time" StartNode="27" EndNode="33">
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">time</Value>
+</Feature>
+</Annotation>
+<Annotation Id="4" Type="food" StartNode="242" EndNode="246">
+</Annotation>
+<Annotation Id="5" Type="food" StartNode="250" EndNode="258">
+</Annotation>
+<Annotation Id="6" Type="food" StartNode="261" EndNode="267">
+</Annotation>
+<Annotation Id="7" Type="token" StartNode="261" EndNode="267">
+<Feature>
+  <Name className="java.lang.String">morphology</Name>
+  <Value className="java.lang.String">Ncmpan</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">lemma</Name>
+  <Value className="java.lang.String">стейк</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">pos</Name>
+  <Value className="java.lang.String">N</Value>
+</Feature>
+</Annotation>
+<Annotation Id="8" Type="token" StartNode="250" EndNode="258">
+<Feature>
+  <Name className="java.lang.String">morphology</Name>
+  <Value className="java.lang.String">Ncmpan</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">lemma</Name>
+  <Value className="java.lang.String">салат</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">pos</Name>
+  <Value className="java.lang.String">N</Value>
+</Feature>
+</Annotation>
+<Annotation Id="9" Type="token" StartNode="242" EndNode="246">
+<Feature>
+  <Name className="java.lang.String">morphology</Name>
+  <Value className="java.lang.String">Nc-pan</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">lemma</Name>
+  <Value className="java.lang.String">суші</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">pos</Name>
+  <Value className="java.lang.String">N</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Original markups">
+<Annotation Id="0" Type="paragraph" StartNode="0" EndNode="340">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

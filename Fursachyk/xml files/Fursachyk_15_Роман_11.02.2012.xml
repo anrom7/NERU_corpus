@@ -1,0 +1,140 @@
+<?xml version='1.0' encoding='utf-8'?>
+<GateDocument version="2">
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+<Feature>
+  <Name className="java.lang.String">MimeType</Name>
+  <Value className="java.lang.String">text/plain</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">gate.SourceURL</Name>
+  <Value className="java.lang.String">file:/D:/EDUCATION/5%20КУРС/2%20СЕМЕСТР/Комп%20лінгвістика/РОЗРАХА/розрахи%20філолог/Fursachyk/txt%20files/Fursachyk_15_Роман.txt</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">docNewLineType</Name>
+  <Value className="java.lang.String">CRLF</Value>
+</Feature>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>Роман<Node id="5"/> пише:&#xd;
+<Node id="13"/>11.02.2012<Node id="23"/> в <Node id="26"/>12:28&#xd;<Node id="32"/>
+Вибирав куди піти відсвяткувати своє деньнародження із друзями. Про <Node id="101"/>The<Node id="104"/> <Node id="105"/>гриль<Node id="110"/> чув схвальні відгуки від знайомих і сам там один раз побував, можу сказати що все було на пристойному рівні і щодо кухні також. Але прочитавши коментарі залишені на цьому ресурсі, поміняв свою точку зору. Чому? Пояснюю. Це стосується тих дописувачів (<Node id="362"/>Олександр<Node id="371"/>, <Node id="373"/>Niko Pro<Node id="381"/> ), які вступають в дискусію від імені чи то працівників цього закладу, чи то власників. Шановні, майте хоч трошки ввічливості до своїх минулих, майбутніх і теперішніх відвідувачів! Якщо комусь і не сподобалася Ваша сира <Node id="602"/>риба<Node id="606"/> чи погане обслуговування, то вибачтесь перед цим відвідувачем, який заплатив Вам гроші, запросіть його прийти до Вас ще раз, щоб переконатися, що у Вас більше такого не повториться, а не вступати у недопустиму манеру спілкування з Вашого боку. Панове так негарно, Ви псуєте собі репутацію, виставляючи себе грубими і неадекватними людьми по відношенню до своїх клієнтів. Дякую.<Node id="984"/></TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+<Annotation Id="1" Type="person" StartNode="0" EndNode="5">
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">nickname</Value>
+</Feature>
+</Annotation>
+<Annotation Id="2" Type="time" StartNode="13" EndNode="23">
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">date</Value>
+</Feature>
+</Annotation>
+<Annotation Id="3" Type="time" StartNode="26" EndNode="32">
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">time</Value>
+</Feature>
+</Annotation>
+<Annotation Id="4" Type="organization" StartNode="101" EndNode="110">
+</Annotation>
+<Annotation Id="6" Type="person" StartNode="373" EndNode="381">
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">nickname</Value>
+</Feature>
+</Annotation>
+<Annotation Id="8" Type="person" StartNode="362" EndNode="371">
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">nickname</Value>
+</Feature>
+</Annotation>
+<Annotation Id="9" Type="token" StartNode="362" EndNode="371">
+<Feature>
+  <Name className="java.lang.String">morphology</Name>
+  <Value className="java.lang.String">Ncmsny</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">lemma</Name>
+  <Value className="java.lang.String">Олександр</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">pos</Name>
+  <Value className="java.lang.String">N</Value>
+</Feature>
+</Annotation>
+<Annotation Id="10" Type="token" StartNode="373" EndNode="381">
+<Feature>
+  <Name className="java.lang.String">morphology</Name>
+  <Value className="java.lang.String">X</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">lemma</Name>
+  <Value className="java.lang.String">Niko Pro</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">pos</Name>
+  <Value className="java.lang.String">X</Value>
+</Feature>
+</Annotation>
+<Annotation Id="11" Type="token" StartNode="101" EndNode="104">
+<Feature>
+  <Name className="java.lang.String">morphology</Name>
+  <Value className="java.lang.String">X</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">lemma</Name>
+  <Value className="java.lang.String">The</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">pos</Name>
+  <Value className="java.lang.String">X</Value>
+</Feature>
+</Annotation>
+<Annotation Id="12" Type="token" StartNode="105" EndNode="110">
+<Feature>
+  <Name className="java.lang.String">morphology</Name>
+  <Value className="java.lang.String">Ncmsan</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">lemma</Name>
+  <Value className="java.lang.String">гриль</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">pos</Name>
+  <Value className="java.lang.String">N</Value>
+</Feature>
+</Annotation>
+<Annotation Id="14" Type="food" StartNode="602" EndNode="606">
+</Annotation>
+<Annotation Id="15" Type="token" StartNode="602" EndNode="606">
+<Feature>
+  <Name className="java.lang.String">morphology</Name>
+  <Value className="java.lang.String">Ncfsay</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">lemma</Name>
+  <Value className="java.lang.String">риба</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">pos</Name>
+  <Value className="java.lang.String">N</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Original markups">
+<Annotation Id="0" Type="paragraph" StartNode="0" EndNode="984">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>
