@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<schema>
+	<element name="token">
+	  <complexType>
+	    <attribute name="pos"  default="N">
+		  <simpleType>
+		    <restriction base="string">
+			  <enumeration value="N"/>
+			  <enumeration value="V"/>
+			  <enumeration value="A"/>
+			  <enumeration value="P"/>
+			  <enumeration value="R"/>
+			  <enumeration value="S"/>
+			  <enumeration value="C"/>
+			  <enumeration value="M"/>
+			  <enumeration value="Q"/>
+			  <enumeration value="I"/>
+			  <enumeration value="Y"/>
+			  <enumeration value="X"/>	  			  			  			  			  			  
+		    </restriction>
+		</simpleType>	 
+	</attribute>
+	<attribute name="morphology"/>
+	<attribute name="lemma"/>
+  </complexType>
+</element>
+</schema>

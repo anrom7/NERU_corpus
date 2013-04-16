@@ -1,0 +1,120 @@
+<?xml version="1.0"?>
+<!-- creole.xml directory file for multi-perspective annotation schemas -->
+<CREOLE-DIRECTORY>
+  <!-- Language Resources -->
+  <CREOLE>
+    <!-- Annotation schema -->
+    <RESOURCE>
+      <NAME>Annotation schema</NAME>
+      <CLASS>gate.creole.AnnotationSchema</CLASS>
+      <COMMENT>My attempt of annotation scheme </COMMENT>
+      <PARAMETER NAME="xmlFileUrl"
+        COMMENT="The url to the definition file"
+	SUFFIXES="xml;xsd">java.net.URL</PARAMETER>
+	   <AUTOINSTANCE>
+          <PARAM NAME ="xmlFileUrl" VALUE ="resources/schema/person.xml" />
+      </AUTOINSTANCE>
+      <AUTOINSTANCE>
+          <PARAM NAME ="xmlFileUrl" VALUE ="resources/schema/address.xml" />
+      </AUTOINSTANCE>
+	        <AUTOINSTANCE>
+          <PARAM NAME ="xmlFileUrl" VALUE ="resources/schema/time.xml" />
+      </AUTOINSTANCE>
+	        <AUTOINSTANCE>
+          <PARAM NAME ="xmlFileUrl" VALUE ="resources/schema/location.xml" />
+      </AUTOINSTANCE>
+	        <AUTOINSTANCE>
+          <PARAM NAME ="xmlFileUrl" VALUE ="resources/schema/money.xml" />
+      </AUTOINSTANCE>
+	        <AUTOINSTANCE>
+          <PARAM NAME ="xmlFileUrl" VALUE ="resources/schema/organization.xml" />
+      </AUTOINSTANCE>
+			<AUTOINSTANCE>
+          <PARAM NAME ="xmlFileUrl" VALUE ="resources/schema/percent.xml" />
+      </AUTOINSTANCE>
+			<AUTOINSTANCE>
+          <PARAM NAME ="xmlFileUrl" VALUE ="resources/schema/food.xml" />
+      </AUTOINSTANCE>
+			<AUTOINSTANCE>
+          <PARAM NAME ="xmlFileUrl" VALUE ="resources/schema/illness.xml" />
+      </AUTOINSTANCE>
+			<AUTOINSTANCE>
+          <PARAM NAME ="xmlFileUrl" VALUE ="resources/schema/symptom.xml" />
+      </AUTOINSTANCE>
+			<AUTOINSTANCE>
+          <PARAM NAME ="xmlFileUrl" VALUE ="resources/schema/drug.xml" />
+      </AUTOINSTANCE>
+			<AUTOINSTANCE>
+          <PARAM NAME ="xmlFileUrl" VALUE ="resources/schema/treatment.xml" />
+      </AUTOINSTANCE>
+			<AUTOINSTANCE>
+          <PARAM NAME ="xmlFileUrl" VALUE ="resources/schema/age.xml" />
+      </AUTOINSTANCE>
+			<AUTOINSTANCE>
+          <PARAM NAME ="xmlFileUrl" VALUE ="resources/schema/sex.xml" />
+      </AUTOINSTANCE>
+			<AUTOINSTANCE>
+          <PARAM NAME ="xmlFileUrl" VALUE ="resources/schema/dosage.xml" />
+      </AUTOINSTANCE>
+			<AUTOINSTANCE>
+          <PARAM NAME ="xmlFileUrl" VALUE ="resources/schema/token.xml" />
+      </AUTOINSTANCE>
+	        
+    </RESOURCE>
+<!--
+    <RESOURCE>
+      <NAME>MPQA Annotation Checker</NAME>
+      <JAR>MPQATools.jar</JAR>
+      <CLASS>mpqa.Checker</CLASS>
+      <PARAMETER NAME="document" RUNTIME="true">gate.Document</PARAMETER>
+      <PARAMETER NAME="annotationStyle" RUNTIME="true" DEFAULT="deep"
+        OPTIONAL="true">java.lang.String</PARAMETER>
+    </RESOURCE>
+    <RESOURCE>
+      <NAME>MPQA New Annotation Checker</NAME>
+      <JAR>MPQATools.jar</JAR>
+      <CLASS>mpqa.CheckerNew</CLASS>
+      <PARAMETER NAME="document" RUNTIME="true">gate.Document</PARAMETER>
+      <PARAMETER NAME="annotationStyle" RUNTIME="true" DEFAULT="deep"
+        OPTIONAL="true">java.lang.String</PARAMETER>
+    </RESOURCE>
+    <RESOURCE>
+      <NAME>MPQA Annotation Dumper</NAME>
+      <CLASS>mpqa.Dumper</CLASS>
+      <PARAMETER NAME="document" RUNTIME="true">gate.Document</PARAMETER>
+      <PARAMETER NAME="annotationSetName" RUNTIME="true" 
+        OPTIONAL="true">java.lang.String</PARAMETER>
+      <PARAMETER NAME="isShortAnnotations" RUNTIME="true" DEFAULT="false"
+        OPTIONAL="true">java.lang.Boolean</PARAMETER>
+      <PARAMETER NAME="outputFileUrl" RUNTIME="true"
+	SUFFIXES="mpqa">java.net.URL</PARAMETER>
+    </RESOURCE>
+    <RESOURCE>
+      <NAME>MPQA Document Preparer</NAME>
+      <CLASS>mpqa.DocPrep</CLASS>
+      <PARAMETER NAME="document" RUNTIME="true">gate.Document</PARAMETER>
+    </RESOURCE>
+    <RESOURCE>
+      <NAME>MPQA New Document Preparer</NAME>
+      <CLASS>mpqa.DocPrepNew</CLASS>
+      <PARAMETER NAME="document" RUNTIME="true">gate.Document</PARAMETER>
+    </RESOURCE>
+    <RESOURCE>
+      <NAME>MPQA Segment To Sentence</NAME>
+      <CLASS>mpqa.CreateSentence</CLASS>
+      <PARAMETER NAME="document" RUNTIME="true">gate.Document</PARAMETER>
+    </RESOURCE>
+    <RESOURCE>
+      <NAME>MPQA Offset Importer</NAME>
+      <CLASS>mpqa.ImportOffsets</CLASS>
+      <COMMENT>Imports byte offsets from given into annotations</COMMENT>
+      <PARAMETER NAME="document" COMMENT="The document to analyse" RUNTIME="true">gate.Document</PARAMETER>
+      <PARAMETER NAME="inputASname" COMMENT="The annotation set to be used for input" OPTIONAL="true" RUNTIME="true">java.lang.String</PARAMETER>
+      <PARAMETER NAME="outputASname" COMMENT="The annotation set to be used for output" OPTIONAL="true" RUNTIME="true">java.lang.String</PARAMETER>
+      <PARAMETER NAME="inputFileUrl" RUNTIME="true" COMMENT="The file containing the byte offsets">java.net.URL</PARAMETER>
+      <PARAMETER NAME="strAnnotType" RUNTIME="true" OPTIONAL="true" COMMENT="The annotation type">java.lang.String</PARAMETER>
+    </RESOURCE>
+-->
+
+  </CREOLE>
+</CREOLE-DIRECTORY>
