@@ -1,0 +1,123 @@
+<?xml version='1.0' encoding='utf-8'?>
+<GateDocument version="2">
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+<Feature>
+  <Name className="java.lang.String">MimeType</Name>
+  <Value className="java.lang.String">text/plain</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">gate.SourceURL</Name>
+  <Value className="java.lang.String">file:/E:/5%20kyrs/романюк%202%20семестр/vidgyku%20wo%20treba%20zrobutu/Kozachuk_1_vika2010mc_17.10.2012.txt</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">docNewLineType</Name>
+  <Value className="java.lang.String">CRLF</Value>
+</Feature>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>vika2010mc&#xd;<Node id="11"/>
+???&#xd;
+Додано: <Node id="25"/>17.10.2012<Node id="35"/> <Node id="36"/>21:24&#xd;<Node id="42"/>
+Я <Node id="45"/>була<Node id="49"/> <Node id="50"/>в<Node id="51"/> <Node id="52"/>обласній лікарні<Node id="68"/> <Node id="69"/>там<Node id="72"/> <Node id="73"/>за<Node id="75"/> підшлункову зовсім не іде мова там усі говорять тільки про <Node id="135"/>операцію<Node id="143"/> на жовчну протоку.Чи потріна ця <Node id="176"/>операція<Node id="184"/>?Що вся проблема в ній,а <Node id="209"/>свербіж<Node id="216"/> тому що маю якийсь маленьки <Node id="245"/>гепатит<Node id="252"/>,і печінка провокує <Node id="272"/>свербіж<Node id="279"/>..Чи може так бути?<Node id="298"/></TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+<Annotation Id="1" Type="token" StartNode="0" EndNode="11">
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">nickname</Value>
+</Feature>
+</Annotation>
+<Annotation Id="2" Type="token" StartNode="25" EndNode="35">
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">date</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Original markups">
+<Annotation Id="0" Type="paragraph" StartNode="0" EndNode="298">
+</Annotation>
+<Annotation Id="16" Type="symptom" StartNode="272" EndNode="279">
+</Annotation>
+<Annotation Id="3" Type="token" StartNode="36" EndNode="42">
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">time</Value>
+</Feature>
+</Annotation>
+<Annotation Id="4" Type="organization" StartNode="52" EndNode="68">
+</Annotation>
+<Annotation Id="8" Type="token" StartNode="45" EndNode="49">
+<Feature>
+  <Name className="java.lang.String">morphology</Name>
+  <Value className="java.lang.String">Vapgp</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">lemma</Name>
+  <Value className="java.lang.String">бути</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">pos</Name>
+  <Value className="java.lang.String">V</Value>
+</Feature>
+</Annotation>
+<Annotation Id="9" Type="token" StartNode="50" EndNode="51">
+<Feature>
+  <Name className="java.lang.String">morphology</Name>
+  <Value className="java.lang.String">Spsl</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">lemma</Name>
+  <Value className="java.lang.String">в</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">pos</Name>
+  <Value className="java.lang.String">S</Value>
+</Feature>
+</Annotation>
+<Annotation Id="10" Type="token" StartNode="69" EndNode="72">
+<Feature>
+  <Name className="java.lang.String">morphology</Name>
+  <Value className="java.lang.String">Pd------r</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">lemma</Name>
+  <Value className="java.lang.String">там</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">pos</Name>
+  <Value className="java.lang.String">P</Value>
+</Feature>
+</Annotation>
+<Annotation Id="11" Type="token" StartNode="73" EndNode="75">
+<Feature>
+  <Name className="java.lang.String">morphology</Name>
+  <Value className="java.lang.String">Spsa</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">lemma</Name>
+  <Value className="java.lang.String">за</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">pos</Name>
+  <Value className="java.lang.String">S</Value>
+</Feature>
+</Annotation>
+<Annotation Id="12" Type="treatment" StartNode="135" EndNode="143">
+</Annotation>
+<Annotation Id="13" Type="treatment" StartNode="176" EndNode="184">
+</Annotation>
+<Annotation Id="14" Type="symptom" StartNode="209" EndNode="216">
+</Annotation>
+<Annotation Id="15" Type="illness" StartNode="245" EndNode="252">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>
