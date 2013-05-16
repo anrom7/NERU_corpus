@@ -1,0 +1,181 @@
+<?xml version='1.0' encoding='utf-8'?>
+<GateDocument version="2">
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+<Feature>
+  <Name className="java.lang.String">gate.SourceURL</Name>
+  <Value className="java.lang.String">file:/D:/EDUCATION/5%20КУРС/2%20СЕМЕСТР/Комп%20лінгвістика/РОЗРАХА/NERU_corpus-NERU_MED/NERU_MED/students%20rozraha/Ros_29-30_14-16.pdf/Forum%20files/Ros_06_farina_03.11.2011.txt</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">MimeType</Name>
+  <Value className="java.lang.String">text/plain</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">docNewLineType</Name>
+  <Value className="java.lang.String">CRLF</Value>
+</Feature>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>farina&#xd;<Node id="7"/>
+<Node id="8"/>остеохондропатия<Node id="24"/>&#xd;<Node id="25"/>
+<Node id="26"/>Додано<Node id="32"/>: <Node id="34"/>03.11.2011<Node id="44"/> <Node id="45"/>19:41<Node id="50"/>&#xd;
+Здравствуйте. Моему сыну <Node id="77"/>11<Node id="79"/> <Node id="80"/>лет<Node id="83"/>.Он занимается <Node id="98"/>6<Node id="99"/> <Node id="100"/>лет<Node id="103"/> бальными танцами, <Node id="122"/>два<Node id="125"/> <Node id="126"/>месяца<Node id="132"/> <Node id="133"/>назад<Node id="138"/> у него начало <Node id="153"/>болеть<Node id="159"/> <Node id="160"/>колено<Node id="166"/>,<Node id="167"/>врач<Node id="171"/> <Node id="172"/>ортопед<Node id="179"/> <Node id="180"/>сделал обследование и поставил диагноз (<Node id="220"/>остеохондропатия<Node id="236"/> <Node id="237"/>коленной<Node id="245"/> <Node id="246"/>чашечки<Node id="253"/>). <Node id="256"/>Две<Node id="259"/> <Node id="260"/>недели<Node id="266"/> в <Node id="269"/>гипсе<Node id="274"/>,мазать "<Node id="283"/>Нимид-гель<Node id="293"/>" <Node id="295"/>два<Node id="298"/> <Node id="299"/>раза<Node id="303"/> <Node id="304"/>в<Node id="305"/> <Node id="306"/>день<Node id="310"/>. <Node id="312"/>Таблетки<Node id="320"/> "<Node id="322"/>Кидди<Node id="327"/>"<Node id="328"/>. Прошел месяц, колено не болит.Можно-ли заниматься танцами? Или о спорте стоит забыть? И подскажите пожалуйста может стоит пропить хотя бы кальций или другие препараты. У сына <Node id="505"/>Атриовентикулярная<Node id="523"/> <Node id="524"/>блокада<Node id="531"/> <Node id="532"/>1<Node id="533"/> <Node id="534"/>ст<Node id="536"/>.<Node id="537"/>Транзиторна<Node id="548"/> <Node id="549"/>атриовентикулярная<Node id="567"/> <Node id="568"/>блокада<Node id="575"/> <Node id="576"/>2<Node id="577"/> <Node id="578"/>ст.<Node id="581"/></TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+<Annotation Id="1" Type="person" StartNode="0" EndNode="7">
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">nickname</Value>
+</Feature>
+</Annotation>
+<Annotation Id="2" Type="illness" StartNode="8" EndNode="25">
+</Annotation>
+<Annotation Id="3" Type="time" StartNode="34" EndNode="44">
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">date</Value>
+</Feature>
+</Annotation>
+<Annotation Id="4" Type="time" StartNode="45" EndNode="50">
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">time</Value>
+</Feature>
+</Annotation>
+<Annotation Id="5" Type="age" StartNode="77" EndNode="83">
+</Annotation>
+<Annotation Id="6" Type="time" StartNode="98" EndNode="103">
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">period</Value>
+</Feature>
+</Annotation>
+<Annotation Id="7" Type="time" StartNode="122" EndNode="138">
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">period</Value>
+</Feature>
+</Annotation>
+<Annotation Id="8" Type="symptom" StartNode="153" EndNode="166">
+</Annotation>
+<Annotation Id="9" Type="person" StartNode="167" EndNode="180">
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">position</Value>
+</Feature>
+</Annotation>
+<Annotation Id="10" Type="illness" StartNode="220" EndNode="253">
+</Annotation>
+<Annotation Id="11" Type="treatment" StartNode="269" EndNode="274">
+</Annotation>
+<Annotation Id="12" Type="time" StartNode="256" EndNode="266">
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">period</Value>
+</Feature>
+</Annotation>
+<Annotation Id="13" Type="treatment" StartNode="283" EndNode="293">
+</Annotation>
+<Annotation Id="14" Type="dosage" StartNode="295" EndNode="310">
+</Annotation>
+<Annotation Id="15" Type="drug" StartNode="312" EndNode="328">
+</Annotation>
+<Annotation Id="17" Type="illness" StartNode="537" EndNode="581">
+</Annotation>
+<Annotation Id="16" Type="illness" StartNode="505" EndNode="536">
+</Annotation>
+<Annotation Id="19" Type="token" StartNode="8" EndNode="24">
+</Annotation>
+<Annotation Id="18" Type="token" StartNode="26" EndNode="32">
+<Feature>
+  <Name className="java.lang.String">morphology</Name>
+  <Value className="java.lang.String">Vmeo</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">lemma</Name>
+  <Value className="java.lang.String">додати</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">pos</Name>
+  <Value className="java.lang.String">V</Value>
+</Feature>
+</Annotation>
+<Annotation Id="21" Type="token" StartNode="80" EndNode="83">
+</Annotation>
+<Annotation Id="20" Type="token" StartNode="77" EndNode="79">
+</Annotation>
+<Annotation Id="23" Type="token" StartNode="100" EndNode="103">
+</Annotation>
+<Annotation Id="22" Type="token" StartNode="98" EndNode="99">
+</Annotation>
+<Annotation Id="25" Type="token" StartNode="126" EndNode="132">
+</Annotation>
+<Annotation Id="24" Type="token" StartNode="122" EndNode="125">
+</Annotation>
+<Annotation Id="27" Type="token" StartNode="160" EndNode="166">
+</Annotation>
+<Annotation Id="26" Type="token" StartNode="153" EndNode="159">
+</Annotation>
+<Annotation Id="29" Type="token" StartNode="167" EndNode="171">
+</Annotation>
+<Annotation Id="28" Type="token" StartNode="133" EndNode="138">
+</Annotation>
+<Annotation Id="31" Type="token" StartNode="246" EndNode="253">
+</Annotation>
+<Annotation Id="30" Type="token" StartNode="172" EndNode="179">
+</Annotation>
+<Annotation Id="34" Type="token" StartNode="256" EndNode="259">
+</Annotation>
+<Annotation Id="35" Type="token" StartNode="260" EndNode="266">
+</Annotation>
+<Annotation Id="32" Type="token" StartNode="237" EndNode="245">
+</Annotation>
+<Annotation Id="33" Type="token" StartNode="220" EndNode="236">
+</Annotation>
+<Annotation Id="38" Type="token" StartNode="312" EndNode="320">
+</Annotation>
+<Annotation Id="39" Type="token" StartNode="322" EndNode="327">
+</Annotation>
+<Annotation Id="36" Type="token" StartNode="269" EndNode="274">
+</Annotation>
+<Annotation Id="37" Type="token" StartNode="283" EndNode="293">
+</Annotation>
+<Annotation Id="42" Type="token" StartNode="295" EndNode="298">
+</Annotation>
+<Annotation Id="43" Type="token" StartNode="304" EndNode="305">
+</Annotation>
+<Annotation Id="40" Type="token" StartNode="299" EndNode="303">
+</Annotation>
+<Annotation Id="41" Type="token" StartNode="306" EndNode="310">
+</Annotation>
+<Annotation Id="46" Type="token" StartNode="532" EndNode="533">
+</Annotation>
+<Annotation Id="47" Type="token" StartNode="534" EndNode="536">
+</Annotation>
+<Annotation Id="44" Type="token" StartNode="505" EndNode="523">
+</Annotation>
+<Annotation Id="45" Type="token" StartNode="524" EndNode="531">
+</Annotation>
+<Annotation Id="51" Type="token" StartNode="549" EndNode="567">
+</Annotation>
+<Annotation Id="50" Type="token" StartNode="568" EndNode="575">
+</Annotation>
+<Annotation Id="49" Type="token" StartNode="578" EndNode="581">
+</Annotation>
+<Annotation Id="48" Type="token" StartNode="576" EndNode="577">
+</Annotation>
+<Annotation Id="52" Type="token" StartNode="534" EndNode="548">
+</Annotation>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Original markups">
+<Annotation Id="0" Type="paragraph" StartNode="0" EndNode="581">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>
