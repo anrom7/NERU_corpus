@@ -1,0 +1,162 @@
+<?xml version='1.0' encoding='utf-8'?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+<Feature>
+  <Name className="java.lang.String">MimeType</Name>
+  <Value className="java.lang.String">text/plain</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">gate.SourceURL</Name>
+  <Value className="java.lang.String">file:/C:/Users/Марта/Desktop/відгуки%20другий%20семестир/відгук6.txt</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">docNewLineType</Name>
+  <Value className="java.lang.String">CRLF</Value>
+</Feature>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0" />medisvit<Node id="8" />_<Node id="9" />doctor<Node id="15" /> Додано:<Node id="23" /> <Node id="24" />30<Node id="26" />.03<Node id="29" />.<Node id="30" />2011<Node id="34" /> <Node id="35" />09:39<Node id="40" /> добрий день<Node id="52" />! у<Node id="55" /> <Node id="56" />мого<Node id="60" /> сина<Node id="65" /> (<Node id="67" />4<Node id="68" /> <Node id="69" />місяці<Node id="75" />) <Node id="77" />діагноз<Node id="84" /> іхтіоз<Node id="91" />. у нього <Node id="101" />відсутні<Node id="109" /> <Node id="110" />вії<Node id="113" />, підскажіть будь-ласка, яке лікування потрібно проводити і чи воно можливе! дякую!   &#xd;
+Доброго дня, шановний автор запитання! На Ваше запитання складно дати конкретну відповідь. Усе залежить від стадії і форми захворювання, і лікування має проводитись із залученням  декількох фахівців.  У легкій стадії<Node id="417" /> потрібно<Node id="426" /> <Node id="427" />приймати<Node id="435" /> <Node id="436" />вітаміни<Node id="444" /> <Node id="445" />А <Node id="447" />та<Node id="449" /> <Node id="450" />Е<Node id="451" />. У складніших -<Node id="467" /> прийом<Node id="474" /> <Node id="475" />гормонів<Node id="483" />, <Node id="485" />імунокоректори<Node id="499" />. Окремо очі не лікують. Потрібно призначити загальне лікування спрямоване і на лікування очей у тому числі. Іноді <Node id="614" />плюс<Node id="618" /> <Node id="619" />симптоматичне<Node id="632" />. Більш конкретні висновки Вам може надати дитячий спеціаліст.  &#xd;
+З повагою, <Node id="709" />лікар<Node id="714" />-офтальмолог<Node id="726" />, <Node id="728" />Дубровська <Node id="739" />О.О. <Node id="744" /></TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+<Annotation Id="1" Type="person" StartNode="0" EndNode="15">
+</Annotation>
+<Annotation Id="2" Type="person" StartNode="0" EndNode="15">
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">nickname</Value>
+</Feature>
+</Annotation>
+<Annotation Id="3" Type="token" StartNode="0" EndNode="8">
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">nickname</Value>
+</Feature>
+</Annotation>
+<Annotation Id="4" Type="token" StartNode="9" EndNode="15">
+</Annotation>
+<Annotation Id="5" Type="time" StartNode="24" EndNode="34">
+</Annotation>
+<Annotation Id="6" Type="time" StartNode="23" EndNode="26">
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">date</Value>
+</Feature>
+</Annotation>
+<Annotation Id="7" Type="time" StartNode="23" EndNode="29">
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">date</Value>
+</Feature>
+</Annotation>
+<Annotation Id="8" Type="time" StartNode="30" EndNode="34">
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">date</Value>
+</Feature>
+</Annotation>
+<Annotation Id="9" Type="time" StartNode="35" EndNode="40">
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">date</Value>
+</Feature>
+</Annotation>
+<Annotation Id="10" Type="time" StartNode="35" EndNode="40">
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">time</Value>
+</Feature>
+</Annotation>
+<Annotation Id="11" Type="illness" StartNode="77" EndNode="91">
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">time</Value>
+</Feature>
+</Annotation>
+<Annotation Id="12" Type="token" StartNode="77" EndNode="84">
+</Annotation>
+<Annotation Id="13" Type="token" StartNode="84" EndNode="91">
+</Annotation>
+<Annotation Id="14" Type="token" StartNode="52" EndNode="55">
+</Annotation>
+<Annotation Id="15" Type="token" StartNode="56" EndNode="60">
+</Annotation>
+<Annotation Id="17" Type="token" StartNode="67" EndNode="68">
+</Annotation>
+<Annotation Id="16" Type="token" StartNode="60" EndNode="65">
+</Annotation>
+<Annotation Id="19" Type="symptom" StartNode="101" EndNode="113">
+</Annotation>
+<Annotation Id="18" Type="token" StartNode="69" EndNode="75">
+</Annotation>
+<Annotation Id="21" Type="token" StartNode="110" EndNode="113">
+</Annotation>
+<Annotation Id="20" Type="token" StartNode="101" EndNode="109">
+</Annotation>
+<Annotation Id="23" Type="token" StartNode="435" EndNode="444">
+</Annotation>
+<Annotation Id="22" Type="drug" StartNode="436" EndNode="451">
+</Annotation>
+<Annotation Id="25" Type="token" StartNode="447" EndNode="449">
+</Annotation>
+<Annotation Id="24" Type="token" StartNode="445" EndNode="447">
+</Annotation>
+<Annotation Id="27" Type="token" StartNode="417" EndNode="426">
+</Annotation>
+<Annotation Id="26" Type="token" StartNode="450" EndNode="451">
+</Annotation>
+<Annotation Id="28" Type="token" StartNode="427" EndNode="435">
+</Annotation>
+<Annotation Id="38" Type="token" StartNode="614" EndNode="618">
+</Annotation>
+<Annotation Id="39" Type="token" StartNode="619" EndNode="632">
+</Annotation>
+<Annotation Id="37" Type="symptom" StartNode="614" EndNode="632">
+</Annotation>
+<Annotation Id="42" Type="token" StartNode="709" EndNode="714">
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">position</Value>
+</Feature>
+</Annotation>
+<Annotation Id="43" Type="token" StartNode="709" EndNode="726">
+</Annotation>
+<Annotation Id="40" Type="person" StartNode="709" EndNode="726">
+</Annotation>
+<Annotation Id="41" Type="person" StartNode="709" EndNode="726">
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">position</Value>
+</Feature>
+</Annotation>
+<Annotation Id="44" Type="person" StartNode="728" EndNode="744">
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">name</Value>
+</Feature>
+</Annotation>
+<Annotation Id="45" Type="token" StartNode="728" EndNode="739">
+</Annotation>
+<Annotation Id="51" Type="token" StartNode="485" EndNode="499">
+</Annotation>
+<Annotation Id="50" Type="drug" StartNode="485" EndNode="499">
+</Annotation>
+<Annotation Id="53" Type="token" StartNode="475" EndNode="483">
+</Annotation>
+<Annotation Id="52" Type="token" StartNode="467" EndNode="474">
+</Annotation>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Original markups">
+<Annotation Id="0" Type="paragraph" StartNode="0" EndNode="744">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

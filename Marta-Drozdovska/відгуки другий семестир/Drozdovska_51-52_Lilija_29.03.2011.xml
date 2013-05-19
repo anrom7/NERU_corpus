@@ -1,0 +1,128 @@
+<?xml version='1.0' encoding='utf-8'?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+<Feature>
+  <Name className="java.lang.String">MimeType</Name>
+  <Value className="java.lang.String">text/plain</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">gate.SourceURL</Name>
+  <Value className="java.lang.String">file:/C:/Users/Марта/Desktop/відгуки%20другий%20семестир/відгук5.txt</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">docNewLineType</Name>
+  <Value className="java.lang.String"></Value>
+</Feature>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0" />Lilija<Node id="6" /> <Node id="7" />відсутність<Node id="18" /> <Node id="19" />вій<Node id="22" /> Додано:<Node id="30" /> <Node id="31" />29<Node id="33" />.<Node id="34" />0<Node id="35" />3<Node id="36" />.<Node id="37" />2011<Node id="41" /> <Node id="42" />14:36<Node id="47" /> добрий день!<Node id="60" /> у<Node id="62" /> <Node id="63" />мого<Node id="67" /> <Node id="68" />сина<Node id="72" /> <Node id="73" />(4<Node id="75" /> <Node id="76" />місяці<Node id="82" />) <Node id="84" />діагноз<Node id="91" /> іхтіоз<Node id="98" />. у нього<Node id="107" /> <Node id="108" />відсутні<Node id="116" /> <Node id="117" />вії<Node id="120" />, підскажіть будь-ласка, яке лікування потрібно проводити і чи воно можливе! дякую! <Node id="204" /></TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+<Annotation Id="1" Type="person" StartNode="0" EndNode="6">
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String"></Value>
+</Feature>
+</Annotation>
+<Annotation Id="3" Type="token" StartNode="6" EndNode="7">
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">nickname</Value>
+</Feature>
+</Annotation>
+<Annotation Id="4" Type="symptom" StartNode="7" EndNode="22">
+</Annotation>
+<Annotation Id="5" Type="token" StartNode="7" EndNode="18">
+</Annotation>
+<Annotation Id="6" Type="token" StartNode="19" EndNode="22">
+</Annotation>
+<Annotation Id="7" Type="time" StartNode="31" EndNode="41">
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">date</Value>
+</Feature>
+</Annotation>
+<Annotation Id="8" Type="time" StartNode="30" EndNode="33">
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">date</Value>
+</Feature>
+</Annotation>
+<Annotation Id="9" Type="time" StartNode="34" EndNode="36">
+</Annotation>
+<Annotation Id="10" Type="time" StartNode="34" EndNode="36">
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">date</Value>
+</Feature>
+</Annotation>
+<Annotation Id="11" Type="time" StartNode="37" EndNode="41">
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">date</Value>
+</Feature>
+</Annotation>
+<Annotation Id="12" Type="token" StartNode="30" EndNode="33">
+</Annotation>
+<Annotation Id="13" Type="token" StartNode="31" EndNode="35">
+</Annotation>
+<Annotation Id="14" Type="token" StartNode="31" EndNode="41">
+</Annotation>
+<Annotation Id="15" Type="time" StartNode="42" EndNode="47">
+</Annotation>
+<Annotation Id="17" Type="token" StartNode="42" EndNode="47">
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">time</Value>
+</Feature>
+</Annotation>
+<Annotation Id="16" Type="time" StartNode="42" EndNode="47">
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">time</Value>
+</Feature>
+</Annotation>
+<Annotation Id="19" Type="token" StartNode="84" EndNode="91">
+</Annotation>
+<Annotation Id="18" Type="illness" StartNode="84" EndNode="98">
+</Annotation>
+<Annotation Id="21" Type="token" StartNode="60" EndNode="62">
+</Annotation>
+<Annotation Id="20" Type="token" StartNode="84" EndNode="98">
+</Annotation>
+<Annotation Id="23" Type="token" StartNode="68" EndNode="72">
+</Annotation>
+<Annotation Id="22" Type="token" StartNode="63" EndNode="67">
+</Annotation>
+<Annotation Id="25" Type="token" StartNode="76" EndNode="82">
+</Annotation>
+<Annotation Id="24" Type="token" StartNode="73" EndNode="75">
+</Annotation>
+<Annotation Id="27" Type="token" StartNode="107" EndNode="116">
+</Annotation>
+<Annotation Id="26" Type="symptom" StartNode="108" EndNode="120">
+</Annotation>
+<Annotation Id="29" Type="person" StartNode="0" EndNode="6">
+</Annotation>
+<Annotation Id="28" Type="token" StartNode="117" EndNode="120">
+</Annotation>
+<Annotation Id="30" Type="person" StartNode="0" EndNode="6">
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">name</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Original markups">
+<Annotation Id="0" Type="paragraph" StartNode="0" EndNode="204">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>
