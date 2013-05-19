@@ -1,0 +1,102 @@
+<?xml version='1.0' encoding='utf-8'?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+<Feature>
+  <Name className="java.lang.String">MimeType</Name>
+  <Value className="java.lang.String">text/plain</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">gate.SourceURL</Name>
+  <Value className="java.lang.String">file:/D:/5ий%20курс/NERU_MED/Med_texts/Новая%20папка/Шилімова_04_МЦ%20АНІКО_січня%2008%202013.txt</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">docNewLineType</Name>
+  <Value className="java.lang.String">CRLF</Value>
+</Feature>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0" />Відповідь<Node id="9" /> <Node id="10" />від<Node id="13" /> <Node id="14" />МЦ<Node id="16" /> <Node id="17" />АНІКО<Node id="22" /> · <Node id="25" />Вівторок<Node id="33" />, <Node id="35" />січня<Node id="40" /> <Node id="41" />08<Node id="43" /> <Node id="44" />2013<Node id="48" />, <Node id="50" />12:06<Node id="55" /> · Приховати · #1&#xd;
+До складу медичних препаратів можуть входити речовини які мають відносно негативний вплив на органи , але користь від лікувального ефекту більша. При правильному застосуванні Ви уникнете ( шкідливого впливу) побічної дії.&#xd;
+<Node id="297" /></TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+<Annotation Id="1" Type="person" StartNode="14" EndNode="22">
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">nickname</Value>
+</Feature>
+</Annotation>
+<Annotation Id="2" Type="time" StartNode="25" EndNode="33">
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">date</Value>
+</Feature>
+</Annotation>
+<Annotation Id="3" Type="time" StartNode="35" EndNode="48">
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">date</Value>
+</Feature>
+</Annotation>
+<Annotation Id="4" Type="time" StartNode="50" EndNode="55">
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">time</Value>
+</Feature>
+</Annotation>
+<Annotation Id="5" Type="token" StartNode="14" EndNode="16">
+</Annotation>
+<Annotation Id="6" Type="token" StartNode="17" EndNode="22">
+</Annotation>
+<Annotation Id="7" Type="token" StartNode="25" EndNode="33">
+</Annotation>
+<Annotation Id="8" Type="token" StartNode="50" EndNode="55">
+</Annotation>
+<Annotation Id="9" Type="token" StartNode="10" EndNode="13">
+<Feature>
+  <Name className="java.lang.String">morphology</Name>
+  <Value className="java.lang.String">Spsg</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">lemma</Name>
+  <Value className="java.lang.String">від</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">pos</Name>
+  <Value className="java.lang.String">S</Value>
+</Feature>
+</Annotation>
+<Annotation Id="10" Type="token" StartNode="0" EndNode="9">
+<Feature>
+  <Name className="java.lang.String">morphology</Name>
+  <Value className="java.lang.String">Ncfsnn</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">lemma</Name>
+  <Value className="java.lang.String">відповідь</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">pos</Name>
+  <Value className="java.lang.String">N</Value>
+</Feature>
+</Annotation>
+<Annotation Id="11" Type="token" StartNode="35" EndNode="40">
+</Annotation>
+<Annotation Id="12" Type="token" StartNode="41" EndNode="43">
+</Annotation>
+<Annotation Id="13" Type="token" StartNode="44" EndNode="48">
+</Annotation>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Original markups">
+<Annotation Id="0" Type="paragraph" StartNode="0" EndNode="297">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>
