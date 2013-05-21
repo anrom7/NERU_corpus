@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+<Feature>
+  <Name className="java.lang.String">gate.SourceURL</Name>
+  <Value className="java.lang.String">file:/D:/Studies/5%20курс/Романюк/NERU/petrukha2/petrukha_02_Lyudmila_04022010.txt</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">MimeType</Name>
+  <Value className="java.lang.String">text/plain</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">docNewLineType</Name>
+  <Value className="java.lang.String">CRLF</Value>
+</Feature>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0" />Lyudmila&#xd;<Node id="9" />
+Дякую за відповідь!&#xd;
+Додано:<Node id="38" /> <Node id="39" />04<Node id="41" />.<Node id="42" />02<Node id="44" />.<Node id="45" />2010<Node id="49" /> <Node id="50" />12<Node id="52" />:<Node id="53" />52<Node id="55" /></TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+<Annotation Id="1" Type="person" StartNode="0" EndNode="9">
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">nickname</Value>
+</Feature>
+</Annotation>
+<Annotation Id="2" Type="token" StartNode="0" EndNode="9">
+</Annotation>
+<Annotation Id="3" Type="time" StartNode="39" EndNode="49">
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">date</Value>
+</Feature>
+</Annotation>
+<Annotation Id="4" Type="time" StartNode="50" EndNode="55">
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">time</Value>
+</Feature>
+</Annotation>
+<Annotation Id="5" Type="token" StartNode="38" EndNode="41">
+</Annotation>
+<Annotation Id="6" Type="token" StartNode="42" EndNode="44">
+</Annotation>
+<Annotation Id="8" Type="token" StartNode="45" EndNode="49">
+</Annotation>
+<Annotation Id="9" Type="token" StartNode="50" EndNode="52">
+</Annotation>
+<Annotation Id="10" Type="token" StartNode="53" EndNode="55">
+</Annotation>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Original markups">
+<Annotation Id="0" Type="paragraph" StartNode="0" EndNode="55">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>
