@@ -1,0 +1,192 @@
+<?xml version='1.0' encoding='utf-8'?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+<Feature>
+  <Name className="java.lang.String">MimeType</Name>
+  <Value className="java.lang.String">text/plain</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">gate.SourceURL</Name>
+  <Value className="java.lang.String">file:/C:/Users/Маринка/Desktop/Ivaniv_Maryna/Ivaniv_03_20071130_analiz_krovi_19_04_2012.txt</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">docNewLineType</Name>
+  <Value className="java.lang.String">CRLF</Value>
+</Feature>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0" />20071130&#xd;
+Аналіз крові&#xd;<Node id="23" />
+Додано: <Node id="32" />19.04.2012<Node id="42" /> <Node id="43" />09:46&#xd;<Node id="49" />
+Доброго дня !!! <Node id="66" />Мені<Node id="70" /> <Node id="71" />29 років<Node id="79" />. День <Node id="86" />перед <Node id="92" />здачею<Node id="98" /> <Node id="99" />розгорнутого<Node id="111" /> <Node id="112" />аналізу<Node id="119" /> <Node id="120" />крові<Node id="125" /> <Node id="126" />здавала<Node id="133" /> <Node id="134" />аналізи<Node id="141" /> <Node id="142" />на<Node id="144" /> <Node id="145" />гормони<Node id="152" />. Прокоментуйте <Node id="168" />будь-ласка<Node id="178" /> <Node id="179" />мені<Node id="183" /> <Node id="184" />аналіз<Node id="190" /> <Node id="191" />крові<Node id="196" />. <Node id="198" />Анализ<Node id="204" /> <Node id="205" />крови<Node id="210" /> <Node id="211" />развернутый<Node id="222" /> <Node id="223" />
+Скорость оседания эритроцитов (метод Панченкова) - 6 мм/час Лейкоциты (WBC) 4.16&#xd;
+Эритроциты (RBC) 4.09 &#xd;
+Гемоглобин (HGB) 125 г/л &#xd;
+Гематокрит (HCT) 35.7 %&#xd;
+Средний объем эритроцита (MCV) 87.3 &#xd;
+Среднее содержание гемоглобина в эритроците (МСН) 30.6 пг &#xd;
+Средняя концентрация гемоглобина в эритроците (МСНС) - 35 г/дл &#xd;
+Тромбоциты (PLT) 189&#xd;
+Ширина распределения эритроцитов (RDW-SD) - 38.7 фл &#xd;
+Ширина распределения эритроцитов (RDW-CV) - 12.4 % &#xd;
+Ширина распределения тромбоцитов по объемам (PDW) - 17.9 % &#xd;
+Средний объем тромбоцитов (MPV) 12.6 фл &#xd;
+Тромбокрит (PCT) 0.24 % &#xd;
+Нейтрофилы (на 100 лейкоцитов) 47.9 %&#xd;
+Моноциты (на 100 лейкоцитов) 12 % &#xd;
+Эозинофилы (на 100 лейкоцитов) 1.4 % &#xd;
+Базофилы (на 100 лейкоцитов) 0.5 %<Node id="951" /></TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+<Annotation Id="1" Type="person" StartNode="0" EndNode="23">
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">nickname</Value>
+</Feature>
+</Annotation>
+<Annotation Id="2" Type="time" StartNode="32" EndNode="42">
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">date</Value>
+</Feature>
+</Annotation>
+<Annotation Id="3" Type="time" StartNode="43" EndNode="49">
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">time</Value>
+</Feature>
+</Annotation>
+<Annotation Id="4" Type="age" StartNode="71" EndNode="79">
+</Annotation>
+<Annotation Id="5" Type="treatment" StartNode="99" EndNode="125">
+</Annotation>
+<Annotation Id="6" Type="treatment" StartNode="134" EndNode="152">
+</Annotation>
+<Annotation Id="7" Type="treatment" StartNode="184" EndNode="196">
+</Annotation>
+<Annotation Id="8" Type="treatment" StartNode="198" EndNode="223">
+</Annotation>
+<Annotation Id="9" Type="token" StartNode="0" EndNode="23">
+</Annotation>
+<Annotation Id="10" Type="token" StartNode="32" EndNode="42">
+</Annotation>
+<Annotation Id="11" Type="token" StartNode="43" EndNode="49">
+</Annotation>
+<Annotation Id="12" Type="token" StartNode="71" EndNode="79">
+</Annotation>
+<Annotation Id="13" Type="token" StartNode="99" EndNode="111">
+</Annotation>
+<Annotation Id="14" Type="token" StartNode="112" EndNode="119">
+</Annotation>
+<Annotation Id="15" Type="token" StartNode="120" EndNode="125">
+</Annotation>
+<Annotation Id="17" Type="token" StartNode="142" EndNode="144">
+</Annotation>
+<Annotation Id="16" Type="token" StartNode="134" EndNode="141">
+</Annotation>
+<Annotation Id="19" Type="token" StartNode="184" EndNode="190">
+</Annotation>
+<Annotation Id="18" Type="token" StartNode="145" EndNode="152">
+</Annotation>
+<Annotation Id="21" Type="token" StartNode="198" EndNode="204">
+</Annotation>
+<Annotation Id="20" Type="token" StartNode="191" EndNode="196">
+</Annotation>
+<Annotation Id="23" Type="token" StartNode="211" EndNode="222">
+</Annotation>
+<Annotation Id="22" Type="token" StartNode="205" EndNode="210">
+</Annotation>
+<Annotation Id="25" Type="token" StartNode="92" EndNode="98">
+<Feature>
+  <Name className="java.lang.String">morphology</Name>
+  <Value className="java.lang.String">Ncfsin</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">lemma</Name>
+  <Value className="java.lang.String">здача</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">pos</Name>
+  <Value className="java.lang.String">N</Value>
+</Feature>
+</Annotation>
+<Annotation Id="24" Type="token" StartNode="66" EndNode="70">
+<Feature>
+  <Name className="java.lang.String">morphology</Name>
+  <Value className="java.lang.String">p-1fysdn</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">lemma</Name>
+  <Value className="java.lang.String">я</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">pos</Name>
+  <Value className="java.lang.String">P</Value>
+</Feature>
+</Annotation>
+<Annotation Id="27" Type="token" StartNode="126" EndNode="133">
+<Feature>
+  <Name className="java.lang.String">morphology</Name>
+  <Value className="java.lang.String">mpis1sf</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">lemma</Name>
+  <Value className="java.lang.String">здавати</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">pos</Name>
+  <Value className="java.lang.String">V</Value>
+</Feature>
+</Annotation>
+<Annotation Id="26" Type="token" StartNode="86" EndNode="92">
+<Feature>
+  <Name className="java.lang.String">morphology</Name>
+  <Value className="java.lang.String">psi</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">lemma</Name>
+  <Value className="java.lang.String">перед</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">pos</Name>
+  <Value className="java.lang.String">S</Value>
+</Feature>
+</Annotation>
+<Annotation Id="28" Type="token" StartNode="179" EndNode="183">
+<Feature>
+  <Name className="java.lang.String">morphology</Name>
+  <Value className="java.lang.String">p1fysgn</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">lemma</Name>
+  <Value className="java.lang.String">я</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">pos</Name>
+  <Value className="java.lang.String">P</Value>
+</Feature>
+</Annotation>
+<Annotation Id="30" Type="token" StartNode="168" EndNode="178">
+<Feature>
+  <Name className="java.lang.String">lemma</Name>
+  <Value className="java.lang.String">будь ласка</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">pos</Name>
+  <Value className="java.lang.String">X</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Original markups">
+<Annotation Id="0" Type="paragraph" StartNode="0" EndNode="951">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>
