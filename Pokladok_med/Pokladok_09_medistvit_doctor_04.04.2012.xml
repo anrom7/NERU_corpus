@@ -4,12 +4,12 @@
 
 <GateDocumentFeatures>
 <Feature>
-  <Name className="java.lang.String">MimeType</Name>
-  <Value className="java.lang.String">text/plain</Value>
-</Feature>
-<Feature>
   <Name className="java.lang.String">gate.SourceURL</Name>
   <Value className="java.lang.String">file:/C:/oksana/Study/MY%205%20course/II%20semestr/Computer%20Linguistics/NERU_MED/Pokladok/vidgyku/Pokladok_09_medistvit_doctor_04.04.2012.txt</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">MimeType</Name>
+  <Value className="java.lang.String">text/plain</Value>
 </Feature>
 <Feature>
   <Name className="java.lang.String">docNewLineType</Name>
@@ -20,7 +20,7 @@
 
 <TextWithNodes><Node id="0" />medisvit_doctor &#xd;<Node id="17" />
 <Node id="18" />Додано<Node id="24" />: <Node id="26" />04.04.2012<Node id="36" /> <Node id="37" />10:26<Node id="42" /> &#xd;
-Доброго дня! <Node id="58" />Мені<Node id="62" /> <Node id="63" />37років<Node id="70" />. <Node id="72" />Чоловік<Node id="79" />. <Node id="81" />Десь<Node id="85" /> <Node id="86" />місяців три тому<Node id="102" /> <Node id="103" />в<Node id="104" /> <Node id="105" />мене<Node id="109" /> <Node id="110" />почалися<Node id="118" /> <Node id="119" />болі під лівим коліном<Node id="141" />, <Node id="143" />болить<Node id="149" /> <Node id="150" />не<Node id="152" /> <Node id="153" />весь<Node id="157" /> час, а тільки тоді коли присідаю навіть без навантаження, <Node id="216" />після<Node id="221" /> <Node id="222" />присіданння<Node id="233" /> <Node id="234" />біль дуже різка<Node id="249" /> і проходить десь приблизно <Node id="277" />через 3-5хв<Node id="288" />. Пошкодження коліна не було. Що це може бути? Дякую. &#xd;
+Доброго дня! <Node id="58" />Мені<Node id="62" /> <Node id="63" />37років<Node id="70" />. <Node id="72" />Чоловік<Node id="79" />. <Node id="81" />Десь<Node id="85" /> <Node id="86" />місяців три тому<Node id="102" /> <Node id="103" />в<Node id="104" /> <Node id="105" />мене<Node id="109" /> <Node id="110" />почалися<Node id="118" /> <Node id="119" />болі під лівим коліном<Node id="141" />, <Node id="143" />болить<Node id="149" /> <Node id="150" />не<Node id="152" /> <Node id="153" />весь<Node id="157" /> час, а тільки тоді коли присідаю навіть без навантаження, <Node id="216" />після<Node id="221" /> <Node id="222" />присіданння<Node id="233" /> <Node id="234" />біль дуже різка<Node id="249" /> <Node id="250" />і<Node id="251" /> <Node id="252" />проходить<Node id="261" /> <Node id="262" />десь<Node id="266" /> <Node id="267" />приблизно<Node id="276" /> <Node id="277" />через 3-5хв<Node id="288" />. Пошкодження коліна не було. Що це може бути? Дякую. &#xd;
 Доброго <Node id="352" />дня<Node id="355" />, <Node id="357" />шановний<Node id="365" /> <Node id="366" />автор<Node id="371" /> <Node id="372" />запитання<Node id="381" />. З вашого опису дуже важко встановити, яка саме проблема вас турбує. Ви <Node id="454" />можете<Node id="460" /> <Node id="461" />прийняти<Node id="469" /> <Node id="470" />знеболююче<Node id="480" />, <Node id="482" />але<Node id="485" /> <Node id="486" />якщо<Node id="490" /> <Node id="491" />біль<Node id="495" /> <Node id="496" />не<Node id="498" /> <Node id="499" />пройде<Node id="505" /> - доведеться звернутись на консультацію. <Node id="547" />З<Node id="548" /> <Node id="549" />повагою<Node id="556" />, <Node id="558" />лікар-ортопед<Node id="571" />, <Node id="573" />травматолог<Node id="584" />, <Node id="586" />Вадзюк Н.С.<Node id="597" />&#xd;
 <Node id="599" /></TextWithNodes>
 <!-- The default annotation set -->
@@ -129,7 +129,7 @@
 <Annotation Id="21" Type="token" StartNode="103" EndNode="104">
 <Feature>
   <Name className="java.lang.String">morphology</Name>
-  <Value className="java.lang.String">Ssg</Value>
+  <Value className="java.lang.String">Spsg</Value>
 </Feature>
 <Feature>
   <Name className="java.lang.String">lemma</Name>
@@ -339,7 +339,7 @@
 <Annotation Id="38" Type="token" StartNode="547" EndNode="548">
 <Feature>
   <Name className="java.lang.String">morphology</Name>
-  <Value className="java.lang.String">Ssi</Value>
+  <Value className="java.lang.String">Spsi</Value>
 </Feature>
 <Feature>
   <Name className="java.lang.String">lemma</Name>
@@ -392,12 +392,68 @@
   <Value className="java.lang.String">V</Value>
 </Feature>
 </Annotation>
+<Annotation Id="40" Type="token" StartNode="250" EndNode="251">
+<Feature>
+  <Name className="java.lang.String">morphology</Name>
+  <Value className="java.lang.String">Ccs</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">lemma</Name>
+  <Value className="java.lang.String">і</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">pos</Name>
+  <Value className="java.lang.String">C</Value>
+</Feature>
+</Annotation>
 </AnnotationSet>
 
 <!-- Named annotation set -->
 
 <AnnotationSet Name="Original markups">
 <Annotation Id="0" Type="paragraph" StartNode="0" EndNode="599">
+</Annotation>
+<Annotation Id="42" Type="token" StartNode="262" EndNode="266">
+<Feature>
+  <Name className="java.lang.String">morphology</Name>
+  <Value className="java.lang.String">R</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">lemma</Name>
+  <Value className="java.lang.String">десь</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">pos</Name>
+  <Value className="java.lang.String">R</Value>
+</Feature>
+</Annotation>
+<Annotation Id="43" Type="token" StartNode="267" EndNode="276">
+<Feature>
+  <Name className="java.lang.String">morphology</Name>
+  <Value className="java.lang.String">R</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">lemma</Name>
+  <Value className="java.lang.String">приблизно</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">pos</Name>
+  <Value className="java.lang.String">R</Value>
+</Feature>
+</Annotation>
+<Annotation Id="41" Type="token" StartNode="252" EndNode="261">
+<Feature>
+  <Name className="java.lang.String">morphology</Name>
+  <Value className="java.lang.String">Vmpip3s</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">lemma</Name>
+  <Value className="java.lang.String">проходити</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">pos</Name>
+  <Value className="java.lang.String">V</Value>
+</Feature>
 </Annotation>
 </AnnotationSet>
 
