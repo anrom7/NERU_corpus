@@ -1,0 +1,227 @@
+<?xml version='1.0' encoding='utf-8'?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+<Feature>
+  <Name className="java.lang.String">MimeType</Name>
+  <Value className="java.lang.String">text/plain</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">gate.SourceURL</Name>
+  <Value className="java.lang.String">file:/D:/5%20курс%202%20семестр/романюк/2%20частина%20розрахи/Makovetska_2_МЦАНІКО_20112012.txt</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">docNewLineType</Name>
+  <Value className="java.lang.String">CRLF</Value>
+</Feature>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0" />Відповідь<Node id="9" /> <Node id="10" />від<Node id="13" /> <Node id="14" />МЦ<Node id="16" /> <Node id="17" />АНІКО<Node id="22" /> · <Node id="25" />Вівторок<Node id="33" />,<Node id="34" /> <Node id="35" />листопада 20 2012<Node id="52" />,<Node id="53" /> <Node id="54" />04:06&#xd;<Node id="60" />
+Заочна діагностика проблем шкіри не коректна. <Node id="107" />Можливий<Node id="115" /> <Node id="116" />перипоріт<Node id="125" /> <Node id="126" />через<Node id="131" /> <Node id="132" />перегрів<Node id="140" /> <Node id="141" />дитини<Node id="147" />. <Node id="149" />Можливий<Node id="157" /> <Node id="158" />токсико-алергічний<Node id="176" /> <Node id="177" />дерматит<Node id="185" />. Необхідна <Node id="197" />очна<Node id="201" /> <Node id="202" />консультація<Node id="214" /> <Node id="215" />дерматолога<Node id="226" /> <Node id="227" />для<Node id="230" /> <Node id="231" />встановлення<Node id="243" /> діагнозу.<Node id="253" /></TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+<Annotation Id="1" Type="organization" StartNode="14" EndNode="22">
+</Annotation>
+<Annotation Id="2" Type="token" StartNode="14" EndNode="16">
+</Annotation>
+<Annotation Id="3" Type="token" StartNode="17" EndNode="22">
+</Annotation>
+<Annotation Id="4" Type="time" StartNode="25" EndNode="33">
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">time</Value>
+</Feature>
+</Annotation>
+<Annotation Id="5" Type="token" StartNode="25" EndNode="33">
+</Annotation>
+<Annotation Id="6" Type="time" StartNode="35" EndNode="52">
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">date</Value>
+</Feature>
+</Annotation>
+<Annotation Id="7" Type="token" StartNode="34" EndNode="52">
+</Annotation>
+<Annotation Id="8" Type="time" StartNode="53" EndNode="60">
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">time</Value>
+</Feature>
+</Annotation>
+<Annotation Id="9" Type="token" StartNode="54" EndNode="60">
+</Annotation>
+<Annotation Id="10" Type="token" StartNode="0" EndNode="9">
+<Feature>
+  <Name className="java.lang.String">morphology</Name>
+  <Value className="java.lang.String">Ncfsnn</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">lemma</Name>
+  <Value className="java.lang.String">відповідь</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">pos</Name>
+  <Value className="java.lang.String">N</Value>
+</Feature>
+</Annotation>
+<Annotation Id="11" Type="token" StartNode="10" EndNode="13">
+<Feature>
+  <Name className="java.lang.String">morphology</Name>
+  <Value className="java.lang.String">Spsg</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">lemma</Name>
+  <Value className="java.lang.String">від</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">pos</Name>
+  <Value className="java.lang.String">S</Value>
+</Feature>
+</Annotation>
+<Annotation Id="12" Type="illness" StartNode="116" EndNode="125">
+</Annotation>
+<Annotation Id="13" Type="token" StartNode="116" EndNode="125">
+</Annotation>
+<Annotation Id="14" Type="age" StartNode="141" EndNode="147">
+</Annotation>
+<Annotation Id="15" Type="token" StartNode="141" EndNode="147">
+</Annotation>
+<Annotation Id="17" Type="token" StartNode="126" EndNode="131">
+<Feature>
+  <Name className="java.lang.String">morphology</Name>
+  <Value className="java.lang.String">Ssa</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">lemma</Name>
+  <Value className="java.lang.String">через</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">pos</Name>
+  <Value className="java.lang.String">S</Value>
+</Feature>
+</Annotation>
+<Annotation Id="16" Type="token" StartNode="107" EndNode="115">
+<Feature>
+  <Name className="java.lang.String">morphology</Name>
+  <Value className="java.lang.String">Afpmsns</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">lemma</Name>
+  <Value className="java.lang.String">можливий</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">pos</Name>
+  <Value className="java.lang.String">A</Value>
+</Feature>
+</Annotation>
+<Annotation Id="19" Type="illness" StartNode="158" EndNode="185">
+</Annotation>
+<Annotation Id="18" Type="token" StartNode="132" EndNode="140">
+<Feature>
+  <Name className="java.lang.String">morphology</Name>
+  <Value className="java.lang.String">Ncmsan</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">lemma</Name>
+  <Value className="java.lang.String">перегрів</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">pos</Name>
+  <Value className="java.lang.String">N</Value>
+</Feature>
+</Annotation>
+<Annotation Id="21" Type="token" StartNode="177" EndNode="185">
+</Annotation>
+<Annotation Id="20" Type="token" StartNode="158" EndNode="176">
+</Annotation>
+<Annotation Id="23" Type="person" StartNode="215" EndNode="226">
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">position</Value>
+</Feature>
+</Annotation>
+<Annotation Id="22" Type="token" StartNode="149" EndNode="157">
+<Feature>
+  <Name className="java.lang.String">morphology</Name>
+  <Value className="java.lang.String">Afpmsns</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">lemma</Name>
+  <Value className="java.lang.String">можливий</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">pos</Name>
+  <Value className="java.lang.String">A</Value>
+</Feature>
+</Annotation>
+<Annotation Id="25" Type="token" StartNode="197" EndNode="201">
+<Feature>
+  <Name className="java.lang.String">morphology</Name>
+  <Value className="java.lang.String">Afpfsnsn</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">lemma</Name>
+  <Value className="java.lang.String">очний</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">pos</Name>
+  <Value className="java.lang.String">A</Value>
+</Feature>
+</Annotation>
+<Annotation Id="24" Type="token" StartNode="215" EndNode="226">
+</Annotation>
+<Annotation Id="27" Type="token" StartNode="227" EndNode="230">
+<Feature>
+  <Name className="java.lang.String">morphology</Name>
+  <Value className="java.lang.String">Spsg</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">lemma</Name>
+  <Value className="java.lang.String">для</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">pos</Name>
+  <Value className="java.lang.String">S</Value>
+</Feature>
+</Annotation>
+<Annotation Id="26" Type="token" StartNode="202" EndNode="214">
+<Feature>
+  <Name className="java.lang.String">morphology</Name>
+  <Value className="java.lang.String">Ncfsnn</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">lemma</Name>
+  <Value className="java.lang.String">консультація</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">pos</Name>
+  <Value className="java.lang.String">N</Value>
+</Feature>
+</Annotation>
+<Annotation Id="28" Type="token" StartNode="231" EndNode="243">
+<Feature>
+  <Name className="java.lang.String">morphology</Name>
+  <Value className="java.lang.String">Ncnsgn</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">lemma</Name>
+  <Value className="java.lang.String">встановлення</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">pos</Name>
+  <Value className="java.lang.String">N</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Original markups">
+<Annotation Id="0" Type="paragraph" StartNode="0" EndNode="253">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>
