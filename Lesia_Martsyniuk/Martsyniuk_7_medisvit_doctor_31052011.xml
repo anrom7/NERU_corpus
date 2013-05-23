@@ -1,0 +1,276 @@
+<?xml version='1.0' encoding='utf-8'?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+<Feature>
+  <Name className="java.lang.String">MimeType</Name>
+  <Value className="java.lang.String">text/plain</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">gate.SourceURL</Name>
+  <Value className="java.lang.String">file:/C:/Users/Буська/Desktop/відгуки/Martsyniuk_7_medisvit_doctor_31052011.txt</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">docNewLineType</Name>
+  <Value className="java.lang.String">CRLF</Value>
+</Feature>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0" />medisvit_doctor&#xd;<Node id="16" />
+Додано: <Node id="25" />31.05.2011<Node id="35" /> <Node id="36" />17:03<Node id="41" />&#xd;
+Добрий <Node id="50" />день<Node id="54" />! Мені <Node id="61" />24<Node id="63" />р. У мене виявили 4 <Node id="83" />фіброаденоми<Node id="95" /> (різних розмірів).Скажіть будь-ласка, &#xd;
+якщо їх <Node id="144" />видалити<Node id="152" />, яка ймовірність появи нових і в яких кількостях? І як в даній ситуації &#xd;
+планувати вагітність?&#xd;
+Добрий <Node id="257" />день<Node id="261" />, дякую за питання.&#xd;
+За <Node id="285" />умови<Node id="290" /> <Node id="291" />відсутності<Node id="302" /> <Node id="303" />розладів<Node id="311" /> <Node id="312" />гормонального<Node id="325" /> <Node id="326" />фону<Node id="330" /> (<Node id="332" />насамперед<Node id="342" /> <Node id="343" />рівень<Node id="349" /> пролактину), ймовірність &#xd;
+виникнення у молочних залозах нових <Node id="413" />фіброаденом<Node id="424" /> після <Node id="431" />видалення<Node id="440" />, така сама як і у всіх інших &#xd;
+<Node id="472" />жінок<Node id="477" />. Тобто сам факт <Node id="494" />видалення<Node id="503" /> утворення на цю ймовірність не впливає.&#xd;
+Щодо вагітності: оскільки вагітність може сприяти росту утворень у молочних залозах, а також &#xd;
+може підвищувати ризик їх перетворювання, то бажано спочатку <Node id="701" />видалити<Node id="709" /> всі утворення що &#xd;
+більші за 1 см, і лише потім вагітніти.&#xd;
+<Node id="770" />З<Node id="771" /> <Node id="772" />повагою<Node id="779" />,<Node id="780" /> <Node id="781" />лікар<Node id="786" />-<Node id="787" />онколог<Node id="794" />, <Node id="796" />Філоненко А.Г.<Node id="810" /></TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+<Annotation Id="1" Type="person" StartNode="0" EndNode="16">
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">nickname</Value>
+</Feature>
+</Annotation>
+<Annotation Id="2" Type="time" StartNode="25" EndNode="35">
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">date</Value>
+</Feature>
+</Annotation>
+<Annotation Id="3" Type="time" StartNode="36" EndNode="41">
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">time</Value>
+</Feature>
+</Annotation>
+<Annotation Id="4" Type="time" StartNode="50" EndNode="54">
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">period</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">pos</Name>
+  <Value className="java.lang.String">N</Value>
+</Feature>
+</Annotation>
+<Annotation Id="5" Type="age" StartNode="61" EndNode="63">
+<Feature>
+  <Name className="java.lang.String">pos</Name>
+  <Value className="java.lang.String">M</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6" Type="illness" StartNode="83" EndNode="95">
+<Feature>
+  <Name className="java.lang.String">pos</Name>
+  <Value className="java.lang.String">N</Value>
+</Feature>
+</Annotation>
+<Annotation Id="7" Type="treatment" StartNode="144" EndNode="152">
+<Feature>
+  <Name className="java.lang.String">pos</Name>
+  <Value className="java.lang.String">V</Value>
+</Feature>
+</Annotation>
+<Annotation Id="8" Type="time" StartNode="257" EndNode="261">
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">period</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">pos</Name>
+  <Value className="java.lang.String">N</Value>
+</Feature>
+</Annotation>
+<Annotation Id="9" Type="token" StartNode="303" EndNode="330">
+<Feature>
+  <Name className="java.lang.String">morphology</Name>
+  <Value className="java.lang.String"></Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">lemma</Name>
+  <Value className="java.lang.String"></Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">pos</Name>
+  <Value className="java.lang.String">A</Value>
+</Feature>
+</Annotation>
+<Annotation Id="10" Type="symptom" StartNode="303" EndNode="311">
+</Annotation>
+<Annotation Id="11" Type="token" StartNode="312" EndNode="325">
+</Annotation>
+<Annotation Id="12" Type="token" StartNode="326" EndNode="330">
+<Feature>
+  <Name className="java.lang.String">pos</Name>
+  <Value className="java.lang.String">N</Value>
+</Feature>
+</Annotation>
+<Annotation Id="13" Type="token" StartNode="285" EndNode="290">
+<Feature>
+  <Name className="java.lang.String">morphology</Name>
+  <Value className="java.lang.String">Ncfsgn</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">lemma</Name>
+  <Value className="java.lang.String">умови</Value>
+</Feature>
+</Annotation>
+<Annotation Id="14" Type="token" StartNode="291" EndNode="302">
+<Feature>
+  <Name className="java.lang.String">morphology</Name>
+  <Value className="java.lang.String">Ncfsgn</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">lemma</Name>
+  <Value className="java.lang.String">відсутності</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">pos</Name>
+  <Value className="java.lang.String">N</Value>
+</Feature>
+</Annotation>
+<Annotation Id="15" Type="token" StartNode="332" EndNode="342">
+<Feature>
+  <Name className="java.lang.String">morphology</Name>
+  <Value className="java.lang.String">Rp</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">lemma</Name>
+  <Value className="java.lang.String">насамперед</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">pos</Name>
+  <Value className="java.lang.String">R</Value>
+</Feature>
+</Annotation>
+<Annotation Id="17" Type="illness" StartNode="413" EndNode="424">
+<Feature>
+  <Name className="java.lang.String">morphology</Name>
+  <Value className="java.lang.String"></Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">lemma</Name>
+  <Value className="java.lang.String"></Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">pos</Name>
+  <Value className="java.lang.String">N</Value>
+</Feature>
+</Annotation>
+<Annotation Id="16" Type="token" StartNode="343" EndNode="349">
+<Feature>
+  <Name className="java.lang.String">morphology</Name>
+  <Value className="java.lang.String">Ncmsnn</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">lemma</Name>
+  <Value className="java.lang.String">рівень</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">pos</Name>
+  <Value className="java.lang.String">N</Value>
+</Feature>
+</Annotation>
+<Annotation Id="19" Type="sex" StartNode="472" EndNode="477">
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">female</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">pos</Name>
+  <Value className="java.lang.String">N</Value>
+</Feature>
+</Annotation>
+<Annotation Id="18" Type="treatment" StartNode="431" EndNode="440">
+<Feature>
+  <Name className="java.lang.String">morphology</Name>
+  <Value className="java.lang.String"></Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">lemma</Name>
+  <Value className="java.lang.String"></Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">pos</Name>
+  <Value className="java.lang.String">N</Value>
+</Feature>
+</Annotation>
+<Annotation Id="21" Type="treatment" StartNode="701" EndNode="709">
+<Feature>
+  <Name className="java.lang.String">pos</Name>
+  <Value className="java.lang.String">V</Value>
+</Feature>
+</Annotation>
+<Annotation Id="20" Type="treatment" StartNode="494" EndNode="503">
+<Feature>
+  <Name className="java.lang.String">pos</Name>
+  <Value className="java.lang.String">N</Value>
+</Feature>
+</Annotation>
+<Annotation Id="23" Type="person" StartNode="781" EndNode="794">
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">position</Value>
+</Feature>
+</Annotation>
+<Annotation Id="22" Type="person" StartNode="796" EndNode="810">
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">name</Value>
+</Feature>
+</Annotation>
+<Annotation Id="25" Type="token" StartNode="787" EndNode="794">
+<Feature>
+  <Name className="java.lang.String">pos</Name>
+  <Value className="java.lang.String">N</Value>
+</Feature>
+</Annotation>
+<Annotation Id="24" Type="token" StartNode="780" EndNode="786">
+<Feature>
+  <Name className="java.lang.String">pos</Name>
+  <Value className="java.lang.String">N</Value>
+</Feature>
+</Annotation>
+<Annotation Id="27" Type="token" StartNode="772" EndNode="779">
+<Feature>
+  <Name className="java.lang.String">morphology</Name>
+  <Value className="java.lang.String">Ncfsin</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">lemma</Name>
+  <Value className="java.lang.String">повагою</Value>
+</Feature>
+</Annotation>
+<Annotation Id="26" Type="token" StartNode="770" EndNode="771">
+<Feature>
+  <Name className="java.lang.String">morphology</Name>
+  <Value className="java.lang.String">Spsi</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">lemma</Name>
+  <Value className="java.lang.String">З</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">pos</Name>
+  <Value className="java.lang.String">S</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Original markups">
+<Annotation Id="0" Type="paragraph" StartNode="0" EndNode="810">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

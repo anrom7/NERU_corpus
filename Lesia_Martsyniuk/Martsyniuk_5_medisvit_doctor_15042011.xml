@@ -1,0 +1,212 @@
+<?xml version='1.0' encoding='utf-8'?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+<Feature>
+  <Name className="java.lang.String">MimeType</Name>
+  <Value className="java.lang.String">text/plain</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">gate.SourceURL</Name>
+  <Value className="java.lang.String">file:/C:/Users/Буська/Desktop/відгуки/Martsyniuk_5_medisvit_doctor_15042011.txt</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">docNewLineType</Name>
+  <Value className="java.lang.String">CRLF</Value>
+</Feature>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0" />medisvit_doctor&#xd;<Node id="16" />
+Додано: <Node id="25" />15.04.2011<Node id="35" /> <Node id="36" />11:24<Node id="41" />&#xd;
+у мене <Node id="50" />6<Node id="51" /> числа зробили <Node id="66" />операцію<Node id="74" />, <Node id="76" />видалили<Node id="84" /> <Node id="85" />фіброаденому<Node id="97" />, скажіть через скільки часу можна &#xd;
+знімати шви? Мені сказали шо через <Node id="169" />2 неділі<Node id="177" />, не запізно буде?
+Добрий<Node id="202" /> день<Node id="207" />, шановний <Node id="218" />автор<Node id="223" /> питання.&#xd;
+Строки зняття швів при подібних <Node id="266" />операціях<Node id="275" /> не визначені якимись нормами, і залежать від &#xd;
+характеру самого втручання (від того який об’єм тканин видалено, який сформувався натяг &#xd;
+шкіри, та ін.), стану післяопераційної рани (наприклад наявність <Node id="478" />запалення<Node id="487" />), індивідуальних &#xd;
+особливостей пацієнта. Строки визначає тільки лікуючий <Node id="562" />лікар<Node id="567" />. Повірте, що утримувати шви на &#xd;
+рані зайвий час жоден <Node id="623" />хірург<Node id="629" /> не схоче, але передчасне зняття швів також небажане, бо може &#xd;
+призвести до розкриття рани. Тому раджу Вам регулярно приходити на <Node id="760" />перев’язки<Node id="770" /> та &#xd;
+контрольні <Node id="787" />огляди<Node id="793" />. Як тільки буде можливо, <Node id="819" />лікар<Node id="824" /> сам запропонує зняти шви.&#xd;
+<Node id="852" />З<Node id="853" /> <Node id="854" />повагою<Node id="861" />, <Node id="863" />лікар<Node id="868" />-<Node id="869" />онколог<Node id="876" />, <Node id="878" />Філоненко А.Г<Node id="891" /></TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+<Annotation Id="1" Type="person" StartNode="0" EndNode="16">
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">nickname</Value>
+</Feature>
+</Annotation>
+<Annotation Id="2" Type="time" StartNode="25" EndNode="35">
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">date</Value>
+</Feature>
+</Annotation>
+<Annotation Id="3" Type="time" StartNode="36" EndNode="41">
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">time</Value>
+</Feature>
+</Annotation>
+<Annotation Id="4" Type="time" StartNode="50" EndNode="51">
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">date</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">pos</Name>
+  <Value className="java.lang.String">M</Value>
+</Feature>
+</Annotation>
+<Annotation Id="5" Type="treatment" StartNode="66" EndNode="74">
+<Feature>
+  <Name className="java.lang.String">pos</Name>
+  <Value className="java.lang.String">N</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6" Type="treatment" StartNode="76" EndNode="84">
+<Feature>
+  <Name className="java.lang.String">pos</Name>
+  <Value className="java.lang.String">V</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Original markups">
+<Annotation Id="0" Type="paragraph" StartNode="0" EndNode="891">
+</Annotation>
+<Annotation Id="7" Type="illness" StartNode="85" EndNode="97">
+<Feature>
+  <Name className="java.lang.String">pos</Name>
+  <Value className="java.lang.String">N</Value>
+</Feature>
+</Annotation>
+<Annotation Id="8" Type="time" StartNode="169" EndNode="177">
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">period</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">pos</Name>
+  <Value className="java.lang.String">N</Value>
+</Feature>
+</Annotation>
+<Annotation Id="9" Type="time" StartNode="202" EndNode="207">
+<Feature>
+  <Name className="java.lang.String">pos</Name>
+  <Value className="java.lang.String">N</Value>
+</Feature>
+</Annotation>
+<Annotation Id="10" Type="person" StartNode="218" EndNode="223">
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">position</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">pos</Name>
+  <Value className="java.lang.String">N</Value>
+</Feature>
+</Annotation>
+<Annotation Id="11" Type="treatment" StartNode="266" EndNode="275">
+<Feature>
+  <Name className="java.lang.String">pos</Name>
+  <Value className="java.lang.String">N</Value>
+</Feature>
+</Annotation>
+<Annotation Id="12" Type="illness" StartNode="478" EndNode="487">
+<Feature>
+  <Name className="java.lang.String">pos</Name>
+  <Value className="java.lang.String">N</Value>
+</Feature>
+</Annotation>
+<Annotation Id="13" Type="person" StartNode="562" EndNode="567">
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">position</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">pos</Name>
+  <Value className="java.lang.String">N</Value>
+</Feature>
+</Annotation>
+<Annotation Id="14" Type="person" StartNode="623" EndNode="629">
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">position</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">pos</Name>
+  <Value className="java.lang.String">N</Value>
+</Feature>
+</Annotation>
+<Annotation Id="15" Type="treatment" StartNode="760" EndNode="770">
+<Feature>
+  <Name className="java.lang.String">pos</Name>
+  <Value className="java.lang.String">N</Value>
+</Feature>
+</Annotation>
+<Annotation Id="17" Type="person" StartNode="819" EndNode="824">
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">position</Value>
+</Feature>
+</Annotation>
+<Annotation Id="16" Type="treatment" StartNode="787" EndNode="793">
+</Annotation>
+<Annotation Id="19" Type="person" StartNode="863" EndNode="876">
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">position</Value>
+</Feature>
+</Annotation>
+<Annotation Id="18" Type="person" StartNode="878" EndNode="891">
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">name</Value>
+</Feature>
+</Annotation>
+<Annotation Id="21" Type="token" StartNode="869" EndNode="876">
+<Feature>
+  <Name className="java.lang.String">pos</Name>
+  <Value className="java.lang.String">N</Value>
+</Feature>
+</Annotation>
+<Annotation Id="20" Type="token" StartNode="863" EndNode="868">
+<Feature>
+  <Name className="java.lang.String">pos</Name>
+  <Value className="java.lang.String">N</Value>
+</Feature>
+</Annotation>
+<Annotation Id="23" Type="token" StartNode="854" EndNode="861">
+<Feature>
+  <Name className="java.lang.String">morphology</Name>
+  <Value className="java.lang.String">Ncfsin</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">lemma</Name>
+  <Value className="java.lang.String">повагою</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">pos</Name>
+  <Value className="java.lang.String">N</Value>
+</Feature>
+</Annotation>
+<Annotation Id="22" Type="token" StartNode="852" EndNode="853">
+<Feature>
+  <Name className="java.lang.String">morphology</Name>
+  <Value className="java.lang.String">Spsi</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">lemma</Name>
+  <Value className="java.lang.String">З</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>
