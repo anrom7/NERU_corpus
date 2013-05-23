@@ -1,0 +1,123 @@
+<?xml version='1.0' encoding='utf-8'?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+<Feature>
+  <Name className="java.lang.String">MimeType</Name>
+  <Value className="java.lang.String">text/plain</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">gate.SourceURL</Name>
+  <Value className="java.lang.String">file:/C:/Users/Буська/Desktop/відгуки/Martsyniuk_2_liliya777_24032011.txt</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">docNewLineType</Name>
+  <Value className="java.lang.String">CRLF</Value>
+</Feature>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0" />liliya777&#xd;<Node id="10" />
+<Node id="11" />Фіброаденома<Node id="23" /> <Node id="24" />молочної<Node id="32" /> <Node id="33" />залози&#xd;<Node id="40" />
+Додано: <Node id="49" />24.03.2011<Node id="59" /> <Node id="60" />22:46<Node id="65" />&#xd;
+Доброго <Node id="75" />дня<Node id="78" />! Порадьте будь ласка що робити, мені <Node id="116" />20<Node id="118" /> років, у правій молочній залозі виявили &#xd;
+<Node id="161" />фіброаденому<Node id="173" /> 14х7 мм. Чи обов`язково <Node id="198" />видаляти<Node id="206" /> чи можливі інші шляхи <Node id="229" />лікування<Node id="238" />???&#xd;
+Чи правда, що після <Node id="263" />операції<Node id="271" /> виникають нові <Node id="287" />фіброаденоми<Node id="299" />???<Node id="302" /></TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+<Annotation Id="1" Type="person" StartNode="0" EndNode="10">
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">nickname</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Original markups">
+<Annotation Id="0" Type="paragraph" StartNode="0" EndNode="302">
+</Annotation>
+<Annotation Id="7" Type="token" StartNode="11" EndNode="40">
+<Feature>
+  <Name className="java.lang.String">pos</Name>
+  <Value className="java.lang.String">N</Value>
+</Feature>
+</Annotation>
+<Annotation Id="8" Type="illness" StartNode="11" EndNode="23">
+</Annotation>
+<Annotation Id="9" Type="token" StartNode="24" EndNode="32">
+<Feature>
+  <Name className="java.lang.String">pos</Name>
+  <Value className="java.lang.String">A</Value>
+</Feature>
+</Annotation>
+<Annotation Id="10" Type="token" StartNode="33" EndNode="40">
+<Feature>
+  <Name className="java.lang.String">pos</Name>
+  <Value className="java.lang.String">N</Value>
+</Feature>
+</Annotation>
+<Annotation Id="11" Type="time" StartNode="49" EndNode="59">
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">date</Value>
+</Feature>
+</Annotation>
+<Annotation Id="12" Type="time" StartNode="60" EndNode="65">
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">time</Value>
+</Feature>
+</Annotation>
+<Annotation Id="13" Type="time" StartNode="75" EndNode="78">
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">period</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">pos</Name>
+  <Value className="java.lang.String">N</Value>
+</Feature>
+</Annotation>
+<Annotation Id="14" Type="age" StartNode="116" EndNode="118">
+<Feature>
+  <Name className="java.lang.String">pos</Name>
+  <Value className="java.lang.String">M</Value>
+</Feature>
+</Annotation>
+<Annotation Id="15" Type="illness" StartNode="161" EndNode="173">
+<Feature>
+  <Name className="java.lang.String">pos</Name>
+  <Value className="java.lang.String">N</Value>
+</Feature>
+</Annotation>
+<Annotation Id="17" Type="treatment" StartNode="229" EndNode="238">
+<Feature>
+  <Name className="java.lang.String">pos</Name>
+  <Value className="java.lang.String">N</Value>
+</Feature>
+</Annotation>
+<Annotation Id="16" Type="treatment" StartNode="198" EndNode="206">
+<Feature>
+  <Name className="java.lang.String">pos</Name>
+  <Value className="java.lang.String">V</Value>
+</Feature>
+</Annotation>
+<Annotation Id="19" Type="treatment" StartNode="263" EndNode="271">
+<Feature>
+  <Name className="java.lang.String">pos</Name>
+  <Value className="java.lang.String">N</Value>
+</Feature>
+</Annotation>
+<Annotation Id="18" Type="illness" StartNode="287" EndNode="299">
+<Feature>
+  <Name className="java.lang.String">pos</Name>
+  <Value className="java.lang.String">N</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>
