@@ -4,12 +4,12 @@
 
 <GateDocumentFeatures>
 <Feature>
-  <Name className="java.lang.String">MimeType</Name>
-  <Value className="java.lang.String">text/plain</Value>
-</Feature>
-<Feature>
   <Name className="java.lang.String">gate.SourceURL</Name>
   <Value className="java.lang.String">file:/D:/studies/5%20курс/мій%205курс/2%20семестер/кл/розрIIчастина/doc/Komar_4_medisvit_doctor_06.06.2012.txt</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">MimeType</Name>
+  <Value className="java.lang.String">text/plain</Value>
 </Feature>
 <Feature>
   <Name className="java.lang.String">docNewLineType</Name>
@@ -21,7 +21,7 @@
 <TextWithNodes><Node id="0" />medisvit_doctor&#xd;<Node id="16" />
 Додано: <Node id="25" />06.06.2012<Node id="35" /> <Node id="36" />12:25&#xd;<Node id="42" />
 тому вирішив задати питання тут) Доброго дня. Скажіть, будь ласка, яка <Node id="114" />достовірність<Node id="127" /> <Node id="128" />тесту<Node id="133" /> <Node id="134" />ІФА<Node id="137" /> <Node id="138" />на<Node id="140" /> <Node id="141" />ВІЛ<Node id="144" /> <Node id="145" />через<Node id="150" /> <Node id="151" />2<Node id="152" /> <Node id="153" />місяці<Node id="159" /> <Node id="160" />після<Node id="165" /> <Node id="166" />можливо<Node id="173" /> ризикованого контакту? дякую, бо аналіз показав, що антитіл не виявлено, але всеодно переживаю. дуже переживаю... скоро в психушку попаду. дякую&#xd;
-Доброго дня, достовірність <Node id="347" />тесту<Node id="352" /> <Node id="353" />біля<Node id="357" /> <Node id="358" />80<Node id="360" />%<Node id="361" />, тому рекомендується здавати <Node id="391" />кров<Node id="395" /> <Node id="396" />повторно<Node id="404" /> <Node id="405" />через<Node id="410" /> <Node id="411" />3<Node id="412" /> <Node id="413" />місяці<Node id="419" />, <Node id="421" />та<Node id="423" /> <Node id="424" />пів<Node id="427" /> <Node id="428" />року<Node id="432" /> <Node id="433" />від<Node id="436" /> <Node id="437" />першої<Node id="443" /> здачі <Node id="450" />крові<Node id="455" /> <Node id="456" />на<Node id="458" /> <Node id="459" />ІФА<Node id="462" />. <Node id="464" />З<Node id="465" /> <Node id="466" />повагою<Node id="473" />, <Node id="475" />лікар<Node id="480" />-<Node id="481" />уролог<Node id="487" /> <Node id="488" />Ковальчук<Node id="497" /> <Node id="498" />В.Є.<Node id="502" /></TextWithNodes>
+Доброго дня, достовірність <Node id="347" />тесту<Node id="352" /> <Node id="353" />біля<Node id="357" /> <Node id="358" />80<Node id="360" />%<Node id="361" />, тому рекомендується здавати <Node id="391" />кров<Node id="395" /> <Node id="396" />повторно<Node id="404" /> <Node id="405" />через<Node id="410" /> <Node id="411" />3<Node id="412" /> <Node id="413" />місяці<Node id="419" />, <Node id="421" />та<Node id="423" /> <Node id="424" />пів<Node id="427" /> <Node id="428" />року<Node id="432" /> <Node id="433" />від<Node id="436" /> <Node id="437" />першої<Node id="443" /> здачі <Node id="450" />крові<Node id="455" /> <Node id="456" />на<Node id="458" /> <Node id="459" />ІФА<Node id="462" />. <Node id="464" />З<Node id="465" /> <Node id="466" />повагою<Node id="473" />, <Node id="475" />лікар<Node id="480" />-<Node id="481" />уролог<Node id="487" /> <Node id="488" />Ковальчук<Node id="497" /> <Node id="498" />В.<Node id="500" />Є.<Node id="502" /></TextWithNodes>
 <!-- The default annotation set -->
 
 <AnnotationSet>
@@ -369,12 +369,6 @@
   <Value className="java.lang.String">N</Value>
 </Feature>
 </Annotation>
-<Annotation Id="43" Type="token" StartNode="498" EndNode="502">
-<Feature>
-  <Name className="java.lang.String">pos</Name>
-  <Value className="java.lang.String">Y</Value>
-</Feature>
-</Annotation>
 <Annotation Id="40" Type="token" StartNode="475" EndNode="480">
 <Feature>
   <Name className="java.lang.String">pos</Name>
@@ -385,6 +379,12 @@
 <Feature>
   <Name className="java.lang.String">pos</Name>
   <Value className="java.lang.String">N</Value>
+</Feature>
+</Annotation>
+<Annotation Id="46" Type="token" StartNode="498" EndNode="500">
+<Feature>
+  <Name className="java.lang.String">pos</Name>
+  <Value className="java.lang.String">Y</Value>
 </Feature>
 </Annotation>
 <Annotation Id="44" Type="token" StartNode="466" EndNode="473">
@@ -413,6 +413,12 @@
 
 <AnnotationSet Name="Original markups">
 <Annotation Id="0" Type="paragraph" StartNode="0" EndNode="502">
+</Annotation>
+<Annotation Id="47" Type="token" StartNode="500" EndNode="502">
+<Feature>
+  <Name className="java.lang.String">pos</Name>
+  <Value className="java.lang.String">Y</Value>
+</Feature>
 </Annotation>
 </AnnotationSet>
 

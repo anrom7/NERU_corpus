@@ -4,12 +4,12 @@
 
 <GateDocumentFeatures>
 <Feature>
-  <Name className="java.lang.String">MimeType</Name>
-  <Value className="java.lang.String">text/plain</Value>
-</Feature>
-<Feature>
   <Name className="java.lang.String">gate.SourceURL</Name>
   <Value className="java.lang.String">file:/D:/studies/5%20курс/мій%205курс/2%20семестер/кл/розрIIчастина/doc/Komar_6_medisvit_doctor_26.06.2012.txt</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">MimeType</Name>
+  <Value className="java.lang.String">text/plain</Value>
 </Feature>
 <Feature>
   <Name className="java.lang.String">docNewLineType</Name>
@@ -21,7 +21,7 @@
 <TextWithNodes><Node id="0" />medisvit_doctor&#xd;<Node id="16" />
 Додано: <Node id="25" />26.06.2012<Node id="35" /> <Node id="36" />10:29<Node id="41" />&#xd;
 Доброго дня! У мене і всіх членів <Node id="77" />сім'ї<Node id="82" /> <Node id="83" />з'явились<Node id="92" /> <Node id="93" />прищі<Node id="98" /> <Node id="99" />на<Node id="101" /> <Node id="102" />тілі<Node id="106" />. Спочатку з'являється <Node id="129" />достатньо<Node id="138" /> <Node id="139" />велике<Node id="145" /> <Node id="146" />почервоніння<Node id="158" /> <Node id="159" />з<Node id="160" /> <Node id="161" />маленьким<Node id="170" /> <Node id="171" />водянистим<Node id="181" /> <Node id="182" />пухирцем<Node id="190" /> <Node id="191" />в<Node id="192" /> <Node id="193" />центрі<Node id="199" />, <Node id="201" />яке<Node id="204" /> <Node id="205" />свербить<Node id="213" />. Через декілька <Node id="230" />днів<Node id="234" /> <Node id="235" />цей<Node id="238" /> <Node id="239" />пухерець<Node id="247" /> <Node id="248" />засихає<Node id="255" /> <Node id="256" />і<Node id="257" /> на його місці залишається малесенька цяточка. <Node id="304" />Згодом<Node id="310" /> <Node id="311" />почервоніння<Node id="323" /> <Node id="324" />проходить<Node id="333" />, <Node id="335" />але<Node id="338" /> ця цяточка залишається і навіть <Node id="371" />продовжує<Node id="380" /> <Node id="381" />трохи<Node id="386" /> <Node id="387" />свербіти<Node id="395" />. Що це може бути і як лікуватися?&#xd;
-Доброго дня, шановний автор запитання! Схожі клінічні прояви можуть бути при багатьох захворюваннях, в тому числі і при інфекційних. Тому, для постановки точного діагноза і призначення адекватного лікування Вам необхідно <Node id="652" />звернутися<Node id="662" /> <Node id="663" />до<Node id="665" /> <Node id="666" />лікаря<Node id="672" /> <Node id="673" />на<Node id="675" /> <Node id="676" />очний<Node id="681" /> прийом. <Node id="690" />З<Node id="691" /> <Node id="692" />повагою<Node id="699" />, <Node id="701" />лікар<Node id="706" />-<Node id="707" />дерматолог<Node id="717" />, <Node id="719" />Вишенський<Node id="729" /> <Node id="730" />А.П.<Node id="734" /></TextWithNodes>
+Доброго дня, шановний автор запитання! Схожі клінічні прояви можуть бути при багатьох захворюваннях, в тому числі і при інфекційних. Тому, для постановки точного діагноза і призначення адекватного лікування Вам необхідно <Node id="652" />звернутися<Node id="662" /> <Node id="663" />до<Node id="665" /> <Node id="666" />лікаря<Node id="672" /> <Node id="673" />на<Node id="675" /> <Node id="676" />очний<Node id="681" /> прийом. <Node id="690" />З<Node id="691" /> <Node id="692" />повагою<Node id="699" />, <Node id="701" />лікар<Node id="706" />-<Node id="707" />дерматолог<Node id="717" />, <Node id="719" />Вишенський<Node id="729" /> <Node id="730" />А.<Node id="732" />П.<Node id="734" /></TextWithNodes>
 <!-- The default annotation set -->
 
 <AnnotationSet>
@@ -133,12 +133,6 @@
 <Feature>
   <Name className="java.lang.String">pos</Name>
   <Value className="java.lang.String">N</Value>
-</Feature>
-</Annotation>
-<Annotation Id="25" Type="token" StartNode="730" EndNode="734">
-<Feature>
-  <Name className="java.lang.String">pos</Name>
-  <Value className="java.lang.String">Y</Value>
 </Feature>
 </Annotation>
 <Annotation Id="24" Type="token" StartNode="719" EndNode="729">
@@ -509,6 +503,18 @@
 <Feature>
   <Name className="java.lang.String">pos</Name>
   <Value className="java.lang.String">A</Value>
+</Feature>
+</Annotation>
+<Annotation Id="54" Type="token" StartNode="732" EndNode="734">
+<Feature>
+  <Name className="java.lang.String">pos</Name>
+  <Value className="java.lang.String">Y</Value>
+</Feature>
+</Annotation>
+<Annotation Id="53" Type="token" StartNode="730" EndNode="732">
+<Feature>
+  <Name className="java.lang.String">pos</Name>
+  <Value className="java.lang.String">Y</Value>
 </Feature>
 </Annotation>
 <Annotation Id="52" Type="token" StartNode="381" EndNode="386">
