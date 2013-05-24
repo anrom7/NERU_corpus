@@ -20,9 +20,9 @@
 
 <TextWithNodes><Node id="0" />boss&#xd;<Node id="5" />
 Ліва нирка&#xd;
-Додано: <Node id="26" />30<Node id="28" />.<Node id="29" />08<Node id="31" />.<Node id="32" />2012<Node id="36" /> <Node id="37" />16<Node id="39" />:<Node id="40" />39&#xd;<Node id="43" />
-<Node id="44" />мені<Node id="48" /> <Node id="49" />17<Node id="51" /> <Node id="52" />років<Node id="57" />, <Node id="59" />28<Node id="61" />,<Node id="62" />08<Node id="64" />,<Node id="65" />2012<Node id="69" />р<Node id="70" /> <Node id="71" />зробив<Node id="77" /> <Node id="78" />УЗД<Node id="81" /> <Node id="82" />сечовивідної<Node id="94" /> <Node id="95" />системи<Node id="102" />.Ліва нирка насторожила, хочу готуватись до виступу силового характеру, навантаження під час підготовки паде саме на нирки, ось що написали щодо нирки.... Ліва ринка: Звичайної форми, розмірів - 105/59/56 мм. Фізіологічна рухлитвість збережена в повному об'ємі. Контури рівні, чіткі. Фрагменти капсули без особливостей. Співвідношення паренхіми і кортикального шару не порушене.Кортикальний шар - 20,0ммЧМС нирки не розширине, ущільнене, гіперехогенна. Візуалізуються одиничні деформовані порожнинки до 12,0 мм з потовщеним гіперехогеним контуром. Впорожнині нирки гіперехогенні включення і конкременти не виявлені.Сечоводи без ознак дилятації. Кровоплини не порушені.&#xd;
-Заключення: ехо-ознаки - помірно виражених дифузних змін лівої нирки. <Node id="842" />Прошу<Node id="847" /> <Node id="848" />лікарів<Node id="855" /> <Node id="856" />дати<Node id="860" /> <Node id="861" />мені<Node id="865" /> розуміти що це, і чи це страшне щось, і якщо можливо як скоро вилікується!<Node id="940" /></TextWithNodes>
+<Node id="18" />Додано<Node id="24" />: <Node id="26" />30<Node id="28" />.<Node id="29" />08<Node id="31" />.<Node id="32" />2012<Node id="36" /> <Node id="37" />16<Node id="39" />:<Node id="40" />39&#xd;<Node id="43" />
+<Node id="44" />мені<Node id="48" /> <Node id="49" />17<Node id="51" /> <Node id="52" />років<Node id="57" />, <Node id="59" />28<Node id="61" />,<Node id="62" />08<Node id="64" />,<Node id="65" />2012<Node id="69" />р<Node id="70" /> <Node id="71" />зробив<Node id="77" /> <Node id="78" />УЗД<Node id="81" /> <Node id="82" />сечовивідної<Node id="94" /> <Node id="95" />системи<Node id="102" />.Ліва нирка насторожила, хочу готуватись до виступу силового характеру, навантаження під час підготовки паде саме на нирки, ось що написали щодо нирки.... Ліва ринка: Звичайної форми, розмірів - 105/59/56 мм. Фізіологічна рухлитвість збережена в повному об'ємі. Контури рівні, чіткі. Фрагменти капсули без особливостей. Співвідношення паренхіми і кортикального шару не порушене.Кортикальний шар - 20,0ммЧМС нирки не розширине, ущільнене, гіперехогенна. Візуалізуються одиничні деформовані порожнинки до 12,0 мм з потовщеним гіперехогеним контуром. Впорожнині нирки гіперехогенні включення і конкременти не виявлені.Сечоводи <Node id="726" />без<Node id="729" /> <Node id="730" />ознак<Node id="735" /> <Node id="736" />дилятації<Node id="745" />. Кровоплини не порушені.&#xd;
+Заключення: ехо-ознаки - <Node id="797" />помірно<Node id="804" /> <Node id="805" />виражених<Node id="814" /> <Node id="815" />дифузних<Node id="823" /> <Node id="824" />змін<Node id="828" /> <Node id="829" />лівої<Node id="834" /> <Node id="835" />нирки<Node id="840" />. <Node id="842" />Прошу<Node id="847" /> <Node id="848" />лікарів<Node id="855" /> <Node id="856" />дати<Node id="860" /> <Node id="861" />мені<Node id="865" /> розуміти що це, і чи це страшне щось, і якщо можливо як скоро вилікується!<Node id="940" /></TextWithNodes>
 <!-- The default annotation set -->
 
 <AnnotationSet>
@@ -240,10 +240,94 @@
   <Value className="java.lang.String">M</Value>
 </Feature>
 </Annotation>
+<Annotation Id="42" Type="illness" StartNode="736" EndNode="745">
+</Annotation>
+<Annotation Id="43" Type="token" StartNode="736" EndNode="745">
+</Annotation>
 <Annotation Id="40" Type="token" StartNode="65" EndNode="69">
 <Feature>
   <Name className="java.lang.String">pos</Name>
   <Value className="java.lang.String">M</Value>
+</Feature>
+</Annotation>
+<Annotation Id="41" Type="token" StartNode="18" EndNode="24">
+<Feature>
+  <Name className="java.lang.String">morphology</Name>
+  <Value className="java.lang.String">Vmeo</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">lemma</Name>
+  <Value className="java.lang.String">додати</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">pos</Name>
+  <Value className="java.lang.String">V</Value>
+</Feature>
+</Annotation>
+<Annotation Id="46" Type="token" StartNode="815" EndNode="823">
+</Annotation>
+<Annotation Id="47" Type="token" StartNode="835" EndNode="840">
+</Annotation>
+<Annotation Id="44" Type="token" StartNode="726" EndNode="729">
+<Feature>
+  <Name className="java.lang.String">morphology</Name>
+  <Value className="java.lang.String">Spcg</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">lemma</Name>
+  <Value className="java.lang.String">без</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">pos</Name>
+  <Value className="java.lang.String">S</Value>
+</Feature>
+</Annotation>
+<Annotation Id="45" Type="token" StartNode="730" EndNode="735">
+<Feature>
+  <Name className="java.lang.String">morphology</Name>
+  <Value className="java.lang.String">Ncfpgn</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">lemma</Name>
+  <Value className="java.lang.String">ознака</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">pos</Name>
+  <Value className="java.lang.String">N</Value>
+</Feature>
+</Annotation>
+<Annotation Id="51" Type="token" StartNode="797" EndNode="804">
+<Feature>
+  <Name className="java.lang.String">morphology</Name>
+  <Value className="java.lang.String">R</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">lemma</Name>
+  <Value className="java.lang.String">помірно</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">pos</Name>
+  <Value className="java.lang.String">R</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50" Type="symptom" StartNode="815" EndNode="840">
+</Annotation>
+<Annotation Id="49" Type="token" StartNode="829" EndNode="834">
+</Annotation>
+<Annotation Id="48" Type="token" StartNode="824" EndNode="828">
+</Annotation>
+<Annotation Id="52" Type="token" StartNode="805" EndNode="814">
+<Feature>
+  <Name className="java.lang.String">morphology</Name>
+  <Value className="java.lang.String">Ap--pgf-ep</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">lemma</Name>
+  <Value className="java.lang.String">виражений</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">pos</Name>
+  <Value className="java.lang.String">A</Value>
 </Feature>
 </Annotation>
 </AnnotationSet>
