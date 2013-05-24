@@ -4,12 +4,12 @@
 
 <GateDocumentFeatures>
 <Feature>
-  <Name className="java.lang.String">MimeType</Name>
-  <Value className="java.lang.String">text/plain</Value>
-</Feature>
-<Feature>
   <Name className="java.lang.String">gate.SourceURL</Name>
   <Value className="java.lang.String">file:/D:/Мої%20документи/Romanyuk_2_semestr/RGR_2_1/tkachuk_01_gordvit_13052010.txt</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">MimeType</Name>
+  <Value className="java.lang.String">text/plain</Value>
 </Feature>
 <Feature>
   <Name className="java.lang.String">docNewLineType</Name>
@@ -20,8 +20,8 @@
 
 <TextWithNodes><Node id="0" />gordvit&#xd;<Node id="8" />
 <Node id="9" />болі<Node id="13" /> <Node id="14" />у<Node id="15" /> <Node id="16" />животі<Node id="22" />&#xd;<Node id="23" />
-Додано: <Node id="32" />13<Node id="34" />.<Node id="35" />05<Node id="37" />.<Node id="38" />2010<Node id="42" /> <Node id="43" />08<Node id="45" />:<Node id="46" />58<Node id="48" />&#xd;<Node id="49" />
-Доброго дня. підкажіть будь-ласка. <Node id="85" />у<Node id="86" /> <Node id="87" />кінці<Node id="92" /> <Node id="93" />2009<Node id="97" /> <Node id="98" />року<Node id="102" /> <Node id="103" />перехворів<Node id="113" /> <Node id="114" />пневмонією<Node id="124" />, <Node id="126" />вживав<Node id="132" /> <Node id="133" />багато<Node id="139" /> <Node id="140" />антибіотиків<Node id="152" />. <Node id="154" />на<Node id="156" /> <Node id="157" />початку<Node id="164" /> <Node id="165" />2010<Node id="169" /> <Node id="170" />року<Node id="174" /> поставили<Node id="184" /> <Node id="185" />діагноз<Node id="192" /> - <Node id="195" />ерозія<Node id="201" /> <Node id="202" />шлунка<Node id="208" />. <Node id="210" />вживав<Node id="216" /> <Node id="217" />знову<Node id="222" /> <Node id="223" />антибіотики<Node id="234" />. <Node id="236" />біль<Node id="240" /> <Node id="241" />у<Node id="242" /> <Node id="243" />животі<Node id="249" /> <Node id="250" />не<Node id="252" /> <Node id="253" />припинялась<Node id="264" />. здав аналізи - виявили лямблії. пролікувався. болі залишилися. <Node id="329" />лікар<Node id="334" /> <Node id="335" />сказав<Node id="341" /> - <Node id="344" />дисбактеріоз<Node id="356" /> - <Node id="359" />призначив<Node id="368" /> <Node id="369" />колоти<Node id="375" /> <Node id="376" />ехінацею<Node id="384" />, <Node id="386" />мукозу<Node id="392" />. проколов. болі залишились, <Node id="421" />тошнота<Node id="428" />, змінений стул. підкажіть що робити?<Node id="465" /></TextWithNodes>
+<Node id="24" />Додано<Node id="30" />: <Node id="32" />13<Node id="34" />.<Node id="35" />05<Node id="37" />.<Node id="38" />2010<Node id="42" /> <Node id="43" />08<Node id="45" />:<Node id="46" />58<Node id="48" />&#xd;<Node id="49" />
+Доброго дня. підкажіть будь-ласка. <Node id="85" />у<Node id="86" /> <Node id="87" />кінці<Node id="92" /> <Node id="93" />2009<Node id="97" /> <Node id="98" />року<Node id="102" /> <Node id="103" />перехворів<Node id="113" /> <Node id="114" />пневмонією<Node id="124" />, <Node id="126" />вживав<Node id="132" /> <Node id="133" />багато<Node id="139" /> <Node id="140" />антибіотиків<Node id="152" />. <Node id="154" />на<Node id="156" /> <Node id="157" />початку<Node id="164" /> <Node id="165" />2010<Node id="169" /> <Node id="170" />року<Node id="174" /> поставили<Node id="184" /> <Node id="185" />діагноз<Node id="192" /> - <Node id="195" />ерозія<Node id="201" /> <Node id="202" />шлунка<Node id="208" />. <Node id="210" />вживав<Node id="216" /> <Node id="217" />знову<Node id="222" /> <Node id="223" />антибіотики<Node id="234" />. <Node id="236" />біль<Node id="240" /> <Node id="241" />у<Node id="242" /> <Node id="243" />животі<Node id="249" /> <Node id="250" />не<Node id="252" /> <Node id="253" />припинялась<Node id="264" />. здав аналізи - виявили лямблії. пролікувався. болі залишилися. <Node id="329" />лікар<Node id="334" /> <Node id="335" />сказав<Node id="341" /> - <Node id="344" />дисбактеріоз<Node id="356" /> - <Node id="359" />призначив<Node id="368" /> <Node id="369" />колоти<Node id="375" /> <Node id="376" />ехінацею<Node id="384" />, <Node id="386" />мукозу<Node id="392" />. проколов. <Node id="404" />болі<Node id="408" /> <Node id="409" />залишились<Node id="419" />, <Node id="421" />тошнота<Node id="428" />, <Node id="430" />змінений<Node id="438" /> <Node id="439" />стул<Node id="443" />. підкажіть що робити?<Node id="465" /></TextWithNodes>
 <!-- The default annotation set -->
 
 <AnnotationSet>
@@ -429,6 +429,20 @@
 </Annotation>
 <Annotation Id="56" Type="symptom" StartNode="236" EndNode="249">
 </Annotation>
+<Annotation Id="63" Type="token" StartNode="24" EndNode="30">
+<Feature>
+  <Name className="java.lang.String">morphology</Name>
+  <Value className="java.lang.String">Vmeo</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">lemma</Name>
+  <Value className="java.lang.String">додано</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">pos</Name>
+  <Value className="java.lang.String">V</Value>
+</Feature>
+</Annotation>
 <Annotation Id="61" Type="token" StartNode="46" EndNode="48">
 <Feature>
   <Name className="java.lang.String">pos</Name>
@@ -440,6 +454,30 @@
   <Name className="java.lang.String">pos</Name>
   <Value className="java.lang.String">M</Value>
 </Feature>
+</Annotation>
+<Annotation Id="68" Type="symptom" StartNode="404" EndNode="408">
+</Annotation>
+<Annotation Id="69" Type="token" StartNode="404" EndNode="408">
+</Annotation>
+<Annotation Id="70" Type="token" StartNode="409" EndNode="419">
+<Feature>
+  <Name className="java.lang.String">morphology</Name>
+  <Value className="java.lang.String">Vmbis-p</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">lemma</Name>
+  <Value className="java.lang.String">залишитися</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">pos</Name>
+  <Value className="java.lang.String">V</Value>
+</Feature>
+</Annotation>
+<Annotation Id="64" Type="symptom" StartNode="430" EndNode="443">
+</Annotation>
+<Annotation Id="65" Type="token" StartNode="430" EndNode="438">
+</Annotation>
+<Annotation Id="66" Type="token" StartNode="439" EndNode="443">
 </Annotation>
 </AnnotationSet>
 

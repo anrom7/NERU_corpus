@@ -4,12 +4,12 @@
 
 <GateDocumentFeatures>
 <Feature>
-  <Name className="java.lang.String">gate.SourceURL</Name>
-  <Value className="java.lang.String">file:/D:/Мої%20документи/Romanyuk_2_semestr/RGR_2_1/tkachuk_07_a-romanuk_26042012.txt</Value>
-</Feature>
-<Feature>
   <Name className="java.lang.String">MimeType</Name>
   <Value className="java.lang.String">text/plain</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">gate.SourceURL</Name>
+  <Value className="java.lang.String">file:/D:/Мої%20документи/Romanyuk_2_semestr/RGR_2_1/tkachuk_07_a-romanuk_26042012.txt</Value>
 </Feature>
 <Feature>
   <Name className="java.lang.String">docNewLineType</Name>
@@ -20,8 +20,8 @@
 
 <TextWithNodes><Node id="0" />a-romanuk&#xd;<Node id="10" />
 <Node id="11" />біль<Node id="15" /> <Node id="16" />в<Node id="17" /> <Node id="18" />низу<Node id="22" /> <Node id="23" />живота<Node id="29" />&#xd;
-Додано: <Node id="39" />26<Node id="41" />.<Node id="42" />04<Node id="44" />.<Node id="45" />2012<Node id="49" /> <Node id="50" />16<Node id="52" />:<Node id="53" />04<Node id="55" />&#xd;
-Доброго дня ! В мене така <Node id="83" />проблема<Node id="91" /> <Node id="92" />вже<Node id="95" /> <Node id="96" />протягом<Node id="104" /> <Node id="105" />тижня<Node id="110" /> <Node id="111" />відчуваю<Node id="119" /> <Node id="120" />постійний<Node id="129" /> <Node id="130" />біль<Node id="134" /> <Node id="135" />в<Node id="136" /> <Node id="137" />низу<Node id="141" /> <Node id="142" />живота<Node id="148" /> (<Node id="150" />так<Node id="153" /> <Node id="154" />ніби<Node id="158" /> постійно хочеться в туалет), але болю під час мочевипускання немає (<Node id="227" />як<Node id="229" /> <Node id="230" />при<Node id="233" /> <Node id="234" />циститі<Node id="241" />) . Підкажіть будь-ласка, що це може бути, і <Node id="286" />до<Node id="288" /> <Node id="289" />якого<Node id="294" /> <Node id="295" />лікаря<Node id="301" /> <Node id="302" />звернутися<Node id="312" />, чи це справа тільки в урології<Node id="344" /></TextWithNodes>
+<Node id="31" />Додано<Node id="37" />: <Node id="39" />26<Node id="41" />.<Node id="42" />04<Node id="44" />.<Node id="45" />2012<Node id="49" /> <Node id="50" />16<Node id="52" />:<Node id="53" />04<Node id="55" />&#xd;
+Доброго дня ! В мене така <Node id="83" />проблема<Node id="91" /> <Node id="92" />вже<Node id="95" /> <Node id="96" />протягом<Node id="104" /> <Node id="105" />тижня<Node id="110" /> <Node id="111" />відчуваю<Node id="119" /> <Node id="120" />постійний<Node id="129" /> <Node id="130" />біль<Node id="134" /> <Node id="135" />в<Node id="136" /> <Node id="137" />низу<Node id="141" /> <Node id="142" />живота<Node id="148" /> (<Node id="150" />так<Node id="153" /> <Node id="154" />ніби<Node id="158" /> постійно хочеться в <Node id="179" />туалет<Node id="185" />), <Node id="188" />але<Node id="191" /> <Node id="192" />болю<Node id="196" /> <Node id="197" />під<Node id="200" /> <Node id="201" />час<Node id="204" /> <Node id="205" />мочевипускання<Node id="219" /> немає (<Node id="227" />як<Node id="229" /> <Node id="230" />при<Node id="233" /> <Node id="234" />циститі<Node id="241" />) . Підкажіть будь-ласка, що це може бути, і <Node id="286" />до<Node id="288" /> <Node id="289" />якого<Node id="294" /> <Node id="295" />лікаря<Node id="301" /> <Node id="302" />звернутися<Node id="312" />, чи це справа тільки в урології<Node id="344" /></TextWithNodes>
 <!-- The default annotation set -->
 
 <AnnotationSet>
@@ -313,10 +313,62 @@
   <Value className="java.lang.String">M</Value>
 </Feature>
 </Annotation>
+<Annotation Id="43" Type="symptom" StartNode="192" EndNode="219">
+</Annotation>
 <Annotation Id="40" Type="token" StartNode="45" EndNode="49">
 <Feature>
   <Name className="java.lang.String">pos</Name>
   <Value className="java.lang.String">M</Value>
+</Feature>
+</Annotation>
+<Annotation Id="41" Type="token" StartNode="31" EndNode="37">
+<Feature>
+  <Name className="java.lang.String">morphology</Name>
+  <Value className="java.lang.String">Vmeo</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">lemma</Name>
+  <Value className="java.lang.String">додати</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">pos</Name>
+  <Value className="java.lang.String">V</Value>
+</Feature>
+</Annotation>
+<Annotation Id="46" Type="token" StartNode="201" EndNode="204">
+</Annotation>
+<Annotation Id="47" Type="token" StartNode="205" EndNode="219">
+</Annotation>
+<Annotation Id="44" Type="token" StartNode="192" EndNode="196">
+</Annotation>
+<Annotation Id="45" Type="token" StartNode="197" EndNode="200">
+</Annotation>
+<Annotation Id="50" Type="token" StartNode="188" EndNode="191">
+<Feature>
+  <Name className="java.lang.String">morphology</Name>
+  <Value className="java.lang.String">Ccs</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">lemma</Name>
+  <Value className="java.lang.String">але</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">pos</Name>
+  <Value className="java.lang.String">C</Value>
+</Feature>
+</Annotation>
+<Annotation Id="49" Type="token" StartNode="179" EndNode="185">
+<Feature>
+  <Name className="java.lang.String">morphology</Name>
+  <Value className="java.lang.String">Ncmsan</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">lemma</Name>
+  <Value className="java.lang.String">туалет</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">pos</Name>
+  <Value className="java.lang.String">N</Value>
 </Feature>
 </Annotation>
 </AnnotationSet>
