@@ -1,0 +1,26 @@
+Drozdovska Marta
+Chapter 7.ex 7
+import nltk
+from nltk.corpus import conll2000
+grammar="NP:{<DT>?<JJ>*<NN>}"   # this chunk grammar consisting of rules that indicate how sentences should be chunked
+cp=nltk.RegexParser(grammar)# we create a chunk parser and test it
+test_sents = conll2000.chunked_sents('test.txt'[:100], chunk_types=['NP'])
+print cp.evaluate(test_sents)
+sentences='I have  bought a cap'
+sentence=sentence.split()
+tagged=nltk.pos_tag(sentense)
+result=cp.parse(tagged)
+print result
+tagged=nltk.pos_tag(sentense)
+result=cp.parse(tagged)
+print result
+chunkscore = nltk.chunk.ChunkScore()
+chunkscore.score(test_sents,result)
+for chunk in chunkscore.incorrect():
+    print chunk
+    for chunk in chunkscore.missed():
+        print chunk
+        
+
+
+

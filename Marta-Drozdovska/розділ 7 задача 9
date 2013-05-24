@@ -1,0 +1,19 @@
+Drozdovska Marta Chapter 7 ex 9
+import nltk
+def ie_preprocess(document):
+    sentences=nltk.sent_tokenize(document)  # sentence segmenter
+        sentences=[nltk.word_tokenize(sent) for sent in sentences] # word tokenizer
+        sentence=[nltk.pos_tag(sent)for sent in sentences] # part-of-speech tagger
+        document= she told a secret on purpuse
+        print ie_preprocess(document)
+        grammar = r """
+
+         NP: {<DT|JJ|NN.*>+}           # Chunk sequences of DT, JJ, NN
+         PP: {<IN><NP>}                # Chunk prepositions followed by NP
+         VP: {<VB.*><NP|PP|CLAUSE>+$}  # Chunk verbs and their arguments
+         CLAUSE: {<NP><VP>}            # Chunk NP, VP
+         sentence=[('She','PRP'),('told','VB'),('a','DT'),('secret','NN'),('on','IN'),
+         'purpuse','NN'     # create sentence with POS tags
+         cp = nltk.RegexpParser(grammar)
+         +result = cp.parse(sentence)
+         print result  # print result
