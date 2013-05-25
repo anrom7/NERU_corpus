@@ -4,12 +4,12 @@
 
 <GateDocumentFeatures>
 <Feature>
-  <Name className="java.lang.String">MimeType</Name>
-  <Value className="java.lang.String">text/plain</Value>
-</Feature>
-<Feature>
   <Name className="java.lang.String">gate.SourceURL</Name>
   <Value className="java.lang.String">file:/D:/Documents/Комп'ютерна%20лінгвістика/NERU_MED/Відгуки%20і%20стаття/Khymych_08_МС%20АНІКО_19022013.txt</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">MimeType</Name>
+  <Value className="java.lang.String">text/plain</Value>
 </Feature>
 <Feature>
   <Name className="java.lang.String">docNewLineType</Name>
@@ -19,7 +19,7 @@
 <!-- The document content area with serialized nodes -->
 
 <TextWithNodes><Node id="0" />Відповідь<Node id="9" /> <Node id="10" />від<Node id="13" /> <Node id="14" />МЦ<Node id="16" /> <Node id="17" />АНІКО<Node id="22" /> · <Node id="25" />Вівторок<Node id="33" />, <Node id="35" />лютого<Node id="41" /> <Node id="42" />19<Node id="44" /> <Node id="45" />2013<Node id="49" />, <Node id="51" />04:15<Node id="56" /> · Приховати · #1&#xd;
-Щоб знати як допомогти Вашій проблемі , необхідно визначити причину <Node id="143" />недостатності<Node id="156" /> <Node id="157" />ваги<Node id="161" />. <Node id="163" />Адже<Node id="167" /> <Node id="168" />недостатня<Node id="178" /> <Node id="179" />вага<Node id="183" /> <Node id="184" />може<Node id="188" /> <Node id="189" />бути<Node id="193" /> як <Node id="197" />при<Node id="200" /> <Node id="201" />різних<Node id="207" /> <Node id="208" />захворюваннях<Node id="221" /> <Node id="222" />ШКТ<Node id="225" /> (<Node id="227" />виразкова<Node id="236" /> <Node id="237" />хвороба<Node id="244" />, <Node id="246" />хронічний<Node id="255" /> <Node id="256" />панкреатит<Node id="266" />, <Node id="268" />ентеріт<Node id="275" /> <Node id="276" />та<Node id="278" /> <Node id="279" />ін.<Node id="282" />), так і <Node id="291" />при<Node id="294" /> <Node id="295" />інших<Node id="300" /> <Node id="301" />соматичних<Node id="311" /> <Node id="312" />та<Node id="314" /> <Node id="315" />психічних<Node id="324" /> <Node id="325" />захворюваннях<Node id="338" />. Отже, Вам необхідно пройти всебічне обстеження. Будемо раді Вам допомогти!<Node id="414" /></TextWithNodes>
+Щоб знати як допомогти Вашій проблемі , необхідно визначити причину <Node id="143" />недостатності<Node id="156" /> <Node id="157" />ваги<Node id="161" />. <Node id="163" />Адже<Node id="167" /> <Node id="168" />недостатня<Node id="178" /> <Node id="179" />вага<Node id="183" /> <Node id="184" />може<Node id="188" /> <Node id="189" />бути<Node id="193" /> як <Node id="197" />при<Node id="200" /> <Node id="201" />різних<Node id="207" /> <Node id="208" />захворюваннях<Node id="221" /> <Node id="222" />ШКТ<Node id="225" /> (<Node id="227" />виразкова<Node id="236" /> <Node id="237" />хвороба<Node id="244" />, <Node id="246" />хронічний<Node id="255" /> <Node id="256" />панкреатит<Node id="266" />, <Node id="268" />ентеріт<Node id="275" /> <Node id="276" />та<Node id="278" /> <Node id="279" />ін.<Node id="282" />), так і <Node id="291" />при<Node id="294" /> <Node id="295" />інших<Node id="300" /> <Node id="301" />соматичних<Node id="311" /> <Node id="312" />та<Node id="314" /> <Node id="315" />психічних<Node id="324" /> <Node id="325" />захворюваннях<Node id="338" />. Отже, Вам <Node id="350" />необхідно<Node id="359" /> <Node id="360" />пройти<Node id="366" /> <Node id="367" />всебічне<Node id="375" /> <Node id="376" />обстеження<Node id="386" />. Будемо раді Вам допомогти!<Node id="414" /></TextWithNodes>
 <!-- The default annotation set -->
 
 <AnnotationSet>
@@ -243,6 +243,8 @@
   <Value className="java.lang.String">A</Value>
 </Feature>
 </Annotation>
+<Annotation Id="47" Type="treatment" StartNode="367" EndNode="386">
+</Annotation>
 <Annotation Id="44" Type="token" StartNode="325" EndNode="338">
 </Annotation>
 <Annotation Id="45" Type="token" StartNode="291" EndNode="294">
@@ -258,6 +260,38 @@
   <Name className="java.lang.String">pos</Name>
   <Value className="java.lang.String">S</Value>
 </Feature>
+</Annotation>
+<Annotation Id="51" Type="token" StartNode="360" EndNode="366">
+<Feature>
+  <Name className="java.lang.String">morphology</Name>
+  <Value className="java.lang.String">Vmen</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">lemma</Name>
+  <Value className="java.lang.String">пройти</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">pos</Name>
+  <Value className="java.lang.String">V</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50" Type="token" StartNode="350" EndNode="359">
+<Feature>
+  <Name className="java.lang.String">morphology</Name>
+  <Value className="java.lang.String">R</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">lemma</Name>
+  <Value className="java.lang.String">необхідно</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">pos</Name>
+  <Value className="java.lang.String">R</Value>
+</Feature>
+</Annotation>
+<Annotation Id="49" Type="token" StartNode="376" EndNode="386">
+</Annotation>
+<Annotation Id="48" Type="token" StartNode="367" EndNode="375">
 </Annotation>
 </AnnotationSet>
 
