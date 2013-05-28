@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='utf-8'?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+<Feature>
+  <Name className="java.lang.String">MimeType</Name>
+  <Value className="java.lang.String">text/plain</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">gate.SourceURL</Name>
+  <Value className="java.lang.String">file:/C:/downloads/Розрахункова/Ira/Ira_02_a-romanuk_27012011.txt</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">docNewLineType</Name>
+  <Value className="java.lang.String">CRLF</Value>
+</Feature>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0" />a-romanuk&#xd;<Node id="10" />
+<Node id="11" />&#xd;
+<Node id="13" />неспокій&#xd;
+<Node id="23" />&#xd;
+<Node id="25" />Додано<Node id="31" />: <Node id="33" />27.01.2011<Node id="43" /> <Node id="44" />16:27&#xd;<Node id="50" />
+<Node id="51" />&#xd;
+<Node id="53" />Доброго дня! Я часто відчуваю неспокій, часто приходиться переживати через проблеми на&#xd;
+роботі. Не могли б ви порадити якісь заспокійливі препарати нешкідливі і що не викликають&#xd;
+звикання. Наперед дякую.&#xd;
+<Node id="258" /></TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+<Annotation Id="4" Type="person" StartNode="0" EndNode="10">
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">nickname</Value>
+</Feature>
+</Annotation>
+<Annotation Id="5" Type="token" StartNode="25" EndNode="31">
+<Feature>
+  <Name className="java.lang.String">morphology</Name>
+  <Value className="java.lang.String">Vmeo</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">lemma</Name>
+  <Value className="java.lang.String">Додавати</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">pos</Name>
+  <Value className="java.lang.String">V</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6" Type="time" StartNode="33" EndNode="43">
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">date</Value>
+</Feature>
+</Annotation>
+<Annotation Id="7" Type="time" StartNode="44" EndNode="50">
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">time</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Original markups">
+<Annotation Id="0" Type="paragraph" StartNode="0" EndNode="11">
+</Annotation>
+<Annotation Id="1" Type="paragraph" StartNode="13" EndNode="23">
+</Annotation>
+<Annotation Id="2" Type="paragraph" StartNode="25" EndNode="51">
+</Annotation>
+<Annotation Id="3" Type="paragraph" StartNode="53" EndNode="258">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>
